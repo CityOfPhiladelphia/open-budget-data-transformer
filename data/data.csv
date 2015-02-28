@@ -346,32 +346,32 @@ Fiscal Year,Fund,Department,Class ID,Class,Total
 2014,Water Fund,Water,500,"Contributions, Indemnities, Refds, Taxes",6036096.78
 2014,Water Fund,Water,800,Payments to Other Funds,75661238.52
 2014,Water Residual Fund,Water,800,Payments to Other Funds,853959.87
-2014,Aviation Fund,,100,Personal Services,39305764.71
-2014,Aviation Fund,,200,Purchase of Services,74763013.79
-2014,Aviation Fund,,300,Materials and Supplies,7450202.65
-2014,Aviation Fund,,400,Equipment,1017866.90
-2014,Aviation Fund,,500,"Contributions, Indemnities, Refds, Taxes",1108774.10
-2014,Aviation Fund,,800,Payments to Other Funds,7186824.00
-2014,Aviation Fund,,200,Purchase of Services,2673504.44
-2014,Aviation Fund,,100,Personal Services,54807840.96
-2014,Aviation Fund,,100,Personal Services,6723164.38
-2014,Aviation Fund,,200,Purchase of Services,15000.00
-2014,Aviation Fund,,300,Materials and Supplies,124904.38
-2014,Aviation Fund,,100,Personal Services,1227573.00
-2014,Aviation Fund,,200,Purchase of Services,550070.70
-2014,Aviation Fund,,300,Materials and Supplies,1416916.65
-2014,Aviation Fund,,400,Equipment,247803.62
-2014,Aviation Fund,,100,Personal Services,1392178.28
-2014,Aviation Fund,,200,Purchase of Services,432394.66
-2014,Aviation Fund,,100,Personal Services,171170.00
-2014,Aviation Fund,,100,Personal Services,230386.44
-2014,Aviation Fund,,200,Purchase of Services,5041674.25
-2014,Aviation Fund,,400,Equipment,714430.43
-2014,Aviation Fund,,100,Personal Services,14568287.01
-2014,Aviation Fund,,200,Purchase of Services,77500.00
-2014,Aviation Fund,,300,Materials and Supplies,77500.00
-2014,Aviation Fund,,200,Purchase of Services,23074549.45
-2014,Aviation Fund,,700,Debt Service,125407013.95
+2014,Aviation Fund,Commerce,100,Personal Services,39305764.71
+2014,Aviation Fund,Commerce,200,Purchase of Services,74763013.79
+2014,Aviation Fund,Commerce,300,Materials and Supplies,7450202.65
+2014,Aviation Fund,Commerce,400,Equipment,1017866.90
+2014,Aviation Fund,Commerce,500,"Contributions, Indemnities, Refds, Taxes",1108774.10
+2014,Aviation Fund,Commerce,800,Payments to Other Funds,7186824.00
+2014,Aviation Fund,Finance,200,Purchase of Services,2673504.44
+2014,Aviation Fund,Finance - Employee Benefits,100,Personal Services,54807840.96
+2014,Aviation Fund,Fire,100,Personal Services,6723164.38
+2014,Aviation Fund,Fire,200,Purchase of Services,15000.00
+2014,Aviation Fund,Fire,300,Materials and Supplies,124904.38
+2014,Aviation Fund,Fleet Management,100,Personal Services,1227573.00
+2014,Aviation Fund,Fleet Management,200,Purchase of Services,550070.70
+2014,Aviation Fund,Fleet Management,300,Materials and Supplies,1416916.65
+2014,Aviation Fund,Fleet Management,400,Equipment,247803.62
+2014,Aviation Fund,Law,100,Personal Services,1392178.28
+2014,Aviation Fund,Law,200,Purchase of Services,432394.66
+2014,Aviation Fund,"Mayor's Office of Transportation & Utilities",100,Personal Services,171170.00
+2014,Aviation Fund,Office of Innovation and Technology,100,Personal Services,230386.44
+2014,Aviation Fund,Office of Innovation and Technology,200,Purchase of Services,5041674.25
+2014,Aviation Fund,Office of Innovation and Technology,400,Equipment,714430.43
+2014,Aviation Fund,Police,100,Personal Services,14568287.01
+2014,Aviation Fund,Police,200,Purchase of Services,77500.00
+2014,Aviation Fund,Police,300,Materials and Supplies,77500.00
+2014,Aviation Fund,Public Property,200,Purchase of Services,23074549.45
+2014,Aviation Fund,Sinking Fund Commission (Debt Service),700,Debt Service,125407013.95
 2014,Acute Care Hospital Assessment Fund,Finance - Employee Benefits,100,Personal Services,333168.00
 2014,Acute Care Hospital Assessment Fund,Public Health,100,Personal Services,3219812.11
 2014,Acute Care Hospital Assessment Fund,Public Health,200,Purchase of Services,152404374.54
