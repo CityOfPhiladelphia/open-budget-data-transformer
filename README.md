@@ -5,7 +5,7 @@ Parses the giant `FY16 Budget Trends.xlsx` spreadsheet the Budget Office uses in
 Map the excel table ranges into `config.js` (include the header row, but don't include the row at the bottom with totals)
 
 ## Usage
-Put the `.xlsx` file in the `data` directory (there's already one there) and make sure `transform.js` points to the write filename (it already does)
+Put the `.xlsx` file in the `data` directory (there's already one there) and make sure `transform.js` points to the right filename (it already does)
 ```bash
 $ node transform.js
 ```
