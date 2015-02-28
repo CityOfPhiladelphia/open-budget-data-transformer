@@ -1,6 +1,11 @@
 # Open Budget Trends Parser
 Parses the giant `FY16 Budget Trends.xlsx` spreadsheet the Budget Office uses into a CSV format with one record for every year-fund-department-class for use in visualizations
 
+## Installation
+```bash
+$ npm install
+```
+
 ## Configuration
 Map the excel table ranges into `config.js` (include the header row, but don't include the row at the bottom with totals)
 
