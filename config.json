@@ -6,6 +6,26 @@
 	},
 	{
 		"fiscalYear": "2014",
+		"fund": "County Liquid Fuels Tax Fund",
+		"range": "AE80:AO152"
+	},
+	{
+		"fiscalYear": "2014",
+		"fund": "Special Gasoline Tax Fund",
+		"range": "AS80:BC152"
+	},
+	{
+		"fiscalYear": "2014",
+		"fund": "Health Choices Behavioral Health Fund",
+		"range": "BG80:BQ152"
+	},
+	{
+		"fiscalYear": "2014",
+		"fund": "Hotel Room Rental Tax Fund",
+		"range": "BU80:CE152"
+	},
+	{
+		"fiscalYear": "2014",
 		"fund": "Grants Revenue Fund",
 		"range": "CI80:CS152"
 	},
