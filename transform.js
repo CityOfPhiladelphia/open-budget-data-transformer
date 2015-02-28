@@ -27,7 +27,7 @@ config.forEach(function(table) {
 					'Department': dept.Department,
 					'Class ID': key.substr(6),
 					'Class': classes[key.substr(6)] || '',
-					'Total': dept[key].replace(/,/g, '')
+					'Total': dept[key].replace(/,/g, '').replace('(', '-').replace(')', '')
 				});
 			}
 		}
