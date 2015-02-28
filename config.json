@@ -1,0 +1,52 @@
+[
+	{
+		"fiscalYear": "2014",
+		"fund": "General Fund",
+		"range": "A80:L152"
+	},
+	{
+		"fiscalYear": "2014",
+		"fund": "Grants Revenue Fund",
+		"range": "CI80:CS152"
+	},
+	{
+		"fiscalYear": "2014",
+		"fund": "Community Development Fund",
+		"range": "CW80:DG152"
+	},
+	{
+		"fiscalYear": "2014",
+		"fund": "Car Rental Tax Fund",
+		"range": "DK80:DU152"
+	},
+	{
+		"fiscalYear": "2014",
+		"fund": "Housing Trust Fund",
+		"range": "DY80:EI152"
+	},
+	{
+		"fiscalYear": "2014",
+		"fund": "Water Fund",
+		"range": "EM80:EW152"
+	},
+	{
+		"fiscalYear": "2014",
+		"fund": "Water Residual Fund",
+		"range": "FA80:FK152"
+	},
+	{
+		"fiscalYear": "2014",
+		"fund": "Aviation Fund",
+		"range": "FP80:FY152"
+	},
+	{
+		"fiscalYear": "2014",
+		"fund": "Acute Care Hospital Assessment Fund",
+		"range": "GC80:GM152"
+	},
+	{
+		"fiscalYear": "2014",
+		"fund": "Undistributed Pension Funds",
+		"range": "GQ80:HA152"
+	}
+]
