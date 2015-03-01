@@ -1,75 +1,5 @@
 [
 	{
-		"fiscalYear": "2014",
-		"fund": "General Fund",
-		"range": "A80:L152"
-	},
-	{
-		"fiscalYear": "2014",
-		"fund": "County Liquid Fuels Tax Fund",
-		"range": "AE80:AO152"
-	},
-	{
-		"fiscalYear": "2014",
-		"fund": "Special Gasoline Tax Fund",
-		"range": "AS80:BC152"
-	},
-	{
-		"fiscalYear": "2014",
-		"fund": "Health Choices Behavioral Health Fund",
-		"range": "BG80:BQ152"
-	},
-	{
-		"fiscalYear": "2014",
-		"fund": "Hotel Room Rental Tax Fund",
-		"range": "BU80:CE152"
-	},
-	{
-		"fiscalYear": "2014",
-		"fund": "Grants Revenue Fund",
-		"range": "CI80:CS152"
-	},
-	{
-		"fiscalYear": "2014",
-		"fund": "Community Development Fund",
-		"range": "CW80:DG152"
-	},
-	{
-		"fiscalYear": "2014",
-		"fund": "Car Rental Tax Fund",
-		"range": "DK80:DU152"
-	},
-	{
-		"fiscalYear": "2014",
-		"fund": "Housing Trust Fund",
-		"range": "DY80:EI152"
-	},
-	{
-		"fiscalYear": "2014",
-		"fund": "Water Fund",
-		"range": "EM80:EW152"
-	},
-	{
-		"fiscalYear": "2014",
-		"fund": "Water Residual Fund",
-		"range": "FA80:FK152"
-	},
-	{
-		"fiscalYear": "2014",
-		"fund": "Aviation Fund",
-		"range": "FO80:FY152"
-	},
-	{
-		"fiscalYear": "2014",
-		"fund": "Acute Care Hospital Assessment Fund",
-		"range": "GC80:GM152"
-	},
-	{
-		"fiscalYear": "2014",
-		"fund": "Undistributed Pension Funds",
-		"range": "GQ80:HA152"
-	},
-	{
 		"fiscalYear": "2015",
 		"fund": "General Fund",
 		"range": "A157:L229"
@@ -138,6 +68,75 @@
 		"fiscalYear": "2015",
 		"fund": "Undistributed Pension Funds",
 		"range": "GQ157:HA229"
+	},
+	{
+		"fiscalYear": "2016",
+		"fund": "General Fund",
+		"range": "A311:L384"
+	},
+	{
+		"fiscalYear": "2016",
+		"fund": "County Liquid Fuels Tax Fund",
+		"range": "AE311:AO384"
+	},
+	{
+		"fiscalYear": "2016",
+		"fund": "Special Gasoline Tax Fund",
+		"range": "AS311:BC384"
+	},
+	{
+		"fiscalYear": "2016",
+		"fund": "Health Choices Behavioral Health Fund",
+		"range": "BG311:BQ384"
+	},
+	{
+		"fiscalYear": "2016",
+		"fund": "Hotel Room Rental Tax Fund",
+		"range": "BU311:CE384"
+	},
+	{
+		"fiscalYear": "2016",
+		"fund": "Grants Revenue Fund",
+		"range": "CI311:CS384"
+	},
+	{
+		"fiscalYear": "2016",
+		"fund": "Community Development Fund",
+		"range": "CW311:DG384"
+	},
+	{
+		"fiscalYear": "2016",
+		"fund": "Car Rental Tax Fund",
+		"range": "DK311:DU384"
+	},
+	{
+		"fiscalYear": "2016",
+		"fund": "Housing Trust Fund",
+		"range": "DY311:EI384"
+	},
+	{
+		"fiscalYear": "2016",
+		"fund": "Water Fund",
+		"range": "EM311:EW384"
+	},
+	{
+		"fiscalYear": "2016",
+		"fund": "Water Residual Fund",
+		"range": "FA311:FK384"
+	},
+	{
+		"fiscalYear": "2016",
+		"fund": "Aviation Fund",
+		"range": "FO311:FY384"
+	},
+	{
+		"fiscalYear": "2016",
+		"fund": "Acute Care Hospital Assessment Fund",
+		"range": "GC311:GM384"
+	},
+	{
+		"fiscalYear": "2016",
+		"fund": "Undistributed Pension Funds",
+		"range": "GQ311:HA384"
 	}
-
 ]
