@@ -353,11 +353,6 @@ Fiscal Year,Fund,Department,Class ID,Class,Total
 2015,Acute Care Hospital Assessment Fund,Revenue,100,Personal Services,30000.00
 2015,Acute Care Hospital Assessment Fund,Revenue,200,Purchase of Services,5000.00
 2015,Acute Care Hospital Assessment Fund,Revenue,300,Materials and Supplies,10000.00
-2015,Undistributed Pension Funds,Pensions & Retirement,100,Personal Services,7058000.00
-2015,Undistributed Pension Funds,Pensions & Retirement,200,Purchase of Services,5093667.00
-2015,Undistributed Pension Funds,Pensions & Retirement,300,Materials and Supplies,125000.00
-2015,Undistributed Pension Funds,Pensions & Retirement,400,Equipment,13000.00
-2015,Undistributed Pension Funds,Pensions & Retirement,800,Payments to Other Funds,125000.00
 2016,General Fund,Art Museum,500,"Contributions, Indemnities, Refunds, Taxes",2550000.00
 2016,General Fund,Atwater Kent Museum,100,Personal Services,243498.00
 2016,General Fund,Atwater Kent Museum,500,"Contributions, Indemnities, Refunds, Taxes",50000.00
@@ -718,8 +713,3 @@ Fiscal Year,Fund,Department,Class ID,Class,Total
 2016,Acute Care Hospital Assessment Fund,Revenue,100,Personal Services,30000.00
 2016,Acute Care Hospital Assessment Fund,Revenue,200,Purchase of Services,5000.00
 2016,Acute Care Hospital Assessment Fund,Revenue,300,Materials and Supplies,10000.00
-2016,Undistributed Pension Funds,Pensions & Retirement,100,Personal Services,7170000.00
-2016,Undistributed Pension Funds,Pensions & Retirement,200,Purchase of Services,2538000.00
-2016,Undistributed Pension Funds,Pensions & Retirement,300,Materials and Supplies,125000.00
-2016,Undistributed Pension Funds,Pensions & Retirement,400,Equipment,13000.00
-2016,Undistributed Pension Funds,Pensions & Retirement,800,Payments to Other Funds,125000.00
