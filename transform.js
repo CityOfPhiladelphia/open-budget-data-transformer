@@ -9,7 +9,7 @@ var inputFile = './data/FY16 Budget Trends.xlsx',
 	outputFile = './data/data.csv';
 
 var workbook = xlsx.readFile(inputFile),
-	sheet = workbook.Sheets[workbook.SheetNames[0]]
+	sheet = workbook.Sheets[workbook.SheetNames[11]]
 	records = [];
 
 config.forEach(function(table) {
