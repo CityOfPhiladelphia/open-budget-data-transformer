@@ -556,7 +556,7 @@ Fiscal Year,Fund,Department,Class ID,Class,Total
 2016,Grants Revenue Fund,District Attorney,200,Purchase of Services,1124880.00
 2016,Grants Revenue Fund,District Attorney,300,Materials and Supplies,26000.00
 2016,Grants Revenue Fund,District Attorney,400,Equipment,84462.00
-2016,Grants Revenue Fund,Finance - Provision for Other Grants,900,Advances & Other Misc Payments,203800802.00
+2016,Grants Revenue Fund,Finance - Provision for Other Grants,900,Advances & Other Misc Payments,203800721.00
 2016,Grants Revenue Fund,Fire,100,Personal Services,9491996.00
 2016,Grants Revenue Fund,Fire,200,Purchase of Services,1388014.00
 2016,Grants Revenue Fund,Fire,300,Materials and Supplies,223348.00
@@ -572,7 +572,7 @@ Fiscal Year,Fund,Department,Class ID,Class,Total
 2016,Grants Revenue Fund,Human Services,100,Personal Services,116949046.00
 2016,Grants Revenue Fund,Human Services,200,Purchase of Services,451172464.00
 2016,Grants Revenue Fund,Human Services,300,Materials and Supplies,1337197.00
-2016,Grants Revenue Fund,Human Services,400,Equipment,1370266.00
+2016,Grants Revenue Fund,Human Services,400,Equipment,1370347.00
 2016,Grants Revenue Fund,Licenses and Inspections,200,Purchase of Services,4500000.00
 2016,Grants Revenue Fund,"Managing Director's Office",100,Personal Services,1864474.00
 2016,Grants Revenue Fund,"Managing Director's Office",200,Purchase of Services,4021103.00
@@ -711,5 +711,5 @@ Fiscal Year,Fund,Department,Class ID,Class,Total
 2016,Acute Care Hospital Assessment Fund,Public Health,400,Equipment,60000.00
 2016,Acute Care Hospital Assessment Fund,Public Health,800,Payments to Other Funds,2000000.00
 2016,Acute Care Hospital Assessment Fund,Revenue,100,Personal Services,30000.00
-2016,Acute Care Hospital Assessment Fund,Revenue,200,Purchase of Services,5000.00
-2016,Acute Care Hospital Assessment Fund,Revenue,300,Materials and Supplies,10000.00
+2016,Acute Care Hospital Assessment Fund,Revenue,300,Materials and Supplies,5000.00
+2016,Acute Care Hospital Assessment Fund,Revenue,400,Equipment,10000.00
