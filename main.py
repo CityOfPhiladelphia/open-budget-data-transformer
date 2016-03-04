@@ -1,11 +1,14 @@
+from csv import writer
+
 from openpyxl import load_workbook
 
 from classes import CLASSES
 
-FILE_NAME = './input/Obligation History.xlsx'
+INPUT_FILE_PATH = './input/Obligation History.xlsx'
+OUTPUT_FILE_PATH = './output/FY2017-proposed.csv'
 SHEET_NAME = 'Sheet1'
 
-workbook = load_workbook(FILE_NAME, read_only=True, data_only=True)
+workbook = load_workbook(INPUT_FILE_PATH, read_only=True, data_only=True)
 sheet = workbook.get_sheet_by_name(SHEET_NAME)
 rows = list(sheet.rows)
 
@@ -33,6 +36,7 @@ rows = rows[:first_row_to_remove_index]
 
 # Convert "department sections" into database-friendly rows
 new_rows = [['Department', 'Class ID', 'Class', 'Total']]
+
 current_dept = ''
 for row in rows:
   label = row[0]
@@ -47,9 +51,12 @@ for row in rows:
     current_dept = ''
   else:
     # Some departments span multiple lines
-    current_dept = ' '.join([current_dept.strip(), label.strip()])
+    if current_dept:
+      current_dept = current_dept + ' ' + label.strip()
+    else:
+      current_dept = label.strip()
 
-for row in new_rows:
-  print row
-  
-# TODO: Check office of arts & culture (merged cells)
+with open(OUTPUT_FILE_PATH, 'wb') as f:
+  writer(f).writerows(new_rows)
+
+print('Wrote {0} rows to {1}'.format(len(new_rows), OUTPUT_FILE_PATH))
