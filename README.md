@@ -14,3 +14,9 @@ and activate it via `. venv/bin/activate`
 python general_fund.py
 python other_funds.py
 ```
+
+# Testing
+To test the output, run:
+```sh
+nosetests
+```
