@@ -11,5 +11,6 @@ and activate it via `. venv/bin/activate`
 
 # Usage
 ```sh
-python main.py
+python general_fund.py
+python other_funds.py
 ```
