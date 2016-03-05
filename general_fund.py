@@ -5,7 +5,7 @@ from openpyxl import load_workbook
 from classes import CLASSES
 
 INPUT_FILE_PATH = './input/Obligation History.xlsx'
-OUTPUT_FILE_PATH = './output/FY2017-proposed.csv'
+OUTPUT_FILE_PATH = './output/general.csv'
 SHEET_NAME = 'Sheet1'
 
 workbook = load_workbook(INPUT_FILE_PATH, read_only=True, data_only=True)
@@ -28,7 +28,7 @@ rows = [[row[0]] + [row[5]] for row in rows]
 rows = [[cell.value for cell in row] for row in rows]
 
 # Remove empty rows
-rows = [row for row in rows if any(row)]# and row[0] != 'Total']
+rows = [row for row in rows if any(row)]
 
 # Remove rows from "Total, General Fund" and after
 first_row_to_remove_index = index_where(rows, 0, 'Total, General Fund')
