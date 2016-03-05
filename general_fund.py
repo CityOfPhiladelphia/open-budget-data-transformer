@@ -5,7 +5,7 @@ from openpyxl import load_workbook
 from constants import CLASS_MATCHES
 
 INPUT_FILE_PATH = './input/Obligation History.xlsx'
-OUTPUT_FILE_PATH = './output/general.csv'
+OUTPUT_FILE_PATH = './output/general-fund.csv'
 SHEET_NAME = 'Sheet1'
 
 workbook = load_workbook(INPUT_FILE_PATH, read_only=True, data_only=True)

@@ -1,4 +1,2 @@
 venv
 *.pyc
-output
-!output/FY2017-proposed.csv
