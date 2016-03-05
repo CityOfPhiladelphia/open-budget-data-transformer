@@ -4,61 +4,73 @@ from xlrd import open_workbook
 
 FUNDS = [
   {
+    'name': 'County Liquid Fuels Tax Fund',
     'input': './input/04-CountyLiq.XLS',
     'output': './output/county-liquid.csv',
     'sheet': 'A',
   },
   {
+    'name': 'Special Gasoline Tax Fund',
     'input': './input/05-SpecGas.XLS',
     'output': './output/spec-gas.csv',
     'sheet': 'A',
   },
   {
+    'name': 'Health Choices Behavioral Health Fund',
     'input': './input/06-HealthCh.XLS',
     'output': './output/health-ch.csv',
     'sheet': 'A',
   },
   {
+    'name': 'Hotel Room Rental Tax Fund',
     'input': './input/07-Hotel.XLS',
     'output': './output/hotel.csv',
     'sheet': 'A',
   },
   {
+    'name': 'Grants Revenue Fund',
     'input': './input/08-Grants.XLS',
     'output': './output/grants.csv',
     'sheet': 'A',
   },
   {
+    'name': 'Aviation Fund',
     'input': './input/09-Aviation.XLS',
     'output': './output/aviation.csv',
     'sheet': 'A',
   },
   {
+    'name': 'Community Development Fund',
     'input': './input/10-CommDev.XLS',
     'output': './output/comm-dev.csv',
     'sheet': 'A',
   },
   {
+    'name': 'Car Rental Tax Fund',
     'input': './input/11-CarRental.XLS',
     'output': './output/car-rental.csv',
     'sheet': 'A',
   },
   {
+    'name': 'Housing Trust Fund',
     'input': './input/12-HousingTrust.XLS',
     'output': './output/housing-trust.csv',
     'sheet': 'A',
   },
   {
+    'name': 'Acute Care Hospital Assessment Fund',
     'input': './input/14-AcuteCareHospAssess.XLS',
     'output': './output/acute-care-hosp-assess.csv',
     'sheet': 'A',
   },
   {
+    'name': 'Pension Fund',
     'input': './input/390-Pension.XLS',
     'output': './output/pension.csv',
     'sheet': 'A',
   },
   {
+    'name': 'Water Residual Fund',
     'input': './input/690-Residual.XLS',
     'output': './output/residual.csv',
     'sheet': 'A',
@@ -129,6 +141,10 @@ for fund in FUNDS:
       new_rows = new_rows + construct_dept_rows(current_dept, row)
     elif not label.startswith('FY16') and not label.startswith('INCREASE') and not label.startswith('TOTAL'):
       current_dept = label
+
+  # Add year and fund columns to each row
+  new_rows[0] = ['Fiscal Year', 'Fund'] + new_rows[0]
+  new_rows = [new_rows[0]] + [['2017', fund['name']] + row for row in new_rows[1:]]
 
   with open(fund['output'], 'wb') as f:
     writer(f).writerows(new_rows)

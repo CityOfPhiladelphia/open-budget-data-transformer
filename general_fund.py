@@ -56,6 +56,10 @@ for row in rows:
     else:
       current_dept = label.strip()
 
+# Add year and fund columns to each row
+new_rows[0] = ['Fiscal Year', 'Fund'] + new_rows[0]
+new_rows = [new_rows[0]] + [['2017', 'General Fund'] + row for row in new_rows[1:]]
+
 with open(OUTPUT_FILE_PATH, 'wb') as f:
   writer(f).writerows(new_rows)
 
