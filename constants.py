@@ -5,7 +5,7 @@ CLASS_NAMES = {
   '500': 'Contributions, Indemnities, Refunds, Taxes',
   '700': 'Debt Service',
   '800': 'Payments to Other Funds',
-  '900': 'Advances & Miscellaneous Payments',
+  '900': 'Advances & Other Misc Payments',
 }
 
 CLASS_MATCHES = {
