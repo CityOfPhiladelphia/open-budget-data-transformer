@@ -1,50 +1,50 @@
-CLASS_MATCHES = {
-  'Personal Services': {
-    'id': 100,
-    'name': 'Personal Services',
-  },
-  'Pers. Svcs.-Emp.Benefits': {
-    'id': 100,
-    'name': 'Personal Services',
-  },
-  'Purchase of Services': {
-    'id': 200,
-    'name': 'Purchase of Services',
-  },
-  'Materials, Supplies & Equip.': {
-    'id': 300,
-    'name': 'Materials, Supplies & Equip.',
-  },
-  'Contrib., Indemnities & Taxes': {
-    'id': 500,
-    'name': 'Contrib., Indemnities & Taxes',
-  },
-  'Debt Service': {
-    'id': 700,
-    'name': 'Debt Service',
-  },
-  'Payments to Other Funds': {
-    'id': 800,
-    'name': 'Payments to Other Funds',
-  },
-  'Advances & Miscellaneous Payments': {
-    'id': 900,
-    'name': 'Advances & Miscellaneous Payments',
-  },
-  'Advances and Other Misc. Payments': {
-    'id': 900,
-    'name': 'Advances & Miscellaneous Payments',
-  }
-}
-
 CLASS_NAMES = {
   '100': 'Personal Services',
   '200': 'Purchase of Services',
   '300': 'Materials, Supplies & Equip.',
-  '500': 'Contrib., Indemnities & Taxes',
+  '500': 'Contributions, Indemnities, Refunds, Taxes',
   '700': 'Debt Service',
   '800': 'Payments to Other Funds',
   '900': 'Advances & Miscellaneous Payments',
+}
+
+CLASS_MATCHES = {
+  'Personal Services': {
+    'id': 100,
+    'name': CLASS_NAMES['100'],
+  },
+  'Pers. Svcs.-Emp.Benefits': {
+    'id': 100,
+    'name': CLASS_NAMES['100'],
+  },
+  'Purchase of Services': {
+    'id': 200,
+    'name': CLASS_NAMES['200'],
+  },
+  'Materials, Supplies & Equip.': {
+    'id': 300,
+    'name': CLASS_NAMES['300'],
+  },
+  'Contrib., Indemnities & Taxes': {
+    'id': 500,
+    'name': CLASS_NAMES['500'],
+  },
+  'Debt Service': {
+    'id': 700,
+    'name': CLASS_NAMES['700'],
+  },
+  'Payments to Other Funds': {
+    'id': 800,
+    'name': CLASS_NAMES['800'],
+  },
+  'Advances & Miscellaneous Payments': {
+    'id': 900,
+    'name': CLASS_NAMES['900'],
+  },
+  'Advances and Other Misc. Payments': {
+    'id': 900,
+    'name': CLASS_NAMES['900'],
+  }
 }
 
 FUNDS = [
