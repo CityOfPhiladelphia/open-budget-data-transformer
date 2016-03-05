@@ -2,7 +2,7 @@ from csv import writer
 
 from openpyxl import load_workbook
 
-from classes import CLASSES
+from constants import CLASS_MATCHES
 
 INPUT_FILE_PATH = './input/Obligation History.xlsx'
 OUTPUT_FILE_PATH = './output/general.csv'
@@ -42,7 +42,7 @@ for row in rows:
   label = row[0]
   total = row[1]
 
-  class_match = CLASSES.get(label)
+  class_match = CLASS_MATCHES.get(label)
   if class_match:
     # If it's a class, add a row to the new_rows array
     new_rows.append([current_dept, class_match['id'], class_match['name'], total])
