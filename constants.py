@@ -1,7 +1,7 @@
 CLASS_NAMES = {
   '100': 'Personal Services',
   '200': 'Purchase of Services',
-  '300': 'Materials, Supplies & Equip.',
+  '300': 'Materials, Supplies & Equipment',
   '500': 'Contributions, Indemnities, Refunds, Taxes',
   '700': 'Debt Service',
   '800': 'Payments to Other Funds',
