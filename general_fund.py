@@ -3,7 +3,9 @@ from csv import writer
 from openpyxl import load_workbook
 
 from constants import CLASS_MATCHES
+from clean_departments import CleanDepartments
 
+DEPARTMENTS_FILE_PATH = './departments.yml'
 INPUT_FILE_PATH = './input/Obligation History.xlsx'
 OUTPUT_FILE_PATH = './output/general-fund.csv'
 SHEET_NAME = 'Sheet1'
@@ -17,6 +19,9 @@ def index_where(rows, column_index, needle):
     if rows[column_index] and row[column_index] == needle:
       return row_index
   return -1
+
+# Load departments and their matches
+departments = CleanDepartments(DEPARTMENTS_FILE_PATH)
 
 # Remove first 9 rows (sheet title)
 rows = rows[9:]
@@ -45,7 +50,8 @@ for row in rows:
   class_match = CLASS_MATCHES.get(label)
   if class_match:
     # If it's a class, add a row to the new_rows array
-    new_rows.append([current_dept, class_match['id'], class_match['name'], total])
+    clean_dept = departments.clean(current_dept)
+    new_rows.append([clean_dept, class_match['id'], class_match['name'], total])
   elif label == 'Total':
     # When 'Total' row is reached, reset current_dept
     current_dept = ''
