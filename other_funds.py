@@ -45,6 +45,10 @@ for fund in FUNDS:
 
   # Remove empty rows
   rows = [row for row in rows if any(row)]
+  
+  # Remove rows from "TOTAL XX FUND" and after
+  total_row_index = index_where_starts_with(rows, 0, 'TOTAL')
+  rows = rows[:total_row_index]
 
   # Convert list of lists to list of dicts
   keys = rows[0]
