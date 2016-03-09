@@ -77,6 +77,9 @@ for fund in FUNDS:
     elif not label.startswith('FY16') and not label.startswith('INCREASE') and not label.startswith('TOTAL'):
       current_dept = departments.clean(label)
 
+# Sort rows for idempotency
+new_rows.sort()
+
 with open(OUTPUT_FILE_NAME, 'wb') as f:
   writer(f).writerows(new_rows)
 

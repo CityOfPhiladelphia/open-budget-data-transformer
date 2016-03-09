@@ -66,6 +66,9 @@ for row in rows:
 new_rows[0] = ['Fiscal Year', 'Fund'] + new_rows[0]
 new_rows = [new_rows[0]] + [['2017', 'General Fund'] + row for row in new_rows[1:]]
 
+# Sort rows for idempotency
+new_rows.sort()
+
 with open(OUTPUT_FILE_PATH, 'wb') as f:
   writer(f).writerows(new_rows)
 
