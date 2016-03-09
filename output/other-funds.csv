@@ -1,175 +1,135 @@
-Fiscal Year,Fund,Department,Class ID,Class,Total
-2017,County Liquid Fuels Tax Fund,Streets,100,Personal Services,3734000.0
-2017,County Liquid Fuels Tax Fund,Streets,200,Purchase of Services,747330.0
-2017,County Liquid Fuels Tax Fund,Streets,800,Payments to Other Funds,18670.0
-2017,County Liquid Fuels Tax Fund,Streets,100,Personal Services,3734000.0
-2017,County Liquid Fuels Tax Fund,Streets,200,Purchase of Services,747330.0
-2017,County Liquid Fuels Tax Fund,Streets,800,Payments to Other Funds,18670.0
-2017,Special Gasoline Tax Fund,Streets,100,Personal Services,4057500.0
-2017,Special Gasoline Tax Fund,Streets,300,"Materials, Supplies & Equipment",13102165.0
-2017,Special Gasoline Tax Fund,Streets,200,Purchase of Services,16590335.0
-2017,Special Gasoline Tax Fund,Streets,800,Payments to Other Funds,20000.0
-2017,Special Gasoline Tax Fund,Finance - Emp. Benefits,100,Personal Services,1000000.0
-2017,Special Gasoline Tax Fund,Finance - Emp. Benefits,100,Personal Services,5057500.0
-2017,Special Gasoline Tax Fund,Finance - Emp. Benefits,300,"Materials, Supplies & Equipment",13102165.0
-2017,Special Gasoline Tax Fund,Finance - Emp. Benefits,200,Purchase of Services,16590335.0
-2017,Special Gasoline Tax Fund,Finance - Emp. Benefits,800,Payments to Other Funds,20000.0
-2017,Health Choices Behavioral Health Fund,Office of Bh/Mr Services,300,"Materials, Supplies & Equipment",50000.0
-2017,Health Choices Behavioral Health Fund,Office of Bh/Mr Services,200,Purchase of Services,1300350000.0
-2017,Health Choices Behavioral Health Fund,Office of Bh/Mr Services,800,Payments to Other Funds,1600000.0
-2017,Health Choices Behavioral Health Fund,Office of Bh/Mr Services,300,"Materials, Supplies & Equipment",50000.0
-2017,Health Choices Behavioral Health Fund,Office of Bh/Mr Services,200,Purchase of Services,1300350000.0
-2017,Health Choices Behavioral Health Fund,Office of Bh/Mr Services,800,Payments to Other Funds,1600000.0
-2017,Hotel Room Rental Tax Fund,City Rep/Commerce,500,"Contributions, Indemnities, Refunds, Taxes",63954000.0
-2017,Hotel Room Rental Tax Fund,City Rep/Commerce,500,"Contributions, Indemnities, Refunds, Taxes",63954000.0
-2017,Grants Revenue Fund,Oit,100,Personal Services,605300.0
-2017,Grants Revenue Fund,Oit,300,"Materials, Supplies & Equipment",10450.0
-2017,Grants Revenue Fund,Oit,200,Purchase of Services,834939.0
-2017,Grants Revenue Fund,Oit,800,Payments to Other Funds,43005648.0
-2017,Grants Revenue Fund,Mayor's Office,100,Personal Services,1021541.0
-2017,Grants Revenue Fund,Mayor's Office,300,"Materials, Supplies & Equipment",5120.0
-2017,Grants Revenue Fund,Mayor's Office,200,Purchase of Services,8929.0
-2017,Grants Revenue Fund,Office of Housing,200,Purchase of Services,116180000.0
-2017,Grants Revenue Fund,M.O.C.S.,100,Personal Services,3102912.0
-2017,Grants Revenue Fund,M.O.C.S.,300,"Materials, Supplies & Equipment",58465.0
-2017,Grants Revenue Fund,M.O.C.S.,200,Purchase of Services,12979913.0
-2017,Grants Revenue Fund,Managing Director,100,Personal Services,2518877.0
-2017,Grants Revenue Fund,Managing Director,300,"Materials, Supplies & Equipment",242926.0
-2017,Grants Revenue Fund,Managing Director,200,Purchase of Services,5862479.0
-2017,Grants Revenue Fund,Police,100,Personal Services,6193806.0
-2017,Grants Revenue Fund,Police,300,"Materials, Supplies & Equipment",10889084.0
-2017,Grants Revenue Fund,Police,200,Purchase of Services,3832048.0
-2017,Grants Revenue Fund,Streets,100,Personal Services,1035000.0
-2017,Grants Revenue Fund,Streets,300,"Materials, Supplies & Equipment",4604000.0
-2017,Grants Revenue Fund,Streets,200,Purchase of Services,19111000.0
-2017,Grants Revenue Fund,Fire,100,Personal Services,15584447.0
-2017,Grants Revenue Fund,Fire,300,"Materials, Supplies & Equipment",934732.0
-2017,Grants Revenue Fund,Fire,200,Purchase of Services,6300019.0
-2017,Grants Revenue Fund,Health,100,Personal Services,15472454.0
-2017,Grants Revenue Fund,Health,300,"Materials, Supplies & Equipment",2229209.0
-2017,Grants Revenue Fund,Health,200,Purchase of Services,65216029.0
-2017,Grants Revenue Fund,Health,800,Payments to Other Funds,771376.0
-2017,Grants Revenue Fund,Office of Bh/Mr Services,100,Personal Services,23935379.0
-2017,Grants Revenue Fund,Office of Bh/Mr Services,300,"Materials, Supplies & Equipment",290000.0
-2017,Grants Revenue Fund,Office of Bh/Mr Services,200,Purchase of Services,237182673.0
-2017,Grants Revenue Fund,Office of Bh/Mr Services,800,Payments to Other Funds,79010.0
-2017,Grants Revenue Fund,Parks & Recreation,100,Personal Services,3664199.0
-2017,Grants Revenue Fund,Parks & Recreation,300,"Materials, Supplies & Equipment",6846240.0
-2017,Grants Revenue Fund,Parks & Recreation,200,Purchase of Services,1627045.0
-2017,Grants Revenue Fund,Parks & Recreation,500,"Contributions, Indemnities, Refunds, Taxes",100000.0
-2017,Grants Revenue Fund,Human Services,100,Personal Services,119978926.0
-2017,Grants Revenue Fund,Human Services,300,"Materials, Supplies & Equipment",1833876.0
-2017,Grants Revenue Fund,Human Services,200,Purchase of Services,446146244.0
-2017,Grants Revenue Fund,Prisons,200,Purchase of Services,30000.0
-2017,Grants Revenue Fund,O.S.H.,100,Personal Services,610701.0
-2017,Grants Revenue Fund,O.S.H.,300,"Materials, Supplies & Equipment",1000000.0
-2017,Grants Revenue Fund,O.S.H.,200,Purchase of Services,45842016.0
-2017,Grants Revenue Fund,Licenses & Inspections,200,Purchase of Services,4500000.0
-2017,Grants Revenue Fund,Finance - Prov. For Other Grants,900,Advances & Other Misc Payments,203800585.0
-2017,Grants Revenue Fund,Revenue,200,Purchase of Services,21425000.0
-2017,Grants Revenue Fund,Commerce,100,Personal Services,49814.0
-2017,Grants Revenue Fund,Commerce,200,Purchase of Services,10292701.0
-2017,Grants Revenue Fund,Off of Sustainability,100,Personal Services,40000.0
-2017,Grants Revenue Fund,City Planning Comm,100,Personal Services,123204.0
-2017,Grants Revenue Fund,City Planning Comm,200,Purchase of Services,355144.0
-2017,Grants Revenue Fund,City Planning Comm,800,Payments to Other Funds,400.0
-2017,Grants Revenue Fund,Free Library,100,Personal Services,1152961.0
-2017,Grants Revenue Fund,Free Library,300,"Materials, Supplies & Equipment",3378378.0
-2017,Grants Revenue Fund,Free Library,200,Purchase of Services,3739590.0
-2017,Grants Revenue Fund,Auditing,300,"Materials, Supplies & Equipment",249999.0
-2017,Grants Revenue Fund,District Attorney,100,Personal Services,14949628.0
-2017,Grants Revenue Fund,District Attorney,300,"Materials, Supplies & Equipment",61550.0
-2017,Grants Revenue Fund,District Attorney,200,Purchase of Services,1020850.0
-2017,Grants Revenue Fund,City Commissioners,100,Personal Services,100000.0
-2017,Grants Revenue Fund,City Commissioners,300,"Materials, Supplies & Equipment",200000.0
-2017,Grants Revenue Fund,City Commissioners,200,Purchase of Services,600000.0
-2017,Grants Revenue Fund,First Judicial District,100,Personal Services,41669189.0
-2017,Grants Revenue Fund,First Judicial District,300,"Materials, Supplies & Equipment",536595.0
-2017,Grants Revenue Fund,First Judicial District,200,Purchase of Services,5404400.0
-2017,Grants Revenue Fund,First Judicial District,100,Personal Services,251808338.0
-2017,Grants Revenue Fund,First Judicial District,300,"Materials, Supplies & Equipment",33370624.0
-2017,Grants Revenue Fund,First Judicial District,200,Purchase of Services,1008491019.0
-2017,Grants Revenue Fund,First Judicial District,500,"Contributions, Indemnities, Refunds, Taxes",100000.0
-2017,Grants Revenue Fund,First Judicial District,800,Payments to Other Funds,43856434.0
-2017,Grants Revenue Fund,First Judicial District,900,Advances & Other Misc Payments,203800585.0
-2017,Aviation Fund,Oit,100,Personal Services,257908.0
-2017,Aviation Fund,Oit,300,"Materials, Supplies & Equipment",720000.0
-2017,Aviation Fund,Oit,200,Purchase of Services,9024238.0
-2017,Aviation Fund,Mdo - Office of Fleet Mgmt.,100,Personal Services,1364188.0
-2017,Aviation Fund,Mdo - Office of Fleet Mgmt.,300,"Materials, Supplies & Equipment",1493000.0
-2017,Aviation Fund,Mdo - Office of Fleet Mgmt.,200,Purchase of Services,588000.0
-2017,Aviation Fund,Mdo - Ofm - Vehicle Purch.,300,"Materials, Supplies & Equipment",4800000.0
-2017,Aviation Fund,Police,100,Personal Services,15666636.0
-2017,Aviation Fund,Police,300,"Materials, Supplies & Equipment",93000.0
-2017,Aviation Fund,Police,200,Purchase of Services,77500.0
+2017,Acute Care Hospital Assessment Fund,Finance,100,Personal Services,75000.0
+2017,Acute Care Hospital Assessment Fund,Finance - Employee Benefits,100,Personal Services,268264.0
+2017,Acute Care Hospital Assessment Fund,Public Health,100,Personal Services,3992653.0
+2017,Acute Care Hospital Assessment Fund,Public Health,300,"Materials, Supplies & Equipment",81000.0
+2017,Acute Care Hospital Assessment Fund,Public Health,200,Purchase of Services,5174083.0
+2017,Acute Care Hospital Assessment Fund,Public Health,200,Purchase of Services,149000000.0
+2017,Acute Care Hospital Assessment Fund,Public Health,800,Payments to Other Funds,1500000.0
+2017,Acute Care Hospital Assessment Fund,Revenue,100,Personal Services,30000.0
+2017,Acute Care Hospital Assessment Fund,Revenue,300,"Materials, Supplies & Equipment",15000.0
+2017,Aviation Fund,City Representative,100,Personal Services,47716649.0
+2017,Aviation Fund,City Representative,300,"Materials, Supplies & Equipment",13896000.0
+2017,Aviation Fund,City Representative,200,Purchase of Services,103125441.0
+2017,Aviation Fund,City Representative,500,"Contributions, Indemnities, Refunds, Taxes",4205000.0
+2017,Aviation Fund,City Representative,800,Payments to Other Funds,24625000.0
+2017,Aviation Fund,Finance,200,Purchase of Services,4146000.0
+2017,Aviation Fund,Finance - Employee Benefits,100,Personal Services,59194271.0
+2017,Aviation Fund,Finance - Indemnities,500,"Contributions, Indemnities, Refunds, Taxes",2512000.0
 2017,Aviation Fund,Fire,100,Personal Services,6563366.0
 2017,Aviation Fund,Fire,300,"Materials, Supplies & Equipment",125000.0
 2017,Aviation Fund,Fire,200,Purchase of Services,15000.0
 2017,Aviation Fund,Fire,800,Payments to Other Funds,23000.0
-2017,Aviation Fund,Public Property,200,Purchase of Services,26900000.0
-2017,Aviation Fund,Finance,200,Purchase of Services,4146000.0
-2017,Aviation Fund,Finance - Emp. Benefits,100,Personal Services,59194271.0
-2017,Aviation Fund,Finance - Indemnities,500,"Contributions, Indemnities, Refunds, Taxes",2512000.0
-2017,Aviation Fund,Sinking Fund Comm,700,Debt Service,139626331.0
-2017,Aviation Fund,City Rep/Commerce,100,Personal Services,47716649.0
-2017,Aviation Fund,City Rep/Commerce,300,"Materials, Supplies & Equipment",13896000.0
-2017,Aviation Fund,City Rep/Commerce,200,Purchase of Services,103125441.0
-2017,Aviation Fund,City Rep/Commerce,500,"Contributions, Indemnities, Refunds, Taxes",4205000.0
-2017,Aviation Fund,City Rep/Commerce,800,Payments to Other Funds,24625000.0
+2017,Aviation Fund,Fleet Management,100,Personal Services,1364188.0
+2017,Aviation Fund,Fleet Management,300,"Materials, Supplies & Equipment",1493000.0
+2017,Aviation Fund,Fleet Management,300,"Materials, Supplies & Equipment",4800000.0
+2017,Aviation Fund,Fleet Management,200,Purchase of Services,588000.0
 2017,Aviation Fund,Law,100,Personal Services,1563803.0
 2017,Aviation Fund,Law,300,"Materials, Supplies & Equipment",24357.0
 2017,Aviation Fund,Law,200,Purchase of Services,432439.0
-2017,Aviation Fund,Off of Sustainability,100,Personal Services,63873.0
-2017,Aviation Fund,Off of Sustainability,200,Purchase of Services,30000.0
-2017,Aviation Fund,Off of Sustainability,100,Personal Services,132390694.0
-2017,Aviation Fund,Off of Sustainability,300,"Materials, Supplies & Equipment",21151357.0
-2017,Aviation Fund,Off of Sustainability,200,Purchase of Services,144338618.0
-2017,Aviation Fund,Off of Sustainability,500,"Contributions, Indemnities, Refunds, Taxes",6717000.0
-2017,Aviation Fund,Off of Sustainability,700,Debt Service,139626331.0
-2017,Aviation Fund,Off of Sustainability,800,Payments to Other Funds,24648000.0
-2017,Community Development Fund,Office of Housing,100,Personal Services,4395140.0
-2017,Community Development Fund,Office of Housing,300,"Materials, Supplies & Equipment",271000.0
-2017,Community Development Fund,Office of Housing,200,Purchase of Services,56430419.0
-2017,Community Development Fund,Office of Housing,800,Payments to Other Funds,25000.0
-2017,Community Development Fund,Licenses & Inspections,100,Personal Services,514818.0
-2017,Community Development Fund,Finance - Emp. Benefits,100,Personal Services,4082031.0
-2017,Community Development Fund,Finance - C.D.B.G.,900,Advances & Other Misc Payments,20000000.0
+2017,Aviation Fund,Office of Innovation and Technology,100,Personal Services,257908.0
+2017,Aviation Fund,Office of Innovation and Technology,300,"Materials, Supplies & Equipment",720000.0
+2017,Aviation Fund,Office of Innovation and Technology,200,Purchase of Services,9024238.0
+2017,Aviation Fund,Office of Sustainability,100,Personal Services,63873.0
+2017,Aviation Fund,Office of Sustainability,200,Purchase of Services,30000.0
+2017,Aviation Fund,Police,100,Personal Services,15666636.0
+2017,Aviation Fund,Police,300,"Materials, Supplies & Equipment",93000.0
+2017,Aviation Fund,Police,200,Purchase of Services,77500.0
+2017,Aviation Fund,Public Property,200,Purchase of Services,26900000.0
+2017,Aviation Fund,Sinking Fund Commission (Debt Service),700,Debt Service,139626331.0
+2017,Car Rental Tax Fund,Sinking Fund Commission (Debt Service),200,Purchase of Services,6000000.0
+2017,Community Development Fund,City Planning Commission,100,Personal Services,280000.0
 2017,Community Development Fund,Commerce,100,Personal Services,935454.0
 2017,Community Development Fund,Commerce,300,"Materials, Supplies & Equipment",8000.0
 2017,Community Development Fund,Commerce,200,Purchase of Services,5707501.0
+2017,Community Development Fund,Finance,900,Advances & Other Misc Payments,20000000.0
+2017,Community Development Fund,Finance - Employee Benefits,100,Personal Services,4082031.0
 2017,Community Development Fund,Law,100,Personal Services,154637.0
-2017,Community Development Fund,City Planning,100,Personal Services,280000.0
-2017,Community Development Fund,City Planning,100,Personal Services,10362080.0
-2017,Community Development Fund,City Planning,300,"Materials, Supplies & Equipment",279000.0
-2017,Community Development Fund,City Planning,200,Purchase of Services,62137920.0
-2017,Community Development Fund,City Planning,800,Payments to Other Funds,25000.0
-2017,Community Development Fund,City Planning,900,Advances & Other Misc Payments,20000000.0
-2017,Car Rental Tax Fund,Sinking Fund,200,Purchase of Services,6000000.0
-2017,Car Rental Tax Fund,Sinking Fund,200,Purchase of Services,6000000.0
-2017,Housing Trust Fund,Ohcd,100,Personal Services,1250000.0
-2017,Housing Trust Fund,Ohcd,200,Purchase of Services,22250000.0
-2017,Housing Trust Fund,Ohcd,100,Personal Services,1250000.0
-2017,Housing Trust Fund,Ohcd,200,Purchase of Services,22250000.0
-2017,Acute Care Hospital Assessment Fund,Public Health,100,Personal Services,3992653.0
-2017,Acute Care Hospital Assessment Fund,Public Health,300,"Materials, Supplies & Equipment",81000.0
-2017,Acute Care Hospital Assessment Fund,Public Health,200,Purchase of Services,5174083.0
-2017,Acute Care Hospital Assessment Fund,Public Health,800,Payments to Other Funds,1500000.0
-2017,Acute Care Hospital Assessment Fund,Public Health - State Pmt.,200,Purchase of Services,149000000.0
-2017,Acute Care Hospital Assessment Fund,Finance,100,Personal Services,75000.0
-2017,Acute Care Hospital Assessment Fund,Finance - Emp. Benefits,100,Personal Services,268264.0
-2017,Acute Care Hospital Assessment Fund,Revenue,100,Personal Services,30000.0
-2017,Acute Care Hospital Assessment Fund,Revenue,300,"Materials, Supplies & Equipment",15000.0
-2017,Acute Care Hospital Assessment Fund,Revenue,100,Personal Services,4365917.0
-2017,Acute Care Hospital Assessment Fund,Revenue,300,"Materials, Supplies & Equipment",96000.0
-2017,Acute Care Hospital Assessment Fund,Revenue,200,Purchase of Services,154174083.0
-2017,Acute Care Hospital Assessment Fund,Revenue,800,Payments to Other Funds,1500000.0
-2017,Pension Fund,Board of Pensions,100,Personal Services,7170000.0
-2017,Pension Fund,Board of Pensions,300,"Materials, Supplies & Equipment",138000.0
-2017,Pension Fund,Board of Pensions,200,Purchase of Services,2475000.0
-2017,Pension Fund,Board of Pensions,800,Payments to Other Funds,125000.0
-2017,Pension Fund,Board of Pensions,100,Personal Services,7170000.0
-2017,Pension Fund,Board of Pensions,300,"Materials, Supplies & Equipment",138000.0
-2017,Pension Fund,Board of Pensions,200,Purchase of Services,2475000.0
-2017,Pension Fund,Board of Pensions,800,Payments to Other Funds,125000.0
+2017,Community Development Fund,Licenses and Inspections,100,Personal Services,514818.0
+2017,Community Development Fund,Office of Housing and Community Development,100,Personal Services,4395140.0
+2017,Community Development Fund,Office of Housing and Community Development,300,"Materials, Supplies & Equipment",271000.0
+2017,Community Development Fund,Office of Housing and Community Development,200,Purchase of Services,56430419.0
+2017,Community Development Fund,Office of Housing and Community Development,800,Payments to Other Funds,25000.0
+2017,County Liquid Fuels Tax Fund,Streets,100,Personal Services,3734000.0
+2017,County Liquid Fuels Tax Fund,Streets,200,Purchase of Services,747330.0
+2017,County Liquid Fuels Tax Fund,Streets,800,Payments to Other Funds,18670.0
+2017,Grants Revenue Fund,Auditing,300,"Materials, Supplies & Equipment",249999.0
+2017,Grants Revenue Fund,City Commissioners,100,Personal Services,100000.0
+2017,Grants Revenue Fund,City Commissioners,300,"Materials, Supplies & Equipment",200000.0
+2017,Grants Revenue Fund,City Commissioners,200,Purchase of Services,600000.0
+2017,Grants Revenue Fund,City Planning Commission,100,Personal Services,123204.0
+2017,Grants Revenue Fund,City Planning Commission,200,Purchase of Services,355144.0
+2017,Grants Revenue Fund,City Planning Commission,800,Payments to Other Funds,400.0
+2017,Grants Revenue Fund,Commerce,100,Personal Services,49814.0
+2017,Grants Revenue Fund,Commerce,200,Purchase of Services,10292701.0
+2017,Grants Revenue Fund,District Attorney,100,Personal Services,14949628.0
+2017,Grants Revenue Fund,District Attorney,300,"Materials, Supplies & Equipment",61550.0
+2017,Grants Revenue Fund,District Attorney,200,Purchase of Services,1020850.0
+2017,Grants Revenue Fund,Finance - Provision for Other Grants,900,Advances & Other Misc Payments,203800585.0
+2017,Grants Revenue Fund,Fire,100,Personal Services,15584447.0
+2017,Grants Revenue Fund,Fire,300,"Materials, Supplies & Equipment",934732.0
+2017,Grants Revenue Fund,Fire,200,Purchase of Services,6300019.0
+2017,Grants Revenue Fund,First Judicial District,100,Personal Services,41669189.0
+2017,Grants Revenue Fund,First Judicial District,300,"Materials, Supplies & Equipment",536595.0
+2017,Grants Revenue Fund,First Judicial District,200,Purchase of Services,5404400.0
+2017,Grants Revenue Fund,Free Library,100,Personal Services,1152961.0
+2017,Grants Revenue Fund,Free Library,300,"Materials, Supplies & Equipment",3378378.0
+2017,Grants Revenue Fund,Free Library,200,Purchase of Services,3739590.0
+2017,Grants Revenue Fund,Human Services,100,Personal Services,119978926.0
+2017,Grants Revenue Fund,Human Services,300,"Materials, Supplies & Equipment",1833876.0
+2017,Grants Revenue Fund,Human Services,200,Purchase of Services,446146244.0
+2017,Grants Revenue Fund,Licenses and Inspections,200,Purchase of Services,4500000.0
+2017,Grants Revenue Fund,Managing Director's Office,100,Personal Services,2518877.0
+2017,Grants Revenue Fund,Managing Director's Office,300,"Materials, Supplies & Equipment",242926.0
+2017,Grants Revenue Fund,Managing Director's Office,200,Purchase of Services,5862479.0
+2017,Grants Revenue Fund,Mayor's Office,100,Personal Services,1021541.0
+2017,Grants Revenue Fund,Mayor's Office,300,"Materials, Supplies & Equipment",5120.0
+2017,Grants Revenue Fund,Mayor's Office,200,Purchase of Services,8929.0
+2017,Grants Revenue Fund,Mayor's Office of Community Services (now CEO),100,Personal Services,3102912.0
+2017,Grants Revenue Fund,Mayor's Office of Community Services (now CEO),300,"Materials, Supplies & Equipment",58465.0
+2017,Grants Revenue Fund,Mayor's Office of Community Services (now CEO),200,Purchase of Services,12979913.0
+2017,Grants Revenue Fund,Office of Behavioral Health and Intellectual disAbilities,100,Personal Services,23935379.0
+2017,Grants Revenue Fund,Office of Behavioral Health and Intellectual disAbilities,300,"Materials, Supplies & Equipment",290000.0
+2017,Grants Revenue Fund,Office of Behavioral Health and Intellectual disAbilities,200,Purchase of Services,237182673.0
+2017,Grants Revenue Fund,Office of Behavioral Health and Intellectual disAbilities,800,Payments to Other Funds,79010.0
+2017,Grants Revenue Fund,Office of Housing and Community Development,200,Purchase of Services,116180000.0
+2017,Grants Revenue Fund,Office of Innovation and Technology,100,Personal Services,605300.0
+2017,Grants Revenue Fund,Office of Innovation and Technology,300,"Materials, Supplies & Equipment",10450.0
+2017,Grants Revenue Fund,Office of Innovation and Technology,200,Purchase of Services,834939.0
+2017,Grants Revenue Fund,Office of Innovation and Technology,800,Payments to Other Funds,43005648.0
+2017,Grants Revenue Fund,Office of Supportive Housing,100,Personal Services,610701.0
+2017,Grants Revenue Fund,Office of Supportive Housing,300,"Materials, Supplies & Equipment",1000000.0
+2017,Grants Revenue Fund,Office of Supportive Housing,200,Purchase of Services,45842016.0
+2017,Grants Revenue Fund,Office of Sustainability,100,Personal Services,40000.0
+2017,Grants Revenue Fund,Parks and Recreation,100,Personal Services,3664199.0
+2017,Grants Revenue Fund,Parks and Recreation,300,"Materials, Supplies & Equipment",6846240.0
+2017,Grants Revenue Fund,Parks and Recreation,200,Purchase of Services,1627045.0
+2017,Grants Revenue Fund,Parks and Recreation,500,"Contributions, Indemnities, Refunds, Taxes",100000.0
+2017,Grants Revenue Fund,Police,100,Personal Services,6193806.0
+2017,Grants Revenue Fund,Police,300,"Materials, Supplies & Equipment",10889084.0
+2017,Grants Revenue Fund,Police,200,Purchase of Services,3832048.0
+2017,Grants Revenue Fund,Prisons,200,Purchase of Services,30000.0
+2017,Grants Revenue Fund,Public Health,100,Personal Services,15472454.0
+2017,Grants Revenue Fund,Public Health,300,"Materials, Supplies & Equipment",2229209.0
+2017,Grants Revenue Fund,Public Health,200,Purchase of Services,65216029.0
+2017,Grants Revenue Fund,Public Health,800,Payments to Other Funds,771376.0
+2017,Grants Revenue Fund,Revenue,200,Purchase of Services,21425000.0
+2017,Grants Revenue Fund,Streets,100,Personal Services,1035000.0
+2017,Grants Revenue Fund,Streets,300,"Materials, Supplies & Equipment",4604000.0
+2017,Grants Revenue Fund,Streets,200,Purchase of Services,19111000.0
+2017,Health Choices Behavioral Health Fund,Office of Behavioral Health and Intellectual disAbilities,300,"Materials, Supplies & Equipment",50000.0
+2017,Health Choices Behavioral Health Fund,Office of Behavioral Health and Intellectual disAbilities,200,Purchase of Services,1300350000.0
+2017,Health Choices Behavioral Health Fund,Office of Behavioral Health and Intellectual disAbilities,800,Payments to Other Funds,1600000.0
+2017,Hotel Room Rental Tax Fund,City Representative,500,"Contributions, Indemnities, Refunds, Taxes",63954000.0
+2017,Housing Trust Fund,Office of Housing and Community Development,100,Personal Services,1250000.0
+2017,Housing Trust Fund,Office of Housing and Community Development,200,Purchase of Services,22250000.0
+2017,Pension Fund,Finance,100,Personal Services,7170000.0
+2017,Pension Fund,Finance,300,"Materials, Supplies & Equipment",138000.0
+2017,Pension Fund,Finance,200,Purchase of Services,2475000.0
+2017,Pension Fund,Finance,800,Payments to Other Funds,125000.0
+2017,Special Gasoline Tax Fund,Finance - Employee Benefits,100,Personal Services,1000000.0
+2017,Special Gasoline Tax Fund,Streets,100,Personal Services,4057500.0
+2017,Special Gasoline Tax Fund,Streets,300,"Materials, Supplies & Equipment",13102165.0
+2017,Special Gasoline Tax Fund,Streets,200,Purchase of Services,16590335.0
+2017,Special Gasoline Tax Fund,Streets,800,Payments to Other Funds,20000.0
 2017,Water Residual Fund,Water,800,Payments to Other Funds,34724000.0
-2017,Water Residual Fund,Water,800,Payments to Other Funds,34724000.0
+Fiscal Year,Fund,Department,Class ID,Class,Total
