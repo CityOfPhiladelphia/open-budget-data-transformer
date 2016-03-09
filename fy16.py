@@ -1,7 +1,7 @@
 import csv
-from collections import defaultdict
 
 from clean_departments import CleanDepartments
+from util import aggregate_similar_rows
 
 INPUT_FILE_PATH = './input/FY2016-proposed.csv'
 OUTPUT_FILE_PATH = './output/FY2016-proposed.csv'
@@ -22,15 +22,11 @@ for row in rows:
     row['Class ID'] = '300'
     row['Class'] = 'Materials, Supplies & Equipment'
 
+# Convert list of dicts to list of lists
+list_rows = [[row['Fiscal Year'], row['Fund'], row['Department'], row['Class ID'], row['Class'], row['Total']] for row in rows]
+
 # Group rows by everything but total and aggregate the total (sum)
-grouped_rows = defaultdict(int)
-
-for row in rows:
-  key = (row['Fiscal Year'], row['Fund'], row['Department'], row['Class ID'], row['Class'])
-  grouped_rows[key] += int(float(row['Total']))
-
-# Convert the grouped dict to a list of lists
-new_rows = [list(key) + [total] for key, total in grouped_rows.iteritems()]
+new_rows = aggregate_similar_rows(list_rows, 5)
 
 # Sort rows for idempotency
 new_rows.sort()
