@@ -4,6 +4,7 @@ from xlrd import open_workbook
 
 from constants import FUNDS, CLASS_NAMES
 from clean_departments import CleanDepartments
+from util import aggregate_similar_rows
 
 DEPARTMENTS_FILE_PATH = './departments.yml'
 OUTPUT_FILE_NAME = './output/other-funds.csv'
@@ -76,6 +77,9 @@ for fund in FUNDS:
       new_rows = new_rows + construct_dept_rows(fund['name'], current_dept, row)
     elif not label.startswith('FY16') and not label.startswith('INCREASE') and not label.startswith('TOTAL'):
       current_dept = departments.clean(label)
+
+# Group rows by everything but total and aggregate the total (sum)
+new_rows = aggregate_similar_rows(new_rows, 5)
 
 # Sort rows for idempotency
 new_rows.sort()

@@ -4,6 +4,7 @@ from openpyxl import load_workbook
 
 from constants import CLASS_MATCHES
 from clean_departments import CleanDepartments
+from util import aggregate_similar_rows
 
 DEPARTMENTS_FILE_PATH = './departments.yml'
 INPUT_FILE_PATH = './input/Obligation History.xlsx'
@@ -64,6 +65,9 @@ for row in rows:
 
 # Add year and fund columns to each row
 new_rows = [['2017', 'General Fund'] + row for row in new_rows]
+
+# Group rows by everything but total and aggregate the total (sum)
+new_rows = aggregate_similar_rows(new_rows, 5)
 
 # Sort rows for idempotency
 new_rows.sort()
