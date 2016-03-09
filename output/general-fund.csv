@@ -48,7 +48,6 @@ Fiscal Year,Fund,Department,Class ID,Class,Total
 2017,General Fund,Finance,100,Personal Services,6911556
 2017,General Fund,Finance,200,Purchase of Services,3029912
 2017,General Fund,Finance,300,"Materials, Supplies & Equipment",103109
-2017,General Fund,Finance,500,"Contributions, Indemnities, Refunds, Taxes",0
 2017,General Fund,Finance,500,"Contributions, Indemnities, Refunds, Taxes",2350000
 2017,General Fund,Finance - Community College Subsidy,500,"Contributions, Indemnities, Refunds, Taxes",28909207
 2017,General Fund,Finance - Employee Benefits,100,Personal Services,1229284926
@@ -67,10 +66,8 @@ Fiscal Year,Fund,Department,Class ID,Class,Total
 2017,General Fund,First Judicial District,300,"Materials, Supplies & Equipment",2391868
 2017,General Fund,First Judicial District,500,"Contributions, Indemnities, Refunds, Taxes",0
 2017,General Fund,Fleet Management,100,Personal Services,16613280
-2017,General Fund,Fleet Management,200,Purchase of Services,4500000
-2017,General Fund,Fleet Management,200,Purchase of Services,5104396
-2017,General Fund,Fleet Management,300,"Materials, Supplies & Equipment",8465000
-2017,General Fund,Fleet Management,300,"Materials, Supplies & Equipment",26463211
+2017,General Fund,Fleet Management,200,Purchase of Services,9604396
+2017,General Fund,Fleet Management,300,"Materials, Supplies & Equipment",34928211
 2017,General Fund,Fleet Management,500,"Contributions, Indemnities, Refunds, Taxes",0
 2017,General Fund,Free Library,100,Personal Services,35454254
 2017,General Fund,Free Library,200,Purchase of Services,2324077
@@ -103,8 +100,7 @@ Fiscal Year,Fund,Department,Class ID,Class,Total
 2017,General Fund,Licenses and Inspections,300,"Materials, Supplies & Equipment",1286464
 2017,General Fund,Licenses and Inspections,500,"Contributions, Indemnities, Refunds, Taxes",0
 2017,General Fund,Managing Director's Office,100,Personal Services,18710832
-2017,General Fund,Managing Director's Office,200,Purchase of Services,18920901
-2017,General Fund,Managing Director's Office,200,Purchase of Services,44695131
+2017,General Fund,Managing Director's Office,200,Purchase of Services,63616032
 2017,General Fund,Managing Director's Office,300,"Materials, Supplies & Equipment",665279
 2017,General Fund,Managing Director's Office,500,"Contributions, Indemnities, Refunds, Taxes",0
 2017,General Fund,Mayor - Office of Community Schools & Universal Pre - K,100,Personal Services,1302500
@@ -179,9 +175,7 @@ Fiscal Year,Fund,Department,Class ID,Class,Total
 2017,General Fund,Public Health,500,"Contributions, Indemnities, Refunds, Taxes",0
 2017,General Fund,Public Health,800,Payments to Other Funds,500000
 2017,General Fund,Public Property,100,Personal Services,8318847
-2017,General Fund,Public Property,200,Purchase of Services,20875402
-2017,General Fund,Public Property,200,Purchase of Services,28122008
-2017,General Fund,Public Property,200,Purchase of Services,30656047
+2017,General Fund,Public Property,200,Purchase of Services,79653457
 2017,General Fund,Public Property,300,"Materials, Supplies & Equipment",1338535
 2017,General Fund,Public Property,500,"Contributions, Indemnities, Refunds, Taxes",0
 2017,General Fund,Public Property,800,Payments to Other Funds,23916920
@@ -203,14 +197,10 @@ Fiscal Year,Fund,Department,Class ID,Class,Total
 2017,General Fund,Sheriff,500,"Contributions, Indemnities, Refunds, Taxes",0
 2017,General Fund,Sinking Fund Commission (Debt Service),200,Purchase of Services,123639615
 2017,General Fund,Sinking Fund Commission (Debt Service),700,Debt Service,153950119
-2017,General Fund,Streets,100,Personal Services,22414754
-2017,General Fund,Streets,100,Personal Services,50292850
-2017,General Fund,Streets,200,Purchase of Services,8426338
-2017,General Fund,Streets,200,Purchase of Services,40563117
-2017,General Fund,Streets,300,"Materials, Supplies & Equipment",1608212
-2017,General Fund,Streets,300,"Materials, Supplies & Equipment",2201750
-2017,General Fund,Streets,500,"Contributions, Indemnities, Refunds, Taxes",5000
-2017,General Fund,Streets,500,"Contributions, Indemnities, Refunds, Taxes",48171
+2017,General Fund,Streets,100,Personal Services,72707604
+2017,General Fund,Streets,200,Purchase of Services,48989455
+2017,General Fund,Streets,300,"Materials, Supplies & Equipment",3809962
+2017,General Fund,Streets,500,"Contributions, Indemnities, Refunds, Taxes",53171
 2017,General Fund,Streets,800,Payments to Other Funds,0
 2017,General Fund,Youth Commission,100,Personal Services,0
 2017,General Fund,Youth Commission,200,Purchase of Services,0
