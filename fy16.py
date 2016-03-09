@@ -23,11 +23,11 @@ for row in rows:
     row['Class'] = 'Materials, Supplies & Equipment'
 
 # Group rows by everything but total and aggregate the total (sum)
-grouped_rows = defaultdict(float)
+grouped_rows = defaultdict(int)
 
 for row in rows:
   key = (row['Fiscal Year'], row['Fund'], row['Department'], row['Class ID'], row['Class'])
-  grouped_rows[key] += float(row['Total'])
+  grouped_rows[key] += int(float(row['Total']))
 
 # Convert the grouped dict to a list of lists
 new_rows = [list(key) + [total] for key, total in grouped_rows.iteritems()]

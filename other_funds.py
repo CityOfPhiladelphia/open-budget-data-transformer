@@ -8,8 +8,8 @@ from clean_departments import CleanDepartments
 DEPARTMENTS_FILE_PATH = './departments.yml'
 OUTPUT_FILE_NAME = './output/other-funds.csv'
 
-def float_or_zero(str):
-  if str: return float(str)
+def int_or_zero(str):
+  if str: return int(str)
   else: return 0
 
 def index_where_starts_with(rows, column_index, needle):
@@ -22,10 +22,10 @@ def construct_dept_rows(fund, dept, row):
   dept_rows = []
 
   if row[u'CLASS 100'] or row[u'PENSIONS'] or row[u'OTHER FB']:
-    total_class_100 = float_or_zero(row[u'CLASS 100']) + float_or_zero(row[u'PENSIONS']) + float_or_zero(row[u'OTHER FB'])
+    total_class_100 = int_or_zero(row[u'CLASS 100']) + int_or_zero(row[u'PENSIONS']) + int_or_zero(row[u'OTHER FB'])
     dept_rows.append(['2017', fund, dept, 100, CLASS_NAMES['100'], total_class_100])
   if row[u'CLASS 300'] or row[u'CLASS 400']:
-    total_class_300 = float_or_zero(row[u'CLASS 300']) + float_or_zero(row[u'CLASS 400'])
+    total_class_300 = int_or_zero(row[u'CLASS 300']) + int_or_zero(row[u'CLASS 400'])
     dept_rows.append(['2017', fund, dept, 300, CLASS_NAMES['300'], total_class_300])
 
   for key in ['200', '500', '700', '800', '900']:
