@@ -1,14 +1,24 @@
 from csv import writer
+import re
 
+from yaml import load
 from xlrd import open_workbook
+from titlecase import titlecase
 
 from constants import FUNDS, CLASS_NAMES
 
+DEPARTMENTS_FILE_PATH = './departments.yml'
 OUTPUT_FILE_NAME = './output/other-funds.csv'
 
 def float_or_zero(str):
   if str: return float(str)
   else: return 0
+
+def index_where_starts_with(rows, column_index, needle):
+  for row_index, row in enumerate(rows):
+    if rows[column_index] and row[column_index].startswith(needle):
+      return row_index
+  return -1
 
 def construct_dept_rows(fund, dept, row):
   dept_rows = []
@@ -25,6 +35,34 @@ def construct_dept_rows(fund, dept, row):
       dept_rows.append(['2017', fund, dept, key, CLASS_NAMES[key], row[u'CLASS ' + key]])
 
   return dept_rows
+
+def cleanup_department(dept):
+  dashes_replaced = re.sub(r'(?! )-(?! )', ' - ', dept)
+  title_cased = titlecase(dashes_replaced)
+  match = dept_matches.get(title_cased)
+  if not match: raise KeyError('No match found for {0}'.format(title_cased))
+  return match
+
+def load_department_matches(file_path):
+  dept_matches = {}
+
+  with open(file_path, 'rb') as file:
+    rows = load(file)
+
+    for row in rows:
+      if isinstance(row, dict):
+        # If it's a dict, add a match for the key, and for each of the values
+        for name, variations in row.iteritems(): # only one of these
+          dept_matches[name] = name
+          for variation in variations:
+            dept_matches[variation] = name
+      else:
+        # Otherwise it's just a string; add a match for it
+        dept_matches[row] = row
+
+  return dept_matches
+
+dept_matches = load_department_matches(DEPARTMENTS_FILE_PATH)
 
 new_rows = [['Fiscal Year', 'Fund', 'Department', 'Class ID', 'Class', 'Total']]
 
@@ -64,7 +102,7 @@ for fund in FUNDS:
     if label.startswith('FY17'):
       new_rows = new_rows + construct_dept_rows(fund['name'], current_dept, row)
     elif not label.startswith('FY16') and not label.startswith('INCREASE') and not label.startswith('TOTAL'):
-      current_dept = label
+      current_dept = cleanup_department(label)
 
 with open(OUTPUT_FILE_NAME, 'wb') as f:
   writer(f).writerows(new_rows)
