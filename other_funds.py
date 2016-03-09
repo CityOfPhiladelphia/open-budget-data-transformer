@@ -1,4 +1,4 @@
-from csv import writer
+from csv import writer as csv_writer
 
 from xlrd import open_workbook
 
@@ -37,7 +37,7 @@ def construct_dept_rows(fund, dept, row):
 # Load departments and their matches
 departments = CleanDepartments(DEPARTMENTS_FILE_PATH)
 
-new_rows = [['Fiscal Year', 'Fund', 'Department', 'Class ID', 'Class', 'Total']]
+new_rows = []
 
 for fund in FUNDS:
   workbook = open_workbook(fund['input'])
@@ -80,7 +80,11 @@ for fund in FUNDS:
 # Sort rows for idempotency
 new_rows.sort()
 
+header = ['Fiscal Year', 'Fund', 'Department', 'Class ID', 'Class', 'Total']
+
 with open(OUTPUT_FILE_NAME, 'wb') as f:
-  writer(f).writerows(new_rows)
+  writer = csv_writer(f)
+  writer.writerow(header)
+  writer.writerows(new_rows)
 
 print('Wrote {0} rows to {1}'.format(len(new_rows), OUTPUT_FILE_NAME))

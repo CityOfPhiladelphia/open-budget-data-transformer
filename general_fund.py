@@ -1,4 +1,4 @@
-from csv import writer
+from csv import writer as csv_writer
 
 from openpyxl import load_workbook
 
@@ -40,7 +40,7 @@ first_row_to_remove_index = index_where(rows, 0, 'Total, General Fund')
 rows = rows[:first_row_to_remove_index]
 
 # Convert "department sections" into database-friendly rows
-new_rows = [['Department', 'Class ID', 'Class', 'Total']]
+new_rows = []
 
 current_dept = ''
 for row in rows:
@@ -63,13 +63,16 @@ for row in rows:
       current_dept = label.strip()
 
 # Add year and fund columns to each row
-new_rows[0] = ['Fiscal Year', 'Fund'] + new_rows[0]
-new_rows = [new_rows[0]] + [['2017', 'General Fund'] + row for row in new_rows[1:]]
+new_rows = [['2017', 'General Fund'] + row for row in new_rows]
 
 # Sort rows for idempotency
 new_rows.sort()
 
+header = ['Fiscal Year', 'Fund', 'Department', 'Class ID', 'Class', 'Total']
+
 with open(OUTPUT_FILE_PATH, 'wb') as f:
-  writer(f).writerows(new_rows)
+  writer = csv_writer(f)
+  writer.writerow(header)
+  writer.writerows(new_rows)
 
 print('Wrote {0} rows to {1}'.format(len(new_rows), OUTPUT_FILE_PATH))
