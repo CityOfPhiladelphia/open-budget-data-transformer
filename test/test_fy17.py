@@ -19,4 +19,4 @@ def test_fn():
       yield nose.tools.assert_equals, len(results), 0, 'Found {0} records for {1} expected 0'.format(len(results), test.values())
     else:
       yield nose.tools.assert_equals, len(results), 1, '{0} records for {1}'.format(len(results), test.values())
-      # yield.nose.tools.assert_equals, results[0], test['Total'], 'Incorrect total for {0}'.format(test.values())
+      yield nose.tools.assert_equals, results[0]['Total'], str(test['Total']), 'Incorrect total for {2}'.format(test['Total'], results[0]['Total'], test.values())
