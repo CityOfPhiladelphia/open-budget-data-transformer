@@ -49,6 +49,12 @@ CLASS_MATCHES = {
 
 FUNDS = [
   {
+    'name': 'Water Fund',
+    'input': './input/02-Water.XLS',
+    'output': './output/water.csv',
+    'sheet': 'A',
+  },
+  {
     'name': 'County Liquid Fuels Tax Fund',
     'input': './input/04-CountyLiq.XLS',
     'output': './output/county-liquid.csv',
