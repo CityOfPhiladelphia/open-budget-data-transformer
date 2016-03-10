@@ -10,9 +10,18 @@ and activate it via `. venv/bin/activate`
 3. Install dependencies via `pip install -r requirements.txt`
 
 # Usage
+First, process the general fund file and the other fund files
 ```sh
 python general_fund.py
 python other_funds.py
+```
+Then combine them into one FY17 file:
+```sh
+python combine_fy17.py
+```
+Finally, process the FY16 data:
+```sh
+python fy16.py
 ```
 
 # Testing
