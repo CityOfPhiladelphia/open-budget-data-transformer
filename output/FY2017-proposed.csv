@@ -7,11 +7,11 @@ Fiscal Year,Fund,Department,Class ID,Class,Total
 2017,Acute Care Hospital Assessment Fund,Public Health,800,Payments to Other Funds,1500000
 2017,Acute Care Hospital Assessment Fund,Revenue,100,Personal Services,30000
 2017,Acute Care Hospital Assessment Fund,Revenue,300,"Materials, Supplies & Equipment",15000
-2017,Aviation Fund,City Representative,100,Personal Services,47716649
-2017,Aviation Fund,City Representative,200,Purchase of Services,103125441
-2017,Aviation Fund,City Representative,300,"Materials, Supplies & Equipment",13896000
-2017,Aviation Fund,City Representative,500,"Contributions, Indemnities, Refunds, Taxes",4205000
-2017,Aviation Fund,City Representative,800,Payments to Other Funds,24625000
+2017,Aviation Fund,Commerce,100,Personal Services,47716649
+2017,Aviation Fund,Commerce,200,Purchase of Services,103125441
+2017,Aviation Fund,Commerce,300,"Materials, Supplies & Equipment",13896000
+2017,Aviation Fund,Commerce,500,"Contributions, Indemnities, Refunds, Taxes",4205000
+2017,Aviation Fund,Commerce,800,Payments to Other Funds,24625000
 2017,Aviation Fund,Finance,200,Purchase of Services,4146000
 2017,Aviation Fund,Finance - Employee Benefits,100,Personal Services,59194271
 2017,Aviation Fund,Finance - Indemnities,500,"Contributions, Indemnities, Refunds, Taxes",2512000
@@ -324,7 +324,7 @@ Fiscal Year,Fund,Department,Class ID,Class,Total
 2017,Health Choices Behavioral Health Fund,Office of Behavioral Health and Intellectual disAbilities,200,Purchase of Services,1300350000
 2017,Health Choices Behavioral Health Fund,Office of Behavioral Health and Intellectual disAbilities,300,"Materials, Supplies & Equipment",50000
 2017,Health Choices Behavioral Health Fund,Office of Behavioral Health and Intellectual disAbilities,800,Payments to Other Funds,1600000
-2017,Hotel Room Rental Tax Fund,City Representative,500,"Contributions, Indemnities, Refunds, Taxes",63954000
+2017,Hotel Room Rental Tax Fund,Commerce,500,"Contributions, Indemnities, Refunds, Taxes",63954000
 2017,Housing Trust Fund,Office of Housing and Community Development,100,Personal Services,1250000
 2017,Housing Trust Fund,Office of Housing and Community Development,200,Purchase of Services,22250000
 2017,Pension Fund,Board of Pensions,100,Personal Services,7170000
