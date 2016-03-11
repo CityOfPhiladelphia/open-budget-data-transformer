@@ -41,8 +41,8 @@ Fiscal Year,Fund,Department,Class ID,Class,Total
 2016,Community Development Fund,Commerce,100,Personal Services,935454
 2016,Community Development Fund,Commerce,200,Purchase of Services,8461248
 2016,Community Development Fund,Commerce,300,"Materials, Supplies & Equipment",8000
+2016,Community Development Fund,Finance,900,Advances & Other Misc Payments,20000000
 2016,Community Development Fund,Finance - Employee Benefits,100,Personal Services,4236559
-2016,Community Development Fund,Finance - Provision for Other Grants,900,Advances & Other Misc Payments,20000000
 2016,Community Development Fund,Law,100,Personal Services,154637
 2016,Community Development Fund,Licenses and Inspections,100,Personal Services,514818
 2016,Community Development Fund,Office of Housing and Community Development,100,Personal Services,4632873
@@ -238,7 +238,7 @@ Fiscal Year,Fund,Department,Class ID,Class,Total
 2016,Grants Revenue Fund,District Attorney,100,Personal Services,15475000
 2016,Grants Revenue Fund,District Attorney,200,Purchase of Services,1124880
 2016,Grants Revenue Fund,District Attorney,300,"Materials, Supplies & Equipment",110462
-2016,Grants Revenue Fund,Finance - Provision for Other Grants,900,Advances & Other Misc Payments,203800721
+2016,Grants Revenue Fund,Finance,900,Advances & Other Misc Payments,203800721
 2016,Grants Revenue Fund,Fire,100,Personal Services,9491996
 2016,Grants Revenue Fund,Fire,200,Purchase of Services,1388014
 2016,Grants Revenue Fund,Fire,300,"Materials, Supplies & Equipment",368681
