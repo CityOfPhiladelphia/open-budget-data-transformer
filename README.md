@@ -19,9 +19,13 @@ Then combine them into one FY17 file:
 ```sh
 python combine_fy17.py
 ```
-Finally, process the FY16 data:
+Then process the FY16 data:
 ```sh
 python fy16.py
+```
+Finally, generate the flare JSON for the open budget app:
+```sh
+python flare.py > path/to/budget/app/data.json
 ```
 
 # Testing
