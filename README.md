@@ -29,7 +29,9 @@ python flare.py > path/to/budget/app/data.json
 ```
 
 # Testing
-To test the output, run:
+This tool uses an easily-configurable [list of tests](test/config_fy17.yml) to
+verify the data integrity, essentially automating "spot checking." To test the output
+from the above commands, run:
 ```sh
 nosetests
 ```
