@@ -28,6 +28,13 @@ Finally, generate the flare JSON for the open budget app:
 python flare.py > path/to/budget/app/data.json
 ```
 
+# Production optimization
+From [tpreusse/open-budget wiki](https://github.com/tpreusse/open-budget/wiki/Data-Format#cache-cachejson):
+> For production you can create a cache with pre-processed values and without arbitrary data. 
+> Call `OpenBudget.nodes.createCache()` via your browser console and save the output to your 
+> data directory as `cache.json`. Cache is used whenever `cache_url` is specified in `meta.json`.
+(Ideally this would be implemented in python inside this repo as well, but it is not currently.)
+
 # Testing
 This tool uses an easily-configurable [list of tests](test/config_fy17.yml) to
 verify the data integrity, essentially automating "spot checking." To test the output
