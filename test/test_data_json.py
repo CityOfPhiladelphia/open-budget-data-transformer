@@ -12,17 +12,20 @@ with open(CONFIG_FILE_PATH) as config_file:
 with open(DATA_FILE_PATH) as data_file:
   data_rows = list(json.load(data_file))
 
-# def test_fn():
-#   for test in tests:
-#     results = [row for row in data_rows if all(row[key] == str(value) for key, value in test.items() if key != 'Total')]
-#     if test['Total'] == 0:
-#       yield nose.tools.assert_equals, len(results), 0, 'Found {0} records for {1} expected 0'.format(len(results), test.values())
-#     else:
-#       yield nose.tools.assert_equals, len(results), 1, '{0} records for {1}'.format(len(results), test.values())
-#       yield nose.tools.assert_equals, results[0]['Total'], str(test['Total']), 'Incorrect total for {2}'.format(test['Total'], results[0]['Total'], test.values())
-
-test = {'Fund': 'General Fund', 'Department': 'Board of Ethics', 'Class': 'Purchase of Services', 'Total': 96000}
-
 def test_fn():
-  match = [fund for fund in data_rows if fund['name'] == test['Fund']]
-  print match[0]
+  for test in tests:
+    matches = [
+      class_['gross_cost']['accounts']['2017']
+      for fund in data_rows if fund['name'] == test['Fund']
+      for dept in fund['children'] if dept['name'] == test['Department']
+      for class_ in dept['children'] if class_['name'] == test['Class']
+    ]
+    match_count = len(matches)
+    printable_representation = test.values()
+
+    if test['Total'] == 0:
+      yield nose.tools.ok_, (match_count == 0 or matches[0] == 0), 'Found {0} non-zero records for {1}'.format(match_count, printable_representation)
+    else:
+      yield nose.tools.assert_equals, match_count, 1, '{0} records for {1}'.format(match_count, printable_representation)
+      if match_count:
+        yield nose.tools.assert_equals, matches[0], test['Total'], 'Incorrect total for {0}'.format(printable_representation)
