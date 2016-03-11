@@ -114,12 +114,12 @@ FUNDS = [
     'output': './output/acute-care-hosp-assess.csv',
     'sheet': 'A',
   },
-  {
-    'name': 'Pension Fund',
-    'input': './input/390-Pension.XLS',
-    'output': './output/pension.csv',
-    'sheet': 'A',
-  },
+  # { # Removed per #5
+  #   'name': 'Pension Fund',
+  #   'input': './input/390-Pension.XLS',
+  #   'output': './output/pension.csv',
+  #   'sheet': 'A',
+  # },
   {
     'name': 'Water Residual Fund',
     'input': './input/690-Residual.XLS',
