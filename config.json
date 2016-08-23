@@ -1,0 +1,132 @@
+[
+	{
+		"fiscalYear": "2015",
+		"fund": "General Fund",
+		"range": "A234:L306"
+	},
+	{
+		"fiscalYear": "2015",
+		"fund": "County Liquid Fuels Tax Fund",
+		"range": "AT234:BD306"
+	},
+	{
+		"fiscalYear": "2015",
+		"fund": "Special Gasoline Tax Fund",
+		"range": "BH234:BR306"
+	},
+	{
+		"fiscalYear": "2015",
+		"fund": "Health Choices Behavioral Health Fund",
+		"range": "BV234:CF306"
+	},
+	{
+		"fiscalYear": "2015",
+		"fund": "Hotel Room Rental Tax Fund",
+		"range": "CJ234:CT306"
+	},
+	{
+		"fiscalYear": "2015",
+		"fund": "Grants Revenue Fund",
+		"range": "CX234:DH306"
+	},
+	{
+		"fiscalYear": "2015",
+		"fund": "Community Development Fund",
+		"range": "DL234:DV306"
+	},
+	{
+		"fiscalYear": "2015",
+		"fund": "Car Rental Tax Fund",
+		"range": "DZ234:EJ306"
+	},
+	{
+		"fiscalYear": "2015",
+		"fund": "Housing Trust Fund",
+		"range": "EN234:EX306"
+	},
+	{
+		"fiscalYear": "2015",
+		"fund": "Water Fund",
+		"range": "FB234:FL306"
+	},
+	{
+		"fiscalYear": "2015",
+		"fund": "Water Residual Fund",
+		"range": "FP234:FZ306"
+	},
+	{
+		"fiscalYear": "2015",
+		"fund": "Aviation Fund",
+		"range": "GD234:GN306"
+	},
+	{
+		"fiscalYear": "2015",
+		"fund": "Acute Care Hospital Assessment Fund",
+		"range": "GR234:HB306"
+	},
+	{
+		"fiscalYear": "2016",
+		"fund": "General Fund",
+		"range": "A311:L384"
+	},
+	{
+		"fiscalYear": "2016",
+		"fund": "County Liquid Fuels Tax Fund",
+		"range": "AT311:BD384"
+	},
+	{
+		"fiscalYear": "2016",
+		"fund": "Special Gasoline Tax Fund",
+		"range": "BH311:BR384"
+	},
+	{
+		"fiscalYear": "2016",
+		"fund": "Health Choices Behavioral Health Fund",
+		"range": "BV311:CF384"
+	},
+	{
+		"fiscalYear": "2016",
+		"fund": "Hotel Room Rental Tax Fund",
+		"range": "CJ311:CT384"
+	},
+	{
+		"fiscalYear": "2016",
+		"fund": "Grants Revenue Fund",
+		"range": "CX311:DH384"
+	},
+	{
+		"fiscalYear": "2016",
+		"fund": "Community Development Fund",
+		"range": "DL311:DV384"
+	},
+	{
+		"fiscalYear": "2016",
+		"fund": "Car Rental Tax Fund",
+		"range": "DZ311:EJ384"
+	},
+	{
+		"fiscalYear": "2016",
+		"fund": "Housing Trust Fund",
+		"range": "EN311:EX384"
+	},
+	{
+		"fiscalYear": "2016",
+		"fund": "Water Fund",
+		"range": "FB311:FL384"
+	},
+	{
+		"fiscalYear": "2016",
+		"fund": "Water Residual Fund",
+		"range": "FP311:FZ384"
+	},
+	{
+		"fiscalYear": "2016",
+		"fund": "Aviation Fund",
+		"range": "GD311:GN384"
+	},
+	{
+		"fiscalYear": "2016",
+		"fund": "Acute Care Hospital Assessment Fund",
+		"range": "GR311:HB384"
+	}
+]
