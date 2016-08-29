@@ -1,143 +1,143 @@
-Fund: General Fund
-Department: Office of Inspector General
-Class: Personal Services
-Total: 1390611
+- fund: General Fund
+  department: Office of Inspector General
+  class: Personal Services
+  total: 1390611
 
-Fund: General Fund
-Department: Office of Planning and Development
-Class: Materials, Supplies and Equipment
-Total: 60000
+- fund: General Fund
+  department: Office of Planning and Development
+  class: Materials, Supplies and Equipment
+  total: 60000
 
-Fund: General Fund
-Department: Fleet Management
-Class: Purchase of Services
-Total: 5104396
+- fund: General Fund
+  department: Fleet Management
+  class: Purchase of Services
+  total: 5104396
 
-Fund: General Fund
-Department: Public Health
-Class: Payments to Other Funds
-Total: 500000
+- fund: General Fund
+  department: Public Health
+  class: Payments to Other Funds
+  total: 500000
 
-Fund: General Fund
-Department: Parks and Recreation
-Class: Contributions, Indemnities and Taxes
-Total: 2527500
+- fund: General Fund
+  department: Parks and Recreation
+  class: Contributions, Indemnities and Taxes
+  total: 2527500
 
-Fund: General Fund
-Department: Licenses and Inspections
-Class: Purchase of Services
-Total: 11053079
+- fund: General Fund
+  department: Licenses and Inspections
+  class: Purchase of Services
+  total: 11053079
 
-Fund: General Fund
-Department: Licenses and Inspections – Board of Building Standards
-Class: Personal Services
-Total: 75419
+- fund: General Fund
+  department: Licenses and Inspections – Board of Building Standards
+  class: Personal Services
+  total: 75419
 
-Fund: Water Fund
-Department: Fleet Management
-Class: Materials, Supplies and equipment
-Total: 4274640
+- fund: Water Fund
+  department: Fleet Management
+  class: Materials, Supplies and equipment
+  total: 4274640
 
-Fund: Water Fund
-Department: Public Property
-Class: Purchase of Services
-Total: 4042633
+- fund: Water Fund
+  department: Public Property
+  class: Purchase of Services
+  total: 4042633
 
-Fund: Water Fund
-Department: Water Department
-Class: Personal Services
-Total: 120000
+- fund: Water Fund
+  department: Water Department
+  class: Personal Services
+  total: 120000
 
-Fund: Water Residual Fund
-Department: Water
-Class: Payments to Other Funds
-Total: 34724000
+- fund: Water Residual Fund
+  department: Water
+  class: Payments to Other Funds
+  total: 34724000
 
-Fund: County Liquid Fuels Tax
-Department: Streets
-Class: Payments to Other Funds
-Total: 20000
+- fund: County Liquid Fuels Tax
+  department: Streets
+  class: Payments to Other Funds
+  total: 20000
 
-Fund: County Liquid Fuels Tax
-Department: Finance- Fringe Benefits
-Class: Personal Services- Employee Benefits
-Total: 1000000
+- fund: County Liquid Fuels Tax
+  department: Finance- Fringe Benefits
+  class: Personal Services- Employee Benefits
+  total: 1000000
 
-Fund: HealthChoices Behavioral Health Revenue Fund
-Department: Office of Behavioral Health and Intellectual Disability
-Class: Materials, Supplies and Equipment
-Total: 50000
+- fund: HealthChoices Behavioral Health Revenue Fund
+  department: Office of Behavioral Health and Intellectual Disability
+  class: Materials, Supplies and Equipment
+  total: 50000
 
-Fund: Hotel Room Rental Tax Fund
-Department: Commerce
-Class: Contributions, Indemnities and Taxes
-Total: 63954000
+- fund: Hotel Room Rental Tax Fund
+  department: Commerce
+  class: Contributions, Indemnities and Taxes
+  total: 63954000
 
-Fund: Grants Revenue Fund
-Department: Mayor
-Class: Personal Services
-Total: 948946
+- fund: Grants Revenue Fund
+  department: Mayor
+  class: Personal Services
+  total: 948946
 
-Fund: Grants Revenue Fund
-Department: Office of Housing and Community Development
-Class: Purchase of Services
-Total: 116180000
+- fund: Grants Revenue Fund
+  department: Office of Housing and Community Development
+  class: Purchase of Services
+  total: 116180000
 
-Fund: Grants Revenue Fund
-Department: Office of Sustainability
-Class: Personal Services
-Total: 40000
+- fund: Grants Revenue Fund
+  department: Office of Sustainability
+  class: Personal Services
+  total: 40000
 
-Fund: Grants Revenue Fund
-Department: Police
-Class: Materials, Supplies and Equipment
-Total: 10889084
+- fund: Grants Revenue Fund
+  department: Police
+  class: Materials, Supplies and Equipment
+  total: 10889084
 
-Fund: Grants Revenue Fund
-Department: Finance
-Class: Advances and Other Miscellaneous Payment
-Total: 203800585
+- fund: Grants Revenue Fund
+  department: Finance
+  class: Advances and Other Miscellaneous Payment
+  total: 203800585
 
-Fund: Aviation Fund
-Department: Office of Innovation and Technology
-Class: Personal Services
-Total: 257908
+- fund: Aviation Fund
+  department: Office of Innovation and Technology
+  class: Personal Services
+  total: 257908
 
-Fund: Aviation Fund
-Department: Fleet Management
-Class: Materials, Supplies and Equipment
-Total: 1493000
+- fund: Aviation Fund
+  department: Fleet Management
+  class: Materials, Supplies and Equipment
+  total: 1493000
 
-Fund: Aviation Fund
-Department: Finance
-Class: Purchase of Services
-Total: 4146000
+- fund: Aviation Fund
+  department: Finance
+  class: Purchase of Services
+  total: 4146000
 
-Fund: Community Development Fund
-Department: Licenses and Inspections
-Class: Personal Services
-Total: 514818
+- fund: Community Development Fund
+  department: Licenses and Inspections
+  class: Personal Services
+  total: 514818
 
-Fund: Community Development Fund
-Department: Commerce
-Class: Materials, Supplies and Equipment
-Total: 8000
+- fund: Community Development Fund
+  department: Commerce
+  class: Materials, Supplies and Equipment
+  total: 8000
 
-Fund: Car Rental Tax Fund
-Department: Sinking Fund
-Class: Purchase of Services
-Total: 6000000
-Fund: Municipal Pension Fund
-Department: Board of Pensions and Retirement
-Class: Personal Services
-Total: 3750000
+- fund: Car Rental Tax Fund
+  department: Sinking Fund
+  class: Purchase of Services
+  total: 6000000
+- fund: Municipal Pension Fund
+  department: Board of Pensions and Retirement
+  class: Personal Services
+  total: 3750000
 
-Fund: Housing Trust Fund
-Department: Office of Housing and Community Development
-Class: Purchase of Services
-Total: 22250000
+- fund: Housing Trust Fund
+  department: Office of Housing and Community Development
+  class: Purchase of Services
+  total: 22250000
 
-Fund: Acute Care Hospital Fund
-Department: Public Health
-Class: Purchase of Services
-Total: 5174083
+- fund: Acute Care Hospital Fund
+  department: Public Health
+  class: Purchase of Services
+  total: 5174083
