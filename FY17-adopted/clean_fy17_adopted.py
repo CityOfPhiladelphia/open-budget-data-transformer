@@ -1,8 +1,13 @@
+from __future__ import print_function
 import csv
-from sys import stdin, stdout
+from sys import stdin, stdout, stderr
 from re import sub
 
 from titlecase import titlecase
+
+from clean_departments import CleanDepartments
+
+DEPARTMENTS_FILE_PATH = './departments.yml'
 
 field_map = {
   'fiscal_year': 'FY',
@@ -32,19 +37,27 @@ def clean_fund (row):
   return clean_title(fund.replace('FD', 'FUND'))
 
 def clean_department (row):
+  # Load departments and their matches
+  clean_departments = CleanDepartments(DEPARTMENTS_FILE_PATH)
   department = row[field_map['department']]
   subclass_id = int(row[field_map['subclass_id']])
   fund = row[field_map['fund']]
 
   # Classes 186 through 198 should be in a distinct department
   if (subclass_id >= 186 and subclass_id <= 198 and 'GRANTS REVENUE' not in fund):
-    return 'Finance - Employee Benefits'
+    new_dept = 'Finance - Employee Benefits'
   elif ('OFFICE OF TECHNOLOGY' in department):
-    return 'Office of Innovation & Technology'
+    new_dept = 'Office of Innovation & Technology'
   else:
-    return clean_title(department)
+    new_dept = clean_title(department)
 
-  return department
+  try:
+    clean_dept = clean_departments.clean(new_dept)
+  except KeyError as e:
+    print(e, file=stderr)
+    return ''
+
+  return clean_dept
 
 def clean_class_id (row):
   return row[field_map['class_id']]
