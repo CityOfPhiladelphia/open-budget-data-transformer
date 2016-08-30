@@ -35,4 +35,4 @@ def test_fn():
       yield nose.tools.assert_equals, len(results), 1, '{0} records for {1}'.format(len(results), test.values())
       if results:
           results_total = results[0]['total']
-          yield nose.tools.assert_equals, results_total, str(test['total']), 'Incorrect total for {}: expected {}, got {}'.format(test.values(), test['total'], results_total)
+          yield nose.tools.assert_equals, results_total, test['total'], 'Incorrect total for {}: expected {}, got {}'.format(test.values(), test['total'], results_total)

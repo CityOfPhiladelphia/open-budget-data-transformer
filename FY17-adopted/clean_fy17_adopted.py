@@ -67,6 +67,8 @@ def clean_class (row):
   _class = row[field_map['class']]
   if (class_id == 5):
     return 'Contributions, Indemnities, Refunds, Taxes'
+  elif (class_id == 3):
+    return 'Materials, Supplies & Equipment'
   else:
     return clean_title(_class)
 

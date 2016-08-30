@@ -1,50 +1,50 @@
-- fund: General Fund
-  department: Office of Inspector General
+- fund: General Operating Fund
+  department: Office of the Inspector General
   class: Personal Services
   total: 1390611
 
-- fund: General Fund
+- fund: General Operating Fund
   department: Office of Planning and Development
-  class: Materials, Supplies and Equipment
+  class: Materials, Supplies & Equipment
   total: 60000
 
-- fund: General Fund
+- fund: General Operating Fund
   department: Fleet Management
   class: Purchase of Services
   total: 5104396
 
-- fund: General Fund
+- fund: General Operating Fund
   department: Public Health
   class: Payments to Other Funds
   total: 500000
 
-- fund: General Fund
+- fund: General Operating Fund
   department: Parks and Recreation
-  class: Contributions, Indemnities and Taxes
+  class: Contributions, Indemnities, Refunds, Taxes
   total: 2527500
 
-- fund: General Fund
+- fund: General Operating Fund
   department: Licenses and Inspections
   class: Purchase of Services
   total: 11053079
 
-- fund: General Fund
-  department: Licenses and Inspections – Board of Building Standards
+- fund: General Operating Fund
+  department: L&I - Board of Building Standards
   class: Personal Services
   total: 75419
 
-- fund: Water Fund
+- fund: Water Operating Fund
   department: Fleet Management
-  class: Materials, Supplies and equipment
+  class: Materials, Supplies & Equipment
   total: 4274640
 
-- fund: Water Fund
+- fund: Water Operating Fund
   department: Public Property
   class: Purchase of Services
   total: 4042633
 
-- fund: Water Fund
-  department: Water Department
+- fund: Water Operating Fund
+  department: Water
   class: Personal Services
   total: 120000
 
@@ -53,28 +53,28 @@
   class: Payments to Other Funds
   total: 34724000
 
-- fund: County Liquid Fuels Tax
+- fund: County Liquid Fuels Tax Fund
   department: Streets
   class: Payments to Other Funds
   total: 20000
 
-- fund: County Liquid Fuels Tax
-  department: Finance- Fringe Benefits
-  class: Personal Services- Employee Benefits
+- fund: County Liquid Fuels Tax Fund
+  department: Finance - Employee Benefits
+  class: Personal Services - Employee Benefits
   total: 1000000
 
-- fund: HealthChoices Behavioral Health Revenue Fund
-  department: Office of Behavioral Health and Intellectual Disability
-  class: Materials, Supplies and Equipment
+- fund: Healthchoices Behavioral Health Fund
+  department: Office of Behavioral Health and Intellectual disAbilities
+  class: Materials, Supplies & Equipment
   total: 50000
 
-- fund: Hotel Room Rental Tax Fund
+- fund: Hotel Tax Fund
   department: Commerce
-  class: Contributions, Indemnities and Taxes
+  class: Contributions, Indemnities, Refunds, Taxes
   total: 63954000
 
 - fund: Grants Revenue Fund
-  department: Mayor
+  department: Mayor's Office
   class: Personal Services
   total: 948946
 
@@ -90,25 +90,25 @@
 
 - fund: Grants Revenue Fund
   department: Police
-  class: Materials, Supplies and Equipment
+  class: Materials, Supplies & Equipment
   total: 10889084
 
 - fund: Grants Revenue Fund
   department: Finance
-  class: Advances and Other Miscellaneous Payment
+  class: Advances & Other Misc Payments
   total: 203800585
 
-- fund: Aviation Fund
+- fund: Airport Operating Fund
   department: Office of Innovation and Technology
   class: Personal Services
   total: 257908
 
-- fund: Aviation Fund
+- fund: Airport Operating Fund
   department: Fleet Management
-  class: Materials, Supplies and Equipment
+  class: Materials, Supplies & Equipment
   total: 1493000
 
-- fund: Aviation Fund
+- fund: Airport Operating Fund
   department: Finance
   class: Purchase of Services
   total: 4146000
@@ -120,15 +120,16 @@
 
 - fund: Community Development Fund
   department: Commerce
-  class: Materials, Supplies and Equipment
+  class: Materials, Supplies & Equipment
   total: 8000
 
 - fund: Car Rental Tax Fund
-  department: Sinking Fund
+  department: Sinking Fund Commission (Debt Service)
   class: Purchase of Services
   total: 6000000
+
 - fund: Municipal Pension Fund
-  department: Board of Pensions and Retirement
+  department: Board of Pensions
   class: Personal Services
   total: 3750000
 
@@ -137,7 +138,7 @@
   class: Purchase of Services
   total: 22250000
 
-- fund: Acute Care Hospital Fund
+- fund: Acute Care Hospital Assessment Fund
   department: Public Health
   class: Purchase of Services
   total: 5174083
