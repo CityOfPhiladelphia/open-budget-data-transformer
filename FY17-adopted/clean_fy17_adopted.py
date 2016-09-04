@@ -68,7 +68,7 @@ def clean_class (row):
   if (class_id == 5):
     return 'Contributions, Indemnities, Refunds, Taxes'
   elif (class_id == 3):
-    return 'Materials, Supplies & Equipment'
+    return 'Materials and Supplies'
   else:
     return clean_title(_class)
 
