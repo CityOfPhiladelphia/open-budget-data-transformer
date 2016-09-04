@@ -34,7 +34,14 @@ def clean_fiscal_year (row):
 
 def clean_fund (row):
   fund = row[field_map['fund']]
-  return clean_title(fund.replace('FD', 'FUND'))
+
+  corrected_fund = fund \
+    .replace('FD', 'FUND') \
+    .replace(' OPERATING', '') \
+    .replace('HEALTHCHOICES', 'HEALTHY CHOICES') \
+    .replace('AIRPORT', 'AVIATION')
+
+  return clean_title(corrected_fund)
 
 def clean_department (row):
   # Load departments and their matches

@@ -1,49 +1,49 @@
-- fund: General Operating Fund
+- fund: General Fund
   department: Office of the Inspector General
   class: Personal Services
   total: 1390611
 
-- fund: General Operating Fund
+- fund: General Fund
   department: Mayor - Office of Planning and Development
   class: Materials, Supplies & Equipment
   total: 60000
 
-- fund: General Operating Fund
+- fund: General Fund
   department: Fleet Management
   class: Purchase of Services
   total: 5104396
 
-- fund: General Operating Fund
+- fund: General Fund
   department: Public Health
   class: Payments to Other Funds
   total: 500000
 
-- fund: General Operating Fund
+- fund: General Fund
   department: Parks and Recreation
   class: Contributions, Indemnities, Refunds, Taxes
   total: 2527500
 
-- fund: General Operating Fund
+- fund: General Fund
   department: Licenses and Inspections
   class: Purchase of Services
   total: 11053079
 
-- fund: General Operating Fund
+- fund: General Fund
   department: L&I - Board of Building Standards
   class: Personal Services
   total: 75419
 
-- fund: Water Operating Fund
+- fund: Water Fund
   department: Fleet Management
   class: Materials, Supplies & Equipment
   total: 4274640
 
-- fund: Water Operating Fund
+- fund: Water Fund
   department: Public Property
   class: Purchase of Services
   total: 4042633
 
-- fund: Water Operating Fund
+- fund: Water Fund
   department: Water
   class: Personal Services
   total: 120000
@@ -98,17 +98,17 @@
   class: Advances & Other Misc Payments
   total: 203800585
 
-- fund: Airport Operating Fund
+- fund: Aviation Fund
   department: Office of Innovation and Technology
   class: Personal Services
   total: 257908
 
-- fund: Airport Operating Fund
+- fund: Aviation Fund
   department: Fleet Management
   class: Materials, Supplies & Equipment
   total: 1493000
 
-- fund: Airport Operating Fund
+- fund: Aviation Fund
   department: Finance
   class: Purchase of Services
   total: 4146000
