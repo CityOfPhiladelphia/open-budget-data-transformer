@@ -44,7 +44,7 @@
   total: 4042633
 
 - fund: Water Fund
-  department: Water
+  department: Water, Sewer and Stormwater Rate Board
   class: Personal Services
   total: 120000
 
@@ -53,12 +53,12 @@
   class: Payments to Other Funds
   total: 34724000
 
-- fund: County Liquid Fuels Tax Fund
+- fund: Special Gasoline Tax Fund
   department: Streets
   class: Payments to Other Funds
   total: 20000
 
-- fund: County Liquid Fuels Tax Fund
+- fund: Special Gasoline Tax Fund
   department: Finance - Employee Benefits
   class: Personal Services
   total: 1000000
