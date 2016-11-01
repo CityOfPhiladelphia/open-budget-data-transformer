@@ -3,10 +3,10 @@
   class: Personal Services
   total: 1390611
 
-- fund: General Fund
-  department: Mayor - Office of Planning and Development
-  class: Materials, Supplies & Equipment
-  total: 60000
+  #- fund: General Fund
+  #  department: Mayor - Office of Planning and Development
+  #  class: Materials, Supplies & Equipment
+  #  total: 60000
 
 - fund: General Fund
   department: Fleet Management
@@ -33,10 +33,10 @@
   class: Personal Services
   total: 75419
 
-- fund: Water Fund
-  department: Fleet Management
-  class: Materials, Supplies & Equipment
-  total: 4274640
+  #- fund: Water Fund
+  #  department: Fleet Management
+  #  class: Materials, Supplies & Equipment
+  #  total: 4274640
 
 - fund: Water Fund
   department: Public Property
@@ -60,13 +60,13 @@
 
 - fund: County Liquid Fuels Tax Fund
   department: Finance - Employee Benefits
-  class: Personal Services - Employee Benefits
+  class: Personal Services
   total: 1000000
 
-- fund: Healthchoices Behavioral Health Fund
-  department: Office of Behavioral Health and Intellectual disAbilities
-  class: Materials, Supplies & Equipment
-  total: 50000
+  #- fund: Healthchoices Behavioral Health Fund
+  #  department: Office of Behavioral Health and Intellectual disAbilities
+  #  class: Materials, Supplies & Equipment
+  #  total: 50000
 
 - fund: Hotel Tax Fund
   department: Commerce
@@ -88,10 +88,10 @@
   class: Personal Services
   total: 40000
 
-- fund: Grants Revenue Fund
-  department: Police
-  class: Materials, Supplies & Equipment
-  total: 10889084
+  #- fund: Grants Revenue Fund
+  #  department: Police
+  #  class: Materials, Supplies & Equipment
+  #  total: 10889084
 
 - fund: Grants Revenue Fund
   department: Finance
@@ -103,10 +103,10 @@
   class: Personal Services
   total: 257908
 
-- fund: Aviation Fund
-  department: Fleet Management
-  class: Materials, Supplies & Equipment
-  total: 1493000
+  #- fund: Aviation Fund
+  #  department: Fleet Management
+  #  class: Materials, Supplies & Equipment
+  #  total: 1493000
 
 - fund: Aviation Fund
   department: Finance
@@ -118,10 +118,10 @@
   class: Personal Services
   total: 514818
 
-- fund: Community Development Fund
-  department: Commerce
-  class: Materials, Supplies & Equipment
-  total: 8000
+  #- fund: Community Development Fund
+  #  department: Commerce
+  #  class: Materials, Supplies & Equipment
+  #  total: 8000
 
 - fund: Car Rental Tax Fund
   department: Sinking Fund Commission (Debt Service)
@@ -142,3 +142,54 @@
   department: Public Health
   class: Purchase of Services
   total: 5174083
+
+# Separate class 300 & 400 tests
+- fund: General Fund
+  department: Parks and Recreation
+  class: Materials and Supplies
+  total: 2303622
+
+- fund: General Fund
+  department: Parks and Recreation
+  class: Equipment
+  total: 370183
+
+- fund: Aviation Fund
+  department: Commerce
+  class: Materials and Supplies
+  total: 10401000
+
+- fund: Aviation Fund
+  department: Commerce
+  class: Equipment
+  total: 3495000
+
+- fund: Grants Revenue Fund
+  department: Managing Director's Office
+  class: Materials and Supplies
+  total: 213628
+
+- fund: Grants Revenue Fund
+  department: Managing Director's Office
+  class: Equipment
+  total: 17399628
+
+- fund: Water Fund
+  department: Revenue
+  class: Materials and Supplies
+  total: 562264
+
+- fund: Water Fund
+  department: Revenue
+  class: Equipment
+  total: 871935
+
+- fund: General Fund
+  department: Sheriff
+  class: Materials and Supplies
+  total: 404406
+
+- fund: General Fund
+  department: Sheriff
+  class: Equipment
+  total: 14501
