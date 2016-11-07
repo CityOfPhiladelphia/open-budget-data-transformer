@@ -11,7 +11,7 @@
 - fund: General Fund
   department: Fleet Management
   class: Purchase of Services
-  total: 5104396
+  total: 9604396
 
 - fund: General Fund
   department: Public Health
@@ -141,7 +141,7 @@
 - fund: Acute Care Hospital Assessment Fund
   department: Public Health
   class: Purchase of Services
-  total: 5174083
+  total: 154174083
 
 # Separate class 300 & 400 tests
 - fund: General Fund
