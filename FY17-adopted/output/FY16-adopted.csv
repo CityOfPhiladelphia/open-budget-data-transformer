@@ -1,0 +1,1995 @@
+fiscal_year,fund,department,class_id,class,subclass_id,subclass,total
+2016,General Fund,City Council,1,Personal Services,100,Salary Control,100000
+2016,General Fund,City Council,1,Personal Services,101,Perm Full Time-civilian,13939858
+2016,General Fund,City Council,1,Personal Services,111,Perm Part Time,195000
+2016,General Fund,City Council,1,Personal Services,121,Temporary Seasonal,75000
+2016,General Fund,City Council,2,Purchase of Services,201,Cleaning and Laundering,485
+2016,General Fund,City Council,2,Purchase of Services,202,Janitorial Services,2500
+2016,General Fund,City Council,2,Purchase of Services,209,Telephone,2000
+2016,General Fund,City Council,2,Purchase of Services,210,Postage,150000
+2016,General Fund,City Council,2,Purchase of Services,211,Transportation,10000
+2016,General Fund,City Council,2,Purchase of Services,216,Commercial Off-shelf Comp Software,10000
+2016,General Fund,City Council,2,Purchase of Services,230,Meals-non-travel & Officl Entertain,5000
+2016,General Fund,City Council,2,Purchase of Services,240,Advertising/promotional Activities,600000
+2016,General Fund,City Council,2,Purchase of Services,250,Professional Consult/spec Services,605000
+2016,General Fund,City Council,2,Purchase of Services,251,Information Technology-prof Service,150000
+2016,General Fund,City Council,2,Purchase of Services,255,Dues,2500
+2016,General Fund,City Council,2,Purchase of Services,256,Seminar and Training Sessions,5000
+2016,General Fund,City Council,2,Purchase of Services,258,Court Reporters,175000
+2016,General Fund,City Council,2,Purchase of Services,260,Repair and Maintenance Charges,10000
+2016,General Fund,City Council,2,Purchase of Services,266,Maint/support-computr Hardware/soft,25000
+2016,General Fund,City Council,2,Purchase of Services,285,Rents,152000
+2016,General Fund,City Council,3,Materials and Supplies,301,Agricultural and Botanical,750
+2016,General Fund,City Council,3,Materials and Supplies,304,Books and Other Publications,140000
+2016,General Fund,City Council,3,Materials and Supplies,305,Building and Construction,750
+2016,General Fund,City Council,3,Materials and Supplies,309,Cordage and Fibers,1000
+2016,General Fund,City Council,3,Materials and Supplies,310,Electrical and Communication,3500
+2016,General Fund,City Council,3,Materials and Supplies,313,Food,7500
+2016,General Fund,City Council,3,Materials and Supplies,316,General Hardware and Minor Tools,1000
+2016,General Fund,City Council,3,Materials and Supplies,318,"Janitorial, Laundry and Household",5000
+2016,General Fund,City Council,3,Materials and Supplies,320,Office Materials and Supplies,90000
+2016,General Fund,City Council,3,Materials and Supplies,324,"Precision, Photographic and Artists",1500
+2016,General Fund,City Council,3,Materials and Supplies,325,Printing,110000
+2016,General Fund,City Council,4,Equipment,420,Office Equipment,25000
+2016,General Fund,City Council,4,Equipment,423,Plumbing/air Conditioning/space Htg,4000
+2016,General Fund,City Council,4,Equipment,427,Computer Equipment & Peripherals,60000
+2016,General Fund,City Council,4,Equipment,430,Furniture and Furnishings,60650
+2016,General Fund,City Council,5,"Contributions, Indemnities, Refunds, Taxes",599,Other Expenses (noc),25000100
+2016,General Fund,City Council,8,Payments to Other Funds,800,Pmt to Other Funds Control,100
+2016,General Fund,City Council,9,Advances & Other Misc Payments,999,Standby Authorizations,100
+2016,General Fund,Labor Relations,1,Personal Services,101,Perm Full Time-civilian,545080
+2016,General Fund,Labor Relations,1,Personal Services,161,Overtime Civilian,13949
+2016,General Fund,Labor Relations,2,Purchase of Services,211,Transportation,500
+2016,General Fund,Labor Relations,2,Purchase of Services,256,Seminar and Training Sessions,4777
+2016,General Fund,Labor Relations,3,Materials and Supplies,304,Books and Other Publications,5560
+2016,General Fund,Labor Relations,3,Materials and Supplies,320,Office Materials and Supplies,1000
+2016,General Fund,Labor Relations,4,Equipment,420,Office Equipment,1600
+2016,General Fund,Office of Innovation and Technology,1,Personal Services,100,Salary Control,154453
+2016,General Fund,Office of Innovation and Technology,1,Personal Services,101,Perm Full Time-civilian,18580449
+2016,General Fund,Office of Innovation and Technology,1,Personal Services,109,Plus/minus Gross Adj,153725
+2016,General Fund,Office of Innovation and Technology,1,Personal Services,111,Perm Part Time,104872
+2016,General Fund,Office of Innovation and Technology,1,Personal Services,121,Temporary Seasonal,214153
+2016,General Fund,Office of Innovation and Technology,1,Personal Services,161,Overtime Civilian,623185
+2016,General Fund,Office of Innovation and Technology,1,Personal Services,171,"Holiday ""g""(2/3 Shifts)",56744
+2016,General Fund,Office of Innovation and Technology,1,Personal Services,181,Shift,13100
+2016,General Fund,Office of Innovation and Technology,2,Purchase of Services,209,Telephone,12387511
+2016,General Fund,Office of Innovation and Technology,2,Purchase of Services,210,Postage,3000
+2016,General Fund,Office of Innovation and Technology,2,Purchase of Services,211,Transportation,10950
+2016,General Fund,Office of Innovation and Technology,2,Purchase of Services,216,Commercial Off-shelf Comp Software,3799054
+2016,General Fund,Office of Innovation and Technology,2,Purchase of Services,220,Electric Current-structures/streets,210500
+2016,General Fund,Office of Innovation and Technology,2,Purchase of Services,250,Professional Consult/spec Services,34137
+2016,General Fund,Office of Innovation and Technology,2,Purchase of Services,251,Information Technology-prof Service,26474941
+2016,General Fund,Office of Innovation and Technology,2,Purchase of Services,255,Dues,25269
+2016,General Fund,Office of Innovation and Technology,2,Purchase of Services,256,Seminar and Training Sessions,62852
+2016,General Fund,Office of Innovation and Technology,2,Purchase of Services,260,Repair and Maintenance Charges,4556900
+2016,General Fund,Office of Innovation and Technology,2,Purchase of Services,266,Maint/support-computr Hardware/soft,5944330
+2016,General Fund,Office of Innovation and Technology,2,Purchase of Services,282,Rent/lease-purchase Computer Equip,26582
+2016,General Fund,Office of Innovation and Technology,2,Purchase of Services,285,Rents,843943
+2016,General Fund,Office of Innovation and Technology,2,Purchase of Services,299,Other Expenses (not Othrwse Clssfd),3461
+2016,General Fund,Office of Innovation and Technology,3,Materials and Supplies,304,Books and Other Publications,4442
+2016,General Fund,Office of Innovation and Technology,3,Materials and Supplies,310,Electrical and Communication,838046
+2016,General Fund,Office of Innovation and Technology,3,Materials and Supplies,311,General Equipment and Machinery,60
+2016,General Fund,Office of Innovation and Technology,3,Materials and Supplies,312,Fire Fighting and Safety,19200
+2016,General Fund,Office of Innovation and Technology,3,Materials and Supplies,320,Office Materials and Supplies,55006
+2016,General Fund,Office of Innovation and Technology,3,Materials and Supplies,324,"Precision, Photographic and Artists",36323
+2016,General Fund,Office of Innovation and Technology,3,Materials and Supplies,325,Printing,885
+2016,General Fund,Office of Innovation and Technology,3,Materials and Supplies,399,Other Materials and Supplies (noc),4118
+2016,General Fund,Office of Innovation and Technology,4,Equipment,410,Electrical Lighting Communication,510005
+2016,General Fund,Office of Innovation and Technology,4,Equipment,420,Office Equipment,743
+2016,General Fund,Office of Innovation and Technology,4,Equipment,423,Plumbing/air Conditioning/space Htg,85000
+2016,General Fund,Office of Innovation and Technology,4,Equipment,427,Computer Equipment & Peripherals,6627909
+2016,General Fund,Office of Innovation and Technology,4,Equipment,430,Furniture and Furnishings,1416614
+2016,General Fund,Mayor's Office,1,Personal Services,100,Salary Control,296572
+2016,General Fund,Mayor's Office,1,Personal Services,101,Perm Full Time-civilian,3644552
+2016,General Fund,Mayor's Office,2,Purchase of Services,210,Postage,1194
+2016,General Fund,Mayor's Office,2,Purchase of Services,211,Transportation,25435
+2016,General Fund,Mayor's Office,2,Purchase of Services,230,Meals-non-travel & Officl Entertain,3442
+2016,General Fund,Mayor's Office,2,Purchase of Services,250,Professional Consult/spec Services,876290
+2016,General Fund,Mayor's Office,2,Purchase of Services,255,Dues,87475
+2016,General Fund,Mayor's Office,2,Purchase of Services,256,Seminar and Training Sessions,3500
+2016,General Fund,Mayor's Office,2,Purchase of Services,260,Repair and Maintenance Charges,20000
+2016,General Fund,Mayor's Office,2,Purchase of Services,266,Maint/support-computr Hardware/soft,23000
+2016,General Fund,Mayor's Office,3,Materials and Supplies,304,Books and Other Publications,3262
+2016,General Fund,Mayor's Office,3,Materials and Supplies,320,Office Materials and Supplies,27528
+2016,General Fund,Mayor's Office,3,Materials and Supplies,324,"Precision, Photographic and Artists",1000
+2016,General Fund,Mayor's Office,3,Materials and Supplies,325,Printing,15984
+2016,General Fund,Mayor's Office,4,Equipment,420,Office Equipment,2391
+2016,General Fund,Mayor's Office,5,"Contributions, Indemnities, Refunds, Taxes",504,Meritorious Awards,200000
+2016,General Fund,Office of Housing and Community Development,2,Purchase of Services,250,Professional Consult/spec Services,3590000
+2016,General Fund,Mayor's Office of Community Empowerment and Opportunity,2,Purchase of Services,250,Professional Consult/spec Services,605000
+2016,General Fund,Managing Director's Office,1,Personal Services,101,Perm Full Time-civilian,16061186
+2016,General Fund,Managing Director's Office,1,Personal Services,121,Temporary Seasonal,354633
+2016,General Fund,Managing Director's Office,1,Personal Services,161,Overtime Civilian,397676
+2016,General Fund,Managing Director's Office,1,Personal Services,171,"Holiday ""g""(2/3 Shifts)",4000
+2016,General Fund,Managing Director's Office,1,Personal Services,181,Shift,1798
+2016,General Fund,Managing Director's Office,2,Purchase of Services,209,Telephone,13540
+2016,General Fund,Managing Director's Office,2,Purchase of Services,210,Postage,10612
+2016,General Fund,Managing Director's Office,2,Purchase of Services,211,Transportation,116443
+2016,General Fund,Fire,2,Purchase of Services,210,Postage,2418
+2016,General Fund,Managing Director's Office,2,Purchase of Services,216,Commercial Off-shelf Comp Software,162783
+2016,General Fund,Managing Director's Office,2,Purchase of Services,250,Professional Consult/spec Services,8460841
+2016,General Fund,Managing Director's Office,2,Purchase of Services,251,Information Technology-prof Service,48900
+2016,General Fund,Managing Director's Office,2,Purchase of Services,253,Legal Services,51999131
+2016,General Fund,Managing Director's Office,2,Purchase of Services,255,Dues,2425
+2016,General Fund,Managing Director's Office,2,Purchase of Services,256,Seminar and Training Sessions,1000
+2016,General Fund,Managing Director's Office,2,Purchase of Services,260,Repair and Maintenance Charges,127291
+2016,General Fund,Managing Director's Office,2,Purchase of Services,266,Maint/support-computr Hardware/soft,17816
+2016,General Fund,Managing Director's Office,2,Purchase of Services,285,Rents,155293
+2016,General Fund,Managing Director's Office,2,Purchase of Services,299,Other Expenses (not Othrwse Clssfd),229027
+2016,General Fund,Managing Director's Office,3,Materials and Supplies,305,Building and Construction,148130
+2016,General Fund,Managing Director's Office,3,Materials and Supplies,308,Dry Goods/notions/wearing Apparel,9067
+2016,General Fund,Managing Director's Office,3,Materials and Supplies,310,Electrical and Communication,4722
+2016,General Fund,Managing Director's Office,3,Materials and Supplies,311,General Equipment and Machinery,14907
+2016,General Fund,Managing Director's Office,3,Materials and Supplies,318,"Janitorial, Laundry and Household",118175
+2016,General Fund,Managing Director's Office,3,Materials and Supplies,320,Office Materials and Supplies,87222
+2016,General Fund,Managing Director's Office,3,Materials and Supplies,324,"Precision, Photographic and Artists",1134
+2016,General Fund,Managing Director's Office,3,Materials and Supplies,325,Printing,3848
+2016,General Fund,Managing Director's Office,3,Materials and Supplies,328,Motor Vehicle Parts and Accessories,725
+2016,General Fund,Managing Director's Office,3,Materials and Supplies,399,Other Materials and Supplies (noc),70025
+2016,General Fund,Managing Director's Office,4,Equipment,420,Office Equipment,28918
+2016,General Fund,Managing Director's Office,4,Equipment,427,Computer Equipment & Peripherals,18899
+2016,General Fund,Managing Director's Office,4,Equipment,430,Furniture and Furnishings,24090
+2016,General Fund,Managing Director's Office,4,Equipment,499,Other Equipment (noc),60417
+2016,General Fund,Police,1,Personal Services,100,Salary Control,8484065
+2016,General Fund,Police,1,Personal Services,101,Perm Full Time-civilian,36810685
+2016,General Fund,Police,1,Personal Services,105,Perm Full Time-uniform,444310438
+2016,General Fund,Police,1,Personal Services,110,Uniform Stress Pay,33083214
+2016,General Fund,Police,1,Personal Services,141,School Crossing Guards,11823049
+2016,General Fund,Police,1,Personal Services,152,Uniform Iod Pay (heart & Lung),17816000
+2016,General Fund,Police,1,Personal Services,161,Overtime Civilian,1637300
+2016,General Fund,Police,1,Personal Services,165,Overtime Shift Uniform,47541608
+2016,General Fund,Police,1,Personal Services,171,"Holiday ""g""(2/3 Shifts)",17464432
+2016,General Fund,Police,1,Personal Services,175,Holiday Pay-annual,3107684
+2016,General Fund,Police,1,Personal Services,181,Shift,247703
+2016,General Fund,Police,2,Purchase of Services,201,Cleaning and Laundering,3000000
+2016,General Fund,Police,2,Purchase of Services,202,Janitorial Services,7800
+2016,General Fund,Police,2,Purchase of Services,205,Refuse/garbage/silt/sludge Removal,71266
+2016,General Fund,Police,2,Purchase of Services,209,Telephone,4918
+2016,General Fund,Police,2,Purchase of Services,210,Postage,112000
+2016,General Fund,Police,2,Purchase of Services,211,Transportation,124000
+2016,General Fund,Police,2,Purchase of Services,212,Return of Fugitives,82000
+2016,General Fund,Police,2,Purchase of Services,216,Commercial Off-shelf Comp Software,26000
+2016,General Fund,Police,2,Purchase of Services,231,Overtime Meals,338308
+2016,General Fund,Police,2,Purchase of Services,240,Advertising/promotional Activities,5000
+2016,General Fund,Police,2,Purchase of Services,250,Professional Consult/spec Services,2128147
+2016,General Fund,Police,2,Purchase of Services,251,Information Technology-prof Service,97594
+2016,General Fund,Police,2,Purchase of Services,255,Dues,5100
+2016,General Fund,Police,2,Purchase of Services,256,Seminar and Training Sessions,288000
+2016,General Fund,Police,2,Purchase of Services,260,Repair and Maintenance Charges,809938
+2016,General Fund,Police,2,Purchase of Services,266,Maint/support-computr Hardware/soft,8200
+2016,General Fund,Police,2,Purchase of Services,285,Rents,153736
+2016,General Fund,Police,2,Purchase of Services,295,Purchase Services-imprest Advances,800
+2016,General Fund,Police,3,Materials and Supplies,302,"Animal, Livestock and Marine Life",175000
+2016,General Fund,Police,3,Materials and Supplies,304,Books and Other Publications,54275
+2016,General Fund,Police,3,Materials and Supplies,305,Building and Construction,43544
+2016,General Fund,Police,3,Materials and Supplies,307,Chemicals and Gases,22323
+2016,General Fund,Police,3,Materials and Supplies,308,Dry Goods/notions/wearing Apparel,5612534
+2016,General Fund,Police,3,Materials and Supplies,309,Cordage and Fibers,6544
+2016,General Fund,Police,3,Materials and Supplies,310,Electrical and Communication,52507
+2016,General Fund,Police,3,Materials and Supplies,311,General Equipment and Machinery,41800
+2016,General Fund,Police,3,Materials and Supplies,312,Fire Fighting and Safety,2039356
+2016,General Fund,Police,3,Materials and Supplies,313,Food,198550
+2016,General Fund,Police,3,Materials and Supplies,316,General Hardware and Minor Tools,6000
+2016,General Fund,Police,3,Materials and Supplies,317,Hospital and Laboratory,832824
+2016,General Fund,Police,3,Materials and Supplies,318,"Janitorial, Laundry and Household",264123
+2016,General Fund,Police,3,Materials and Supplies,319,Nautical and Aeronautical,352185
+2016,General Fund,Police,3,Materials and Supplies,320,Office Materials and Supplies,516328
+2016,General Fund,Police,3,Materials and Supplies,322,Small Power Tools and Hand Tools,3615
+2016,General Fund,Police,3,Materials and Supplies,324,"Precision, Photographic and Artists",1043793
+2016,General Fund,Police,3,Materials and Supplies,325,Printing,159970
+2016,General Fund,Police,3,Materials and Supplies,328,Motor Vehicle Parts and Accessories,30892
+2016,General Fund,Police,3,Materials and Supplies,335,Lubricants,196
+2016,General Fund,Police,3,Materials and Supplies,342,Liquid Propane Gas (lpg),5048
+2016,General Fund,Police,3,Materials and Supplies,345,Gasoline,135000
+2016,General Fund,Police,4,Equipment,410,Electrical Lighting Communication,4355
+2016,General Fund,Police,4,Equipment,411,General Equipment and Machinery,520
+2016,General Fund,Police,4,Equipment,412,Fire Fighting and Emergency,1069018
+2016,General Fund,Police,4,Equipment,417,Hospital and Laboratory,2760
+2016,General Fund,Police,4,Equipment,420,Office Equipment,83392
+2016,General Fund,Police,4,Equipment,424,"Precision, Photographic and Artist",501500
+2016,General Fund,Police,4,Equipment,427,Computer Equipment & Peripherals,50000
+2016,General Fund,Police,4,Equipment,430,Furniture and Furnishings,110000
+2016,General Fund,Police,4,Equipment,499,Other Equipment (noc),3000
+2016,General Fund,Streets,1,Personal Services,100,Salary Control,507350
+2016,General Fund,Streets,1,Personal Services,101,Perm Full Time-civilian,63691599
+2016,General Fund,Streets,1,Personal Services,121,Temporary Seasonal,281395
+2016,General Fund,Streets,1,Personal Services,161,Overtime Civilian,7810759
+2016,General Fund,Streets,1,Personal Services,171,"Holiday ""g""(2/3 Shifts)",175130
+2016,General Fund,Streets,1,Personal Services,181,Shift,257899
+2016,General Fund,Streets,2,Purchase of Services,201,Cleaning and Laundering,6178
+2016,General Fund,Streets,2,Purchase of Services,205,Refuse/garbage/silt/sludge Removal,38039819
+2016,General Fund,Streets,2,Purchase of Services,209,Telephone,621
+2016,General Fund,Streets,2,Purchase of Services,210,Postage,1000
+2016,General Fund,Streets,2,Purchase of Services,211,Transportation,35439
+2016,General Fund,Streets,2,Purchase of Services,215,Licenses Permits Inspection Charges,1350
+2016,General Fund,Streets,2,Purchase of Services,240,Advertising/promotional Activities,477891
+2016,General Fund,Streets,2,Purchase of Services,250,Professional Consult/spec Services,3957030
+2016,General Fund,Streets,2,Purchase of Services,255,Dues,12510
+2016,General Fund,Streets,2,Purchase of Services,256,Seminar and Training Sessions,44335
+2016,General Fund,Streets,2,Purchase of Services,257,Architectural & Engineering Srvcs,20000
+2016,General Fund,Streets,2,Purchase of Services,260,Repair and Maintenance Charges,868798
+2016,General Fund,Streets,2,Purchase of Services,285,Rents,5346493
+2016,General Fund,Streets,2,Purchase of Services,299,Other Expenses (not Othrwse Clssfd),7991
+2016,General Fund,Streets,3,Materials and Supplies,304,Books and Other Publications,19109
+2016,General Fund,Streets,3,Materials and Supplies,305,Building and Construction,1019273
+2016,General Fund,Streets,3,Materials and Supplies,307,Chemicals and Gases,18334
+2016,General Fund,Streets,3,Materials and Supplies,308,Dry Goods/notions/wearing Apparel,192666
+2016,General Fund,Streets,3,Materials and Supplies,309,Cordage and Fibers,728
+2016,General Fund,Streets,3,Materials and Supplies,310,Electrical and Communication,773316
+2016,General Fund,Streets,3,Materials and Supplies,311,General Equipment and Machinery,46686
+2016,General Fund,Streets,3,Materials and Supplies,312,Fire Fighting and Safety,27154
+2016,General Fund,Streets,3,Materials and Supplies,313,Food,200
+2016,General Fund,Streets,3,Materials and Supplies,314,Fuel -- Heating and Lighting,313625
+2016,General Fund,Streets,3,Materials and Supplies,316,General Hardware and Minor Tools,325448
+2016,General Fund,Streets,3,Materials and Supplies,317,Hospital and Laboratory,10520
+2016,General Fund,Streets,3,Materials and Supplies,318,"Janitorial, Laundry and Household",180682
+2016,General Fund,Streets,3,Materials and Supplies,320,Office Materials and Supplies,102764
+2016,General Fund,Streets,3,Materials and Supplies,322,Small Power Tools and Hand Tools,70426
+2016,General Fund,Streets,3,Materials and Supplies,323,Plumbing/air Conditioning/space Htg,59315
+2016,General Fund,Streets,3,Materials and Supplies,324,"Precision, Photographic and Artists",85102
+2016,General Fund,Streets,3,Materials and Supplies,325,Printing,55379
+2016,General Fund,Streets,3,Materials and Supplies,328,Motor Vehicle Parts and Accessories,16500
+2016,General Fund,Streets,3,Materials and Supplies,335,Lubricants,269
+2016,General Fund,Streets,3,Materials and Supplies,342,Liquid Propane Gas (lpg),13915
+2016,General Fund,Streets,3,Materials and Supplies,399,Other Materials and Supplies (noc),38328
+2016,General Fund,Streets,4,Equipment,405,"Construction, Dredging, Conveying",2455
+2016,General Fund,Streets,4,Equipment,410,Electrical Lighting Communication,23293
+2016,General Fund,Streets,4,Equipment,411,General Equipment and Machinery,47140
+2016,General Fund,Streets,4,Equipment,420,Office Equipment,19393
+2016,General Fund,Streets,4,Equipment,423,Plumbing/air Conditioning/space Htg,22294
+2016,General Fund,Streets,4,Equipment,424,"Precision, Photographic and Artist",68956
+2016,General Fund,Streets,4,Equipment,427,Computer Equipment & Peripherals,372
+2016,General Fund,Streets,4,Equipment,428,Vehicles -- Motor and Motorless,136000
+2016,General Fund,Streets,4,Equipment,430,Furniture and Furnishings,52943
+2016,General Fund,Streets,4,Equipment,499,Other Equipment (noc),67377
+2016,General Fund,Streets,5,"Contributions, Indemnities, Refunds, Taxes",504,Meritorious Awards,5000
+2016,General Fund,Streets,5,"Contributions, Indemnities, Refunds, Taxes",505,Contributions-ed & Non-prof Rec Org,48171
+2016,General Fund,Fire,1,Personal Services,100,Salary Control,1098000
+2016,General Fund,Fire,1,Personal Services,101,Perm Full Time-civilian,5918875
+2016,General Fund,Fire,1,Personal Services,105,Perm Full Time-uniform,147422502
+2016,General Fund,Fire,1,Personal Services,107,Fire out of Class Prem(2hr Dif),8845500
+2016,General Fund,Fire,1,Personal Services,131,Board,1000
+2016,General Fund,Fire,1,Personal Services,161,Overtime Civilian,266990
+2016,General Fund,Fire,1,Personal Services,165,Overtime Shift Uniform,24686040
+2016,General Fund,Fire,1,Personal Services,171,"Holiday ""g""(2/3 Shifts)",64000
+2016,General Fund,Fire,1,Personal Services,175,Holiday Pay-annual,8780000
+2016,General Fund,Fire,1,Personal Services,181,Shift,244000
+2016,General Fund,Fire,2,Purchase of Services,202,Janitorial Services,3000
+2016,General Fund,Fire,2,Purchase of Services,211,Transportation,38433
+2016,General Fund,Fire,2,Purchase of Services,250,Professional Consult/spec Services,4388478
+2016,General Fund,Fire,2,Purchase of Services,256,Seminar and Training Sessions,27000
+2016,General Fund,Fire,2,Purchase of Services,260,Repair and Maintenance Charges,813458
+2016,General Fund,Fire,2,Purchase of Services,285,Rents,17004
+2016,General Fund,Fire,2,Purchase of Services,299,Other Expenses (not Othrwse Clssfd),6802
+2016,General Fund,Fire,3,Materials and Supplies,304,Books and Other Publications,99378
+2016,General Fund,Fire,3,Materials and Supplies,307,Chemicals and Gases,100000
+2016,General Fund,Fire,3,Materials and Supplies,308,Dry Goods/notions/wearing Apparel,3860718
+2016,General Fund,Fire,3,Materials and Supplies,310,Electrical and Communication,75389
+2016,General Fund,Fire,3,Materials and Supplies,312,Fire Fighting and Safety,773581
+2016,General Fund,Fire,3,Materials and Supplies,314,Fuel -- Heating and Lighting,74500
+2016,General Fund,Fire,3,Materials and Supplies,316,General Hardware and Minor Tools,20000
+2016,General Fund,Fire,3,Materials and Supplies,317,Hospital and Laboratory,1214000
+2016,General Fund,Fire,3,Materials and Supplies,318,"Janitorial, Laundry and Household",133000
+2016,General Fund,Fire,3,Materials and Supplies,320,Office Materials and Supplies,152678
+2016,General Fund,Fire,3,Materials and Supplies,322,Small Power Tools and Hand Tools,5520
+2016,General Fund,Fire,3,Materials and Supplies,324,"Precision, Photographic and Artists",95328
+2016,General Fund,Fire,3,Materials and Supplies,325,Printing,62145
+2016,General Fund,Fire,3,Materials and Supplies,328,Motor Vehicle Parts and Accessories,548
+2016,General Fund,Fire,3,Materials and Supplies,399,Other Materials and Supplies (noc),6285
+2016,General Fund,Fire,4,Equipment,412,Fire Fighting and Emergency,588739
+2016,General Fund,Fire,4,Equipment,417,Hospital and Laboratory,200000
+2016,General Fund,Fire,4,Equipment,420,Office Equipment,46308
+2016,General Fund,Fire,4,Equipment,427,Computer Equipment & Peripherals,5273
+2016,General Fund,Fire,4,Equipment,430,Furniture and Furnishings,59778
+2016,General Fund,Fire,4,Equipment,499,Other Equipment (noc),38902
+2016,General Fund,Fire,8,Payments to Other Funds,803,Payments to Water Fund,8847226
+2016,General Fund,Public Health,1,Personal Services,100,Salary Control,335200
+2016,General Fund,Public Health,1,Personal Services,101,Perm Full Time-civilian,39990694
+2016,General Fund,Public Health,1,Personal Services,111,Perm Part Time,8103852
+2016,General Fund,Public Health,1,Personal Services,121,Temporary Seasonal,152000
+2016,General Fund,Public Health,1,Personal Services,161,Overtime Civilian,1668900
+2016,General Fund,Public Health,1,Personal Services,171,"Holiday ""g""(2/3 Shifts)",19300
+2016,General Fund,Public Health,1,Personal Services,181,Shift,28308
+2016,General Fund,Public Health,2,Purchase of Services,201,Cleaning and Laundering,600
+2016,General Fund,Public Health,2,Purchase of Services,202,Janitorial Services,20500
+2016,General Fund,Public Health,2,Purchase of Services,205,Refuse/garbage/silt/sludge Removal,181967
+2016,General Fund,Public Health,2,Purchase of Services,209,Telephone,99648
+2016,General Fund,Public Health,2,Purchase of Services,210,Postage,5671
+2016,General Fund,Public Health,2,Purchase of Services,211,Transportation,42950
+2016,General Fund,Public Health,2,Purchase of Services,215,Licenses Permits Inspection Charges,26220
+2016,General Fund,Public Health,2,Purchase of Services,216,Commercial Off-shelf Comp Software,64958
+2016,General Fund,Public Health,2,Purchase of Services,230,Meals-non-travel & Officl Entertain,14775
+2016,General Fund,Public Health,2,Purchase of Services,240,Advertising/promotional Activities,1500
+2016,General Fund,Public Health,2,Purchase of Services,250,Professional Consult/spec Services,57927997
+2016,General Fund,Public Health,2,Purchase of Services,251,Information Technology-prof Service,551460
+2016,General Fund,Public Health,2,Purchase of Services,252,Accounting and Auditing Services,10000
+2016,General Fund,Public Health,2,Purchase of Services,255,Dues,5640
+2016,General Fund,Public Health,2,Purchase of Services,256,Seminar and Training Sessions,23581
+2016,General Fund,Public Health,2,Purchase of Services,260,Repair and Maintenance Charges,953875
+2016,General Fund,Public Health,2,Purchase of Services,266,Maint/support-computr Hardware/soft,25089
+2016,General Fund,Public Health,2,Purchase of Services,280,Insurance and Official Bonds,50
+2016,General Fund,Public Health,2,Purchase of Services,284,Ground and Building Rental,3876
+2016,General Fund,Public Health,2,Purchase of Services,285,Rents,42521
+2016,General Fund,Public Health,2,Purchase of Services,299,Other Expenses (not Othrwse Clssfd),546
+2016,General Fund,Public Health,3,Materials and Supplies,304,Books and Other Publications,17051
+2016,General Fund,Public Health,3,Materials and Supplies,305,Building and Construction,33600
+2016,General Fund,Public Health,3,Materials and Supplies,307,Chemicals and Gases,276064
+2016,General Fund,Public Health,3,Materials and Supplies,308,Dry Goods/notions/wearing Apparel,22500
+2016,General Fund,Public Health,3,Materials and Supplies,310,Electrical and Communication,61451
+2016,General Fund,Public Health,3,Materials and Supplies,312,Fire Fighting and Safety,7662
+2016,General Fund,Public Health,3,Materials and Supplies,313,Food,1150
+2016,General Fund,Public Health,3,Materials and Supplies,314,Fuel -- Heating and Lighting,11900
+2016,General Fund,Public Health,3,Materials and Supplies,316,General Hardware and Minor Tools,50192
+2016,General Fund,Public Health,3,Materials and Supplies,317,Hospital and Laboratory,3888895
+2016,General Fund,Public Health,3,Materials and Supplies,318,"Janitorial, Laundry and Household",143733
+2016,General Fund,Public Health,3,Materials and Supplies,320,Office Materials and Supplies,456181
+2016,General Fund,Public Health,3,Materials and Supplies,323,Plumbing/air Conditioning/space Htg,51388
+2016,General Fund,Public Health,3,Materials and Supplies,324,"Precision, Photographic and Artists",72403
+2016,General Fund,Public Health,3,Materials and Supplies,325,Printing,60839
+2016,General Fund,Public Health,3,Materials and Supplies,326,Recreational and Educational,1105
+2016,General Fund,Public Health,3,Materials and Supplies,399,Other Materials and Supplies (noc),149560
+2016,General Fund,Public Health,4,Equipment,417,Hospital and Laboratory,48465
+2016,General Fund,Public Health,4,Equipment,420,Office Equipment,38321
+2016,General Fund,Public Health,4,Equipment,427,Computer Equipment & Peripherals,47049
+2016,General Fund,Public Health,4,Equipment,428,Vehicles -- Motor and Motorless,3857
+2016,General Fund,Public Health,4,Equipment,430,Furniture and Furnishings,34518
+2016,General Fund,Public Health,4,Equipment,499,Other Equipment (noc),12884
+2016,General Fund,Public Health,8,Payments to Other Funds,804,Payments to Capital Projects Fund,500000
+2016,General Fund,Office of Behavioral Health and Intellectual disAbilities,1,Personal Services,100,Salary Control,32221
+2016,General Fund,Office of Behavioral Health and Intellectual disAbilities,1,Personal Services,101,Perm Full Time-civilian,966840
+2016,General Fund,Office of Behavioral Health and Intellectual disAbilities,1,Personal Services,161,Overtime Civilian,1000
+2016,General Fund,Office of Behavioral Health and Intellectual disAbilities,1,Personal Services,181,Shift,5
+2016,General Fund,Office of Behavioral Health and Intellectual disAbilities,2,Purchase of Services,250,Professional Consult/spec Services,862155
+2016,General Fund,Office of Behavioral Health and Intellectual disAbilities,2,Purchase of Services,254,Mental Health & Retardation Service,12113355
+2016,General Fund,Parks and Recreation,1,Personal Services,100,Salary Control,478583
+2016,General Fund,Parks and Recreation,1,Personal Services,101,Perm Full Time-civilian,32079910
+2016,General Fund,Parks and Recreation,1,Personal Services,111,Perm Part Time,1925243
+2016,General Fund,Parks and Recreation,1,Personal Services,121,Temporary Seasonal,6394750
+2016,General Fund,Parks and Recreation,1,Personal Services,161,Overtime Civilian,2366240
+2016,General Fund,Parks and Recreation,1,Personal Services,171,"Holiday ""g""(2/3 Shifts)",84449
+2016,General Fund,Parks and Recreation,1,Personal Services,181,Shift,99878
+2016,General Fund,Parks and Recreation,2,Purchase of Services,201,Cleaning and Laundering,45390
+2016,General Fund,Parks and Recreation,2,Purchase of Services,202,Janitorial Services,39900
+2016,General Fund,Parks and Recreation,2,Purchase of Services,209,Telephone,2606
+2016,General Fund,Parks and Recreation,2,Purchase of Services,215,Licenses Permits Inspection Charges,2194
+2016,General Fund,Parks and Recreation,2,Purchase of Services,216,Commercial Off-shelf Comp Software,31356
+2016,General Fund,Parks and Recreation,2,Purchase of Services,230,Meals-non-travel & Officl Entertain,4656
+2016,General Fund,Parks and Recreation,2,Purchase of Services,240,Advertising/promotional Activities,80
+2016,General Fund,Parks and Recreation,2,Purchase of Services,250,Professional Consult/spec Services,7459987
+2016,General Fund,Parks and Recreation,2,Purchase of Services,253,Legal Services,48398
+2016,General Fund,Parks and Recreation,2,Purchase of Services,255,Dues,16540
+2016,General Fund,Parks and Recreation,2,Purchase of Services,256,Seminar and Training Sessions,5800
+2016,General Fund,Parks and Recreation,2,Purchase of Services,257,Architectural & Engineering Srvcs,3390
+2016,General Fund,Parks and Recreation,2,Purchase of Services,260,Repair and Maintenance Charges,1040421
+2016,General Fund,Parks and Recreation,2,Purchase of Services,280,Insurance and Official Bonds,13836
+2016,General Fund,Parks and Recreation,2,Purchase of Services,285,Rents,629971
+2016,General Fund,Parks and Recreation,3,Materials and Supplies,301,Agricultural and Botanical,33311
+2016,General Fund,Parks and Recreation,3,Materials and Supplies,304,Books and Other Publications,769
+2016,General Fund,Parks and Recreation,3,Materials and Supplies,305,Building and Construction,257018
+2016,General Fund,Parks and Recreation,3,Materials and Supplies,307,Chemicals and Gases,313174
+2016,General Fund,Parks and Recreation,3,Materials and Supplies,308,Dry Goods/notions/wearing Apparel,123356
+2016,General Fund,Parks and Recreation,3,Materials and Supplies,310,Electrical and Communication,201142
+2016,General Fund,Parks and Recreation,3,Materials and Supplies,312,Fire Fighting and Safety,4238
+2016,General Fund,Parks and Recreation,3,Materials and Supplies,313,Food,9571
+2016,General Fund,Parks and Recreation,3,Materials and Supplies,314,Fuel -- Heating and Lighting,228294
+2016,General Fund,Parks and Recreation,3,Materials and Supplies,316,General Hardware and Minor Tools,123376
+2016,General Fund,Parks and Recreation,3,Materials and Supplies,317,Hospital and Laboratory,9738
+2016,General Fund,Parks and Recreation,3,Materials and Supplies,318,"Janitorial, Laundry and Household",278757
+2016,General Fund,Parks and Recreation,3,Materials and Supplies,320,Office Materials and Supplies,36849
+2016,General Fund,Parks and Recreation,3,Materials and Supplies,322,Small Power Tools and Hand Tools,44834
+2016,General Fund,Parks and Recreation,3,Materials and Supplies,323,Plumbing/air Conditioning/space Htg,343933
+2016,General Fund,Parks and Recreation,3,Materials and Supplies,324,"Precision, Photographic and Artists",33998
+2016,General Fund,Parks and Recreation,3,Materials and Supplies,326,Recreational and Educational,193706
+2016,General Fund,Parks and Recreation,3,Materials and Supplies,328,Motor Vehicle Parts and Accessories,6349
+2016,General Fund,Parks and Recreation,3,Materials and Supplies,342,Liquid Propane Gas (lpg),14753
+2016,General Fund,Parks and Recreation,3,Materials and Supplies,399,Other Materials and Supplies (noc),46456
+2016,General Fund,Parks and Recreation,4,Equipment,411,General Equipment and Machinery,98072
+2016,General Fund,Parks and Recreation,4,Equipment,420,Office Equipment,10468
+2016,General Fund,Parks and Recreation,4,Equipment,423,Plumbing/air Conditioning/space Htg,43015
+2016,General Fund,Parks and Recreation,4,Equipment,426,Recreational and Educational,48755
+2016,General Fund,Parks and Recreation,4,Equipment,427,Computer Equipment & Peripherals,79118
+2016,General Fund,Parks and Recreation,4,Equipment,428,Vehicles -- Motor and Motorless,50000
+2016,General Fund,Parks and Recreation,4,Equipment,430,Furniture and Furnishings,21950
+2016,General Fund,Parks and Recreation,4,Equipment,499,Other Equipment (noc),18805
+2016,General Fund,Parks and Recreation,5,"Contributions, Indemnities, Refunds, Taxes",505,Contributions-ed & Non-prof Rec Org,2427500
+2016,General Fund,Atwater Kent Museum,1,Personal Services,101,Perm Full Time-civilian,240424
+2016,General Fund,Atwater Kent Museum,1,Personal Services,161,Overtime Civilian,2843
+2016,General Fund,Atwater Kent Museum,1,Personal Services,171,"Holiday ""g""(2/3 Shifts)",207
+2016,General Fund,Atwater Kent Museum,1,Personal Services,181,Shift,24
+2016,General Fund,Atwater Kent Museum,5,"Contributions, Indemnities, Refunds, Taxes",517,Contributions-gov & Non-prof Not Ed,50000
+2016,General Fund,Public Property,1,Personal Services,100,Salary Control,65590
+2016,General Fund,Public Property,1,Personal Services,101,Perm Full Time-civilian,7631652
+2016,General Fund,Public Property,1,Personal Services,121,Temporary Seasonal,123400
+2016,General Fund,Public Property,1,Personal Services,161,Overtime Civilian,535200
+2016,General Fund,Public Property,1,Personal Services,171,"Holiday ""g""(2/3 Shifts)",33232
+2016,General Fund,Public Property,1,Personal Services,181,Shift,11009
+2016,General Fund,Public Property,2,Purchase of Services,201,Cleaning and Laundering,70830
+2016,General Fund,Public Property,2,Purchase of Services,202,Janitorial Services,4846043
+2016,General Fund,Public Property,2,Purchase of Services,209,Telephone,847
+2016,General Fund,Public Property,2,Purchase of Services,210,Postage,5948
+2016,General Fund,Public Property,2,Purchase of Services,211,Transportation,17833
+2016,General Fund,Public Property,2,Purchase of Services,220,Electric Current-structures/streets,24622143
+2016,General Fund,Public Property,2,Purchase of Services,221,Gas Services,6332191
+2016,General Fund,Public Property,2,Purchase of Services,222,Steam for Heating,2024000
+2016,General Fund,Public Property,2,Purchase of Services,250,Professional Consult/spec Services,90759489
+2016,General Fund,Public Property,2,Purchase of Services,251,Information Technology-prof Service,32000
+2016,General Fund,Public Property,2,Purchase of Services,256,Seminar and Training Sessions,10000
+2016,General Fund,Public Property,2,Purchase of Services,257,Architectural & Engineering Srvcs,25000
+2016,General Fund,Public Property,2,Purchase of Services,260,Repair and Maintenance Charges,5277643
+2016,General Fund,Public Property,2,Purchase of Services,284,Ground and Building Rental,20624429
+2016,General Fund,Public Property,2,Purchase of Services,285,Rents,369
+2016,General Fund,Public Property,2,Purchase of Services,298,Payments for Burials and Graves,5343
+2016,General Fund,Public Property,2,Purchase of Services,299,Other Expenses (not Othrwse Clssfd),64663
+2016,General Fund,Public Property,3,Materials and Supplies,304,Books and Other Publications,1189
+2016,General Fund,Public Property,3,Materials and Supplies,305,Building and Construction,232682
+2016,General Fund,Public Property,3,Materials and Supplies,307,Chemicals and Gases,31719
+2016,General Fund,Public Property,3,Materials and Supplies,308,Dry Goods/notions/wearing Apparel,45886
+2016,General Fund,Public Property,3,Materials and Supplies,310,Electrical and Communication,214941
+2016,General Fund,Public Property,3,Materials and Supplies,311,General Equipment and Machinery,31902
+2016,General Fund,Public Property,3,Materials and Supplies,312,Fire Fighting and Safety,13800
+2016,General Fund,Public Property,3,Materials and Supplies,314,Fuel -- Heating and Lighting,117000
+2016,General Fund,Public Property,3,Materials and Supplies,316,General Hardware and Minor Tools,66245
+2016,General Fund,Public Property,3,Materials and Supplies,318,"Janitorial, Laundry and Household",32486
+2016,General Fund,Public Property,3,Materials and Supplies,320,Office Materials and Supplies,36778
+2016,General Fund,Public Property,3,Materials and Supplies,322,Small Power Tools and Hand Tools,24500
+2016,General Fund,Public Property,3,Materials and Supplies,323,Plumbing/air Conditioning/space Htg,263702
+2016,General Fund,Public Property,3,Materials and Supplies,324,"Precision, Photographic and Artists",27241
+2016,General Fund,Public Property,3,Materials and Supplies,325,Printing,1631
+2016,General Fund,Public Property,3,Materials and Supplies,328,Motor Vehicle Parts and Accessories,14000
+2016,General Fund,Public Property,3,Materials and Supplies,340,#2 Diesel Fuel,10000
+2016,General Fund,Public Property,3,Materials and Supplies,345,Gasoline,32419
+2016,General Fund,Public Property,3,Materials and Supplies,399,Other Materials and Supplies (noc),3826
+2016,General Fund,Prisons,3,Materials and Supplies,301,Agricultural and Botanical,5000
+2016,General Fund,Public Property,4,Equipment,403,"Bakeshop, Dining Room and Kitchen",15270
+2016,General Fund,Public Property,4,Equipment,410,Electrical Lighting Communication,9000
+2016,General Fund,Public Property,4,Equipment,411,General Equipment and Machinery,3200
+2016,General Fund,Public Property,4,Equipment,420,Office Equipment,224
+2016,General Fund,Public Property,4,Equipment,423,Plumbing/air Conditioning/space Htg,60052
+2016,General Fund,Public Property,4,Equipment,430,Furniture and Furnishings,44806
+2016,General Fund,Public Property,4,Equipment,499,Other Equipment (noc),4036
+2016,General Fund,Public Property,8,Payments to Other Funds,803,Payments to Water Fund,23103706
+2016,General Fund,Public Property,8,Payments to Other Funds,804,Payments to Capital Projects Fund,264000
+2016,General Fund,Human Services,1,Personal Services,100,Salary Control,129968
+2016,General Fund,Human Services,1,Personal Services,101,Perm Full Time-civilian,21216690
+2016,General Fund,Human Services,1,Personal Services,111,Perm Part Time,987
+2016,General Fund,Human Services,1,Personal Services,161,Overtime Civilian,3082274
+2016,General Fund,Human Services,1,Personal Services,171,"Holiday ""g""(2/3 Shifts)",152535
+2016,General Fund,Human Services,1,Personal Services,181,Shift,54856
+2016,General Fund,Human Services,2,Purchase of Services,201,Cleaning and Laundering,1320
+2016,General Fund,Human Services,2,Purchase of Services,202,Janitorial Services,1187
+2016,General Fund,Human Services,2,Purchase of Services,205,Refuse/garbage/silt/sludge Removal,9609
+2016,General Fund,Human Services,2,Purchase of Services,209,Telephone,94042
+2016,General Fund,Human Services,2,Purchase of Services,210,Postage,20347
+2016,General Fund,Human Services,2,Purchase of Services,211,Transportation,217748
+2016,General Fund,Human Services,2,Purchase of Services,215,Licenses Permits Inspection Charges,11244
+2016,General Fund,Human Services,2,Purchase of Services,216,Commercial Off-shelf Comp Software,147999
+2016,General Fund,Human Services,2,Purchase of Services,230,Meals-non-travel & Officl Entertain,6003
+2016,General Fund,Human Services,2,Purchase of Services,250,Professional Consult/spec Services,46397013
+2016,General Fund,Human Services,2,Purchase of Services,251,Information Technology-prof Service,2975950
+2016,General Fund,Human Services,2,Purchase of Services,253,Legal Services,387691
+2016,General Fund,Human Services,2,Purchase of Services,254,Mental Health & Retardation Service,292740
+2016,General Fund,Human Services,2,Purchase of Services,255,Dues,8826
+2016,General Fund,Human Services,2,Purchase of Services,256,Seminar and Training Sessions,455434
+2016,General Fund,Human Services,2,Purchase of Services,258,Court Reporters,8913
+2016,General Fund,Human Services,2,Purchase of Services,260,Repair and Maintenance Charges,59793
+2016,General Fund,Human Services,2,Purchase of Services,266,Maint/support-computr Hardware/soft,27360
+2016,General Fund,Human Services,2,Purchase of Services,281,Lease Payments-phila Municipal Auth,1545170
+2016,General Fund,Human Services,2,Purchase of Services,282,Rent/lease-purchase Computer Equip,521
+2016,General Fund,Human Services,2,Purchase of Services,284,Ground and Building Rental,148136
+2016,General Fund,Human Services,2,Purchase of Services,285,Rents,100925
+2016,General Fund,Human Services,2,Purchase of Services,286,Rental of Parking Spaces,23284
+2016,General Fund,Human Services,2,Purchase of Services,290,Payments for Care of Individuals,23835782
+2016,General Fund,Human Services,2,Purchase of Services,295,Purchase Services-imprest Advances,595
+2016,General Fund,Human Services,2,Purchase of Services,298,Payments for Burials and Graves,1931
+2016,General Fund,Human Services,2,Purchase of Services,299,Other Expenses (not Othrwse Clssfd),372
+2016,General Fund,Human Services,3,Materials and Supplies,303,"Bakeshop, Dining Room and Kitchen",1750
+2016,General Fund,Human Services,3,Materials and Supplies,304,Books and Other Publications,1234
+2016,General Fund,Human Services,3,Materials and Supplies,305,Building and Construction,13055
+2016,General Fund,Human Services,3,Materials and Supplies,308,Dry Goods/notions/wearing Apparel,71323
+2016,General Fund,Human Services,3,Materials and Supplies,310,Electrical and Communication,2858
+2016,General Fund,Human Services,3,Materials and Supplies,311,General Equipment and Machinery,500
+2016,General Fund,Human Services,3,Materials and Supplies,312,Fire Fighting and Safety,14727
+2016,General Fund,Human Services,3,Materials and Supplies,313,Food,300292
+2016,General Fund,Human Services,3,Materials and Supplies,316,General Hardware and Minor Tools,5646
+2016,General Fund,Human Services,3,Materials and Supplies,317,Hospital and Laboratory,3291
+2016,General Fund,Human Services,3,Materials and Supplies,318,"Janitorial, Laundry and Household",40418
+2016,General Fund,Human Services,3,Materials and Supplies,320,Office Materials and Supplies,118259
+2016,General Fund,Human Services,3,Materials and Supplies,322,Small Power Tools and Hand Tools,2634
+2016,General Fund,Human Services,3,Materials and Supplies,323,Plumbing/air Conditioning/space Htg,2692
+2016,General Fund,Human Services,3,Materials and Supplies,324,"Precision, Photographic and Artists",33746
+2016,General Fund,Human Services,3,Materials and Supplies,325,Printing,10929
+2016,General Fund,Human Services,3,Materials and Supplies,326,Recreational and Educational,5099
+2016,General Fund,Human Services,3,Materials and Supplies,399,Other Materials and Supplies (noc),1004
+2016,General Fund,Human Services,4,Equipment,410,Electrical Lighting Communication,13500
+2016,General Fund,Human Services,4,Equipment,411,General Equipment and Machinery,500
+2016,General Fund,Human Services,4,Equipment,420,Office Equipment,41189
+2016,General Fund,Human Services,4,Equipment,423,Plumbing/air Conditioning/space Htg,2500
+2016,General Fund,Human Services,4,Equipment,424,"Precision, Photographic and Artist",11359
+2016,General Fund,Human Services,4,Equipment,426,Recreational and Educational,2500
+2016,General Fund,Human Services,4,Equipment,427,Computer Equipment & Peripherals,551585
+2016,General Fund,Human Services,4,Equipment,430,Furniture and Furnishings,51624
+2016,General Fund,Human Services,4,Equipment,499,Other Equipment (noc),7862
+2016,General Fund,Prisons,1,Personal Services,100,Salary Control,607935
+2016,General Fund,Prisons,1,Personal Services,101,Perm Full Time-civilian,107906887
+2016,General Fund,Prisons,1,Personal Services,109,Plus/minus Gross Adj,750000
+2016,General Fund,Prisons,1,Personal Services,131,Board,2800
+2016,General Fund,Prisons,1,Personal Services,161,Overtime Civilian,29153537
+2016,General Fund,Prisons,1,Personal Services,171,"Holiday ""g""(2/3 Shifts)",2609193
+2016,General Fund,Prisons,1,Personal Services,181,Shift,892418
+2016,General Fund,Prisons,1,Personal Services,199,Sick Pay(b Time)-civilian,338304
+2016,General Fund,Prisons,2,Purchase of Services,201,Cleaning and Laundering,540000
+2016,General Fund,Prisons,2,Purchase of Services,202,Janitorial Services,57500
+2016,General Fund,Prisons,2,Purchase of Services,205,Refuse/garbage/silt/sludge Removal,28000
+2016,General Fund,Prisons,2,Purchase of Services,209,Telephone,34000
+2016,General Fund,Prisons,2,Purchase of Services,210,Postage,23000
+2016,General Fund,Prisons,2,Purchase of Services,211,Transportation,132500
+2016,General Fund,Prisons,2,Purchase of Services,215,Licenses Permits Inspection Charges,1085
+2016,General Fund,Prisons,2,Purchase of Services,216,Commercial Off-shelf Comp Software,8999
+2016,General Fund,Prisons,2,Purchase of Services,230,Meals-non-travel & Officl Entertain,8000
+2016,General Fund,Prisons,2,Purchase of Services,240,Advertising/promotional Activities,3000
+2016,General Fund,Prisons,2,Purchase of Services,250,Professional Consult/spec Services,89786616
+2016,General Fund,Prisons,2,Purchase of Services,255,Dues,8000
+2016,General Fund,Prisons,2,Purchase of Services,256,Seminar and Training Sessions,74500
+2016,General Fund,Prisons,2,Purchase of Services,257,Architectural & Engineering Srvcs,28580
+2016,General Fund,Prisons,2,Purchase of Services,260,Repair and Maintenance Charges,1471147
+2016,General Fund,Prisons,2,Purchase of Services,266,Maint/support-computr Hardware/soft,100000
+2016,General Fund,Prisons,2,Purchase of Services,284,Ground and Building Rental,145119
+2016,General Fund,Prisons,2,Purchase of Services,285,Rents,68899
+2016,General Fund,Prisons,2,Purchase of Services,290,Payments for Care of Individuals,12806278
+2016,General Fund,Prisons,2,Purchase of Services,299,Other Expenses (not Othrwse Clssfd),129778
+2016,General Fund,Prisons,3,Materials and Supplies,302,"Animal, Livestock and Marine Life",2000
+2016,General Fund,Prisons,3,Materials and Supplies,303,"Bakeshop, Dining Room and Kitchen",20000
+2016,General Fund,Prisons,3,Materials and Supplies,304,Books and Other Publications,14000
+2016,General Fund,Prisons,3,Materials and Supplies,305,Building and Construction,230000
+2016,General Fund,Prisons,3,Materials and Supplies,307,Chemicals and Gases,21000
+2016,General Fund,Prisons,3,Materials and Supplies,308,Dry Goods/notions/wearing Apparel,1567298
+2016,General Fund,Prisons,3,Materials and Supplies,309,Cordage and Fibers,500
+2016,General Fund,Prisons,3,Materials and Supplies,310,Electrical and Communication,140000
+2016,General Fund,Prisons,3,Materials and Supplies,311,General Equipment and Machinery,62000
+2016,General Fund,Prisons,3,Materials and Supplies,312,Fire Fighting and Safety,198119
+2016,General Fund,Prisons,3,Materials and Supplies,313,Food,6000
+2016,General Fund,Prisons,3,Materials and Supplies,314,Fuel -- Heating and Lighting,69375
+2016,General Fund,Prisons,3,Materials and Supplies,316,General Hardware and Minor Tools,118000
+2016,General Fund,Prisons,3,Materials and Supplies,317,Hospital and Laboratory,73000
+2016,General Fund,Prisons,3,Materials and Supplies,318,"Janitorial, Laundry and Household",752000
+2016,General Fund,Prisons,3,Materials and Supplies,320,Office Materials and Supplies,202500
+2016,General Fund,Prisons,3,Materials and Supplies,322,Small Power Tools and Hand Tools,25000
+2016,General Fund,Prisons,3,Materials and Supplies,323,Plumbing/air Conditioning/space Htg,252000
+2016,General Fund,Prisons,3,Materials and Supplies,324,"Precision, Photographic and Artists",310000
+2016,General Fund,Prisons,3,Materials and Supplies,325,Printing,108500
+2016,General Fund,Prisons,3,Materials and Supplies,326,Recreational and Educational,1800
+2016,General Fund,Prisons,3,Materials and Supplies,328,Motor Vehicle Parts and Accessories,5000
+2016,General Fund,Prisons,3,Materials and Supplies,340,#2 Diesel Fuel,8000
+2016,General Fund,Prisons,3,Materials and Supplies,342,Liquid Propane Gas (lpg),4000
+2016,General Fund,Prisons,3,Materials and Supplies,399,Other Materials and Supplies (noc),14206
+2016,General Fund,Prisons,4,Equipment,410,Electrical Lighting Communication,14000
+2016,General Fund,Prisons,4,Equipment,411,General Equipment and Machinery,15000
+2016,General Fund,Prisons,4,Equipment,412,Fire Fighting and Emergency,2400
+2016,General Fund,Prisons,4,Equipment,418,Janitorial and Laundry,20000
+2016,General Fund,Prisons,4,Equipment,420,Office Equipment,18000
+2016,General Fund,Prisons,4,Equipment,423,Plumbing/air Conditioning/space Htg,125000
+2016,General Fund,Prisons,4,Equipment,424,"Precision, Photographic and Artist",3000
+2016,General Fund,Prisons,4,Equipment,426,Recreational and Educational,5000
+2016,General Fund,Prisons,4,Equipment,427,Computer Equipment & Peripherals,224739
+2016,General Fund,Prisons,4,Equipment,430,Furniture and Furnishings,86989
+2016,General Fund,Prisons,4,Equipment,499,Other Equipment (noc),50318
+2016,General Fund,Prisons,5,"Contributions, Indemnities, Refunds, Taxes",506,Prisoner Inmate & Resident Payments,1301757
+2016,General Fund,Office of Supportive Housing,1,Personal Services,100,Salary Control,11500
+2016,General Fund,Office of Supportive Housing,1,Personal Services,101,Perm Full Time-civilian,8013879
+2016,General Fund,Office of Supportive Housing,1,Personal Services,161,Overtime Civilian,204809
+2016,General Fund,Office of Supportive Housing,1,Personal Services,171,"Holiday ""g""(2/3 Shifts)",37072
+2016,General Fund,Office of Supportive Housing,1,Personal Services,181,Shift,13953
+2016,General Fund,Office of Supportive Housing,2,Purchase of Services,201,Cleaning and Laundering,36000
+2016,General Fund,Office of Supportive Housing,2,Purchase of Services,209,Telephone,35000
+2016,General Fund,Office of Supportive Housing,2,Purchase of Services,210,Postage,15500
+2016,General Fund,Office of Supportive Housing,2,Purchase of Services,211,Transportation,44800
+2016,General Fund,Office of Supportive Housing,2,Purchase of Services,215,Licenses Permits Inspection Charges,150
+2016,Water Fund,Revenue,2,Purchase of Services,285,Rents,25508
+2016,General Fund,Office of Supportive Housing,2,Purchase of Services,216,Commercial Off-shelf Comp Software,9000
+2016,General Fund,Office of Supportive Housing,2,Purchase of Services,250,Professional Consult/spec Services,5522905
+2016,General Fund,Office of Supportive Housing,2,Purchase of Services,254,Mental Health & Retardation Service,16200
+2016,General Fund,Office of Supportive Housing,2,Purchase of Services,255,Dues,1500
+2016,General Fund,Office of Supportive Housing,2,Purchase of Services,256,Seminar and Training Sessions,5500
+2016,General Fund,Office of Supportive Housing,2,Purchase of Services,260,Repair and Maintenance Charges,62000
+2016,General Fund,Office of Supportive Housing,2,Purchase of Services,284,Ground and Building Rental,3163002
+2016,General Fund,Office of Supportive Housing,2,Purchase of Services,285,Rents,25000
+2016,General Fund,Office of Supportive Housing,2,Purchase of Services,290,Payments for Care of Individuals,27950064
+2016,General Fund,Office of Supportive Housing,3,Materials and Supplies,303,"Bakeshop, Dining Room and Kitchen",10000
+2016,General Fund,Office of Supportive Housing,3,Materials and Supplies,305,Building and Construction,7868
+2016,General Fund,Office of Supportive Housing,3,Materials and Supplies,308,Dry Goods/notions/wearing Apparel,22598
+2016,General Fund,Office of Supportive Housing,3,Materials and Supplies,310,Electrical and Communication,2767
+2016,General Fund,Office of Supportive Housing,3,Materials and Supplies,313,Food,2500
+2016,General Fund,Office of Supportive Housing,3,Materials and Supplies,314,Fuel -- Heating and Lighting,7500
+2016,General Fund,Office of Supportive Housing,3,Materials and Supplies,316,General Hardware and Minor Tools,5700
+2016,General Fund,Office of Supportive Housing,3,Materials and Supplies,317,Hospital and Laboratory,12000
+2016,General Fund,Office of Supportive Housing,3,Materials and Supplies,318,"Janitorial, Laundry and Household",43383
+2016,General Fund,Office of Supportive Housing,3,Materials and Supplies,320,Office Materials and Supplies,26314
+2016,General Fund,Office of Supportive Housing,3,Materials and Supplies,324,"Precision, Photographic and Artists",9148
+2016,General Fund,Office of Supportive Housing,3,Materials and Supplies,325,Printing,10000
+2016,General Fund,Office of Supportive Housing,3,Materials and Supplies,326,Recreational and Educational,1800
+2016,General Fund,Office of Supportive Housing,3,Materials and Supplies,399,Other Materials and Supplies (noc),599
+2016,General Fund,Office of Supportive Housing,4,Equipment,418,Janitorial and Laundry,20000
+2016,General Fund,Office of Supportive Housing,4,Equipment,420,Office Equipment,38010
+2016,General Fund,Office of Supportive Housing,4,Equipment,427,Computer Equipment & Peripherals,50388
+2016,General Fund,Office of Supportive Housing,4,Equipment,430,Furniture and Furnishings,73552
+2016,General Fund,Office of Supportive Housing,5,"Contributions, Indemnities, Refunds, Taxes",506,Prisoner Inmate & Resident Payments,32421
+2016,General Fund,Fleet Management,1,Personal Services,100,Salary Control,131797
+2016,General Fund,Fleet Management,1,Personal Services,101,Perm Full Time-civilian,14324837
+2016,General Fund,Fleet Management,1,Personal Services,121,Temporary Seasonal,85611
+2016,General Fund,Fleet Management,1,Personal Services,161,Overtime Civilian,1818478
+2016,General Fund,Fleet Management,1,Personal Services,171,"Holiday ""g""(2/3 Shifts)",120143
+2016,General Fund,Fleet Management,1,Personal Services,181,Shift,64027
+2016,General Fund,Fleet Management,2,Purchase of Services,201,Cleaning and Laundering,62000
+2016,General Fund,Fleet Management,2,Purchase of Services,202,Janitorial Services,348000
+2016,General Fund,Fleet Management,2,Purchase of Services,209,Telephone,10000
+2016,General Fund,Fleet Management,2,Purchase of Services,210,Postage,2000
+2016,General Fund,Fleet Management,2,Purchase of Services,211,Transportation,10000
+2016,General Fund,Fleet Management,2,Purchase of Services,215,Licenses Permits Inspection Charges,76000
+2016,General Fund,Fleet Management,2,Purchase of Services,250,Professional Consult/spec Services,554000
+2016,General Fund,Fleet Management,2,Purchase of Services,255,Dues,4000
+2016,General Fund,Fleet Management,2,Purchase of Services,256,Seminar and Training Sessions,24000
+2016,General Fund,Fleet Management,2,Purchase of Services,260,Repair and Maintenance Charges,3514396
+2016,General Fund,Fleet Management,2,Purchase of Services,280,Insurance and Official Bonds,12000
+2016,General Fund,Fleet Management,2,Purchase of Services,283,Lease Purchase -- Vehicles,4500000
+2016,General Fund,Fleet Management,2,Purchase of Services,285,Rents,90000
+2016,General Fund,Fleet Management,2,Purchase of Services,286,Rental of Parking Spaces,398000
+2016,General Fund,Fleet Management,3,Materials and Supplies,304,Books and Other Publications,65000
+2016,General Fund,Fleet Management,3,Materials and Supplies,305,Building and Construction,155000
+2016,General Fund,Fleet Management,3,Materials and Supplies,307,Chemicals and Gases,148000
+2016,General Fund,Fleet Management,3,Materials and Supplies,308,Dry Goods/notions/wearing Apparel,125000
+2016,General Fund,Fleet Management,3,Materials and Supplies,310,Electrical and Communication,2000
+2016,General Fund,Fleet Management,3,Materials and Supplies,312,Fire Fighting and Safety,15000
+2016,General Fund,Fleet Management,3,Materials and Supplies,313,Food,2000
+2016,General Fund,Fleet Management,3,Materials and Supplies,314,Fuel -- Heating and Lighting,14000
+2016,General Fund,Fleet Management,3,Materials and Supplies,316,General Hardware and Minor Tools,38000
+2016,General Fund,Fleet Management,3,Materials and Supplies,317,Hospital and Laboratory,3000
+2016,General Fund,Fleet Management,3,Materials and Supplies,318,"Janitorial, Laundry and Household",63000
+2016,General Fund,Fleet Management,3,Materials and Supplies,320,Office Materials and Supplies,25000
+2016,General Fund,Fleet Management,3,Materials and Supplies,322,Small Power Tools and Hand Tools,76000
+2016,General Fund,Fleet Management,3,Materials and Supplies,323,Plumbing/air Conditioning/space Htg,1000
+2016,General Fund,Fleet Management,3,Materials and Supplies,324,"Precision, Photographic and Artists",20000
+2016,General Fund,Fleet Management,3,Materials and Supplies,325,Printing,8000
+2016,General Fund,Fleet Management,3,Materials and Supplies,328,Motor Vehicle Parts and Accessories,9371811
+2016,General Fund,Fleet Management,3,Materials and Supplies,335,Lubricants,545400
+2016,General Fund,Fleet Management,3,Materials and Supplies,340,#2 Diesel Fuel,5796000
+2016,General Fund,Fleet Management,3,Materials and Supplies,345,Gasoline,8190000
+2016,General Fund,Fleet Management,4,Equipment,403,"Bakeshop, Dining Room and Kitchen",1500
+2016,General Fund,Fleet Management,4,Equipment,405,"Construction, Dredging, Conveying",3000
+2016,General Fund,Fleet Management,4,Equipment,410,Electrical Lighting Communication,3500
+2016,General Fund,Fleet Management,4,Equipment,411,General Equipment and Machinery,188000
+2016,General Fund,Fleet Management,4,Equipment,418,Janitorial and Laundry,5000
+2016,General Fund,Fleet Management,4,Equipment,420,Office Equipment,15000
+2016,General Fund,Fleet Management,4,Equipment,423,Plumbing/air Conditioning/space Htg,2000
+2016,General Fund,Fleet Management,4,Equipment,424,"Precision, Photographic and Artist",2000
+2016,General Fund,Fleet Management,4,Equipment,427,Computer Equipment & Peripherals,60000
+2016,General Fund,Fleet Management,4,Equipment,428,Vehicles -- Motor and Motorless,10465000
+2016,General Fund,Fleet Management,4,Equipment,430,Furniture and Furnishings,20000
+2016,General Fund,Licenses and Inspections,1,Personal Services,100,Salary Control,180000
+2016,General Fund,Licenses and Inspections,1,Personal Services,101,Perm Full Time-civilian,19119111
+2016,General Fund,Licenses and Inspections,1,Personal Services,161,Overtime Civilian,465000
+2016,General Fund,Licenses and Inspections,1,Personal Services,171,"Holiday ""g""(2/3 Shifts)",5350
+2016,General Fund,Licenses and Inspections,1,Personal Services,181,Shift,1250
+2016,General Fund,Licenses and Inspections,2,Purchase of Services,201,Cleaning and Laundering,500
+2016,General Fund,Licenses and Inspections,2,Purchase of Services,202,Janitorial Services,29700
+2016,General Fund,Licenses and Inspections,2,Purchase of Services,205,Refuse/garbage/silt/sludge Removal,2000
+2016,General Fund,Licenses and Inspections,2,Purchase of Services,209,Telephone,26507
+2016,General Fund,Licenses and Inspections,2,Purchase of Services,210,Postage,500
+2016,General Fund,Licenses and Inspections,2,Purchase of Services,211,Transportation,177157
+2016,General Fund,Licenses and Inspections,2,Purchase of Services,230,Meals-non-travel & Officl Entertain,1000
+2016,General Fund,Licenses and Inspections,2,Purchase of Services,240,Advertising/promotional Activities,10000
+2016,General Fund,Licenses and Inspections,2,Purchase of Services,250,Professional Consult/spec Services,730012
+2016,General Fund,Licenses and Inspections,2,Purchase of Services,251,Information Technology-prof Service,7560
+2016,General Fund,Licenses and Inspections,2,Purchase of Services,255,Dues,4502
+2016,General Fund,Licenses and Inspections,2,Purchase of Services,256,Seminar and Training Sessions,390376
+2016,General Fund,Licenses and Inspections,2,Purchase of Services,258,Court Reporters,1000
+2016,General Fund,Licenses and Inspections,2,Purchase of Services,260,Repair and Maintenance Charges,337300
+2016,General Fund,Licenses and Inspections,2,Purchase of Services,262,Demolition of Buildings,8408812
+2016,General Fund,Licenses and Inspections,2,Purchase of Services,266,Maint/support-computr Hardware/soft,7838
+2016,General Fund,Licenses and Inspections,2,Purchase of Services,285,Rents,19900
+2016,General Fund,Licenses and Inspections,2,Purchase of Services,286,Rental of Parking Spaces,106492
+2016,General Fund,Licenses and Inspections,2,Purchase of Services,295,Purchase Services-imprest Advances,750
+2016,General Fund,Licenses and Inspections,3,Materials and Supplies,304,Books and Other Publications,16326
+2016,General Fund,Licenses and Inspections,3,Materials and Supplies,305,Building and Construction,108641
+2016,General Fund,Records,2,Purchase of Services,250,Professional Consult/spec Services,871154
+2016,General Fund,Licenses and Inspections,3,Materials and Supplies,308,Dry Goods/notions/wearing Apparel,35250
+2016,General Fund,Licenses and Inspections,3,Materials and Supplies,310,Electrical and Communication,7500
+2016,General Fund,Licenses and Inspections,3,Materials and Supplies,312,Fire Fighting and Safety,202800
+2016,General Fund,Licenses and Inspections,3,Materials and Supplies,316,General Hardware and Minor Tools,4100
+2016,General Fund,Licenses and Inspections,3,Materials and Supplies,318,"Janitorial, Laundry and Household",33052
+2016,General Fund,Licenses and Inspections,3,Materials and Supplies,320,Office Materials and Supplies,55000
+2016,General Fund,Licenses and Inspections,3,Materials and Supplies,322,Small Power Tools and Hand Tools,50000
+2016,General Fund,Licenses and Inspections,3,Materials and Supplies,324,"Precision, Photographic and Artists",30400
+2016,General Fund,Licenses and Inspections,3,Materials and Supplies,325,Printing,2500
+2016,General Fund,Licenses and Inspections,4,Equipment,405,"Construction, Dredging, Conveying",800
+2016,General Fund,Licenses and Inspections,4,Equipment,411,General Equipment and Machinery,2200
+2016,General Fund,Licenses and Inspections,4,Equipment,420,Office Equipment,66809
+2016,General Fund,Licenses and Inspections,4,Equipment,423,Plumbing/air Conditioning/space Htg,1300
+2016,General Fund,Licenses and Inspections,4,Equipment,424,"Precision, Photographic and Artist",6300
+2016,General Fund,Licenses and Inspections,4,Equipment,427,Computer Equipment & Peripherals,4605
+2016,General Fund,Licenses and Inspections,4,Equipment,428,Vehicles -- Motor and Motorless,130000
+2016,General Fund,Licenses and Inspections,4,Equipment,430,Furniture and Furnishings,686358
+2016,General Fund,L&I - Board of L&I Review,1,Personal Services,101,Perm Full Time-civilian,99445
+2016,General Fund,L&I - Board of L&I Review,1,Personal Services,131,Board,57909
+2016,General Fund,L&I - Board of L&I Review,2,Purchase of Services,258,Court Reporters,10436
+2016,General Fund,L&I - Board of Building Standards,1,Personal Services,101,Perm Full Time-civilian,49737
+2016,General Fund,L&I - Board of Building Standards,1,Personal Services,131,Board,24233
+2016,General Fund,L&I - Zoning Board of Adjustment,1,Personal Services,101,Perm Full Time-civilian,221130
+2016,General Fund,L&I - Zoning Board of Adjustment,1,Personal Services,131,Board,116619
+2016,General Fund,L&I - Zoning Board of Adjustment,2,Purchase of Services,258,Court Reporters,34541
+2016,General Fund,Records,1,Personal Services,100,Salary Control,1000
+2016,General Fund,Records,1,Personal Services,101,Perm Full Time-civilian,2794226
+2016,General Fund,Records,1,Personal Services,109,Plus/minus Gross Adj,35105
+2016,General Fund,Records,1,Personal Services,121,Temporary Seasonal,46169
+2016,General Fund,Records,1,Personal Services,131,Board,30279
+2016,General Fund,Records,1,Personal Services,161,Overtime Civilian,150172
+2016,General Fund,Records,1,Personal Services,181,Shift,1881
+2016,General Fund,Records,2,Purchase of Services,210,Postage,980
+2016,General Fund,Records,2,Purchase of Services,211,Transportation,65
+2016,General Fund,Records,2,Purchase of Services,215,Licenses Permits Inspection Charges,4013
+2016,General Fund,Records,2,Purchase of Services,216,Commercial Off-shelf Comp Software,1600
+2016,General Fund,Records,2,Purchase of Services,251,Information Technology-prof Service,455000
+2016,General Fund,Records,2,Purchase of Services,260,Repair and Maintenance Charges,115892
+2016,General Fund,Records,2,Purchase of Services,266,Maint/support-computr Hardware/soft,160556
+2016,General Fund,Records,2,Purchase of Services,285,Rents,1575
+2016,General Fund,Records,2,Purchase of Services,286,Rental of Parking Spaces,3900
+2016,General Fund,Records,2,Purchase of Services,298,Payments for Burials and Graves,1364
+2016,General Fund,Records,2,Purchase of Services,299,Other Expenses (not Othrwse Clssfd),2680
+2016,General Fund,Records,3,Materials and Supplies,304,Books and Other Publications,107
+2016,General Fund,Records,3,Materials and Supplies,320,Office Materials and Supplies,16676
+2016,General Fund,Records,3,Materials and Supplies,323,Plumbing/air Conditioning/space Htg,1845
+2016,General Fund,Records,3,Materials and Supplies,324,"Precision, Photographic and Artists",26108
+2016,General Fund,Records,3,Materials and Supplies,325,Printing,13235
+2016,General Fund,Records,3,Materials and Supplies,326,Recreational and Educational,2431
+2016,General Fund,Records,3,Materials and Supplies,345,Gasoline,100
+2016,General Fund,Records,4,Equipment,420,Office Equipment,4147
+2016,General Fund,Records,4,Equipment,423,Plumbing/air Conditioning/space Htg,172
+2016,General Fund,Records,4,Equipment,427,Computer Equipment & Peripherals,67374
+2016,General Fund,Records,4,Equipment,430,Furniture and Furnishings,3640
+2016,General Fund,Records,4,Equipment,499,Other Equipment (noc),7923
+2016,General Fund,Records,5,"Contributions, Indemnities, Refunds, Taxes",504,Meritorious Awards,1456
+2016,General Fund,Historical Commission,1,Personal Services,101,Perm Full Time-civilian,411150
+2016,General Fund,Historical Commission,1,Personal Services,131,Board,11621
+2016,General Fund,Historical Commission,2,Purchase of Services,209,Telephone,600
+2016,General Fund,Historical Commission,2,Purchase of Services,260,Repair and Maintenance Charges,380
+2016,General Fund,Historical Commission,3,Materials and Supplies,320,Office Materials and Supplies,809
+2016,General Fund,Art Museum,5,"Contributions, Indemnities, Refunds, Taxes",517,Contributions-gov & Non-prof Not Ed,2550000
+2016,General Fund,Finance,1,Personal Services,100,Salary Control,39025
+2016,General Fund,Finance,1,Personal Services,101,Perm Full Time-civilian,8623513
+2016,General Fund,Finance,1,Personal Services,111,Perm Part Time,28123
+2016,General Fund,Finance,1,Personal Services,121,Temporary Seasonal,33045
+2016,General Fund,Finance,1,Personal Services,131,Board,45000
+2016,General Fund,Finance,1,Personal Services,161,Overtime Civilian,32649
+2016,General Fund,Finance,1,Personal Services,171,"Holiday ""g""(2/3 Shifts)",565
+2016,General Fund,Finance - Employee Benefits,1,Personal Services,186,Flex Cash,800000
+2016,General Fund,Finance - Employee Benefits,1,Personal Services,187,Worker's Comp-disability Comp,32867982
+2016,General Fund,Finance - Employee Benefits,1,Personal Services,188,Worker's Comp-medical,25220818
+2016,General Fund,Finance - Employee Benefits,1,Personal Services,189,Medicare Tax,21608703
+2016,General Fund,Finance - Employee Benefits,1,Personal Services,190,Pension-obligation Bond Payments,113270454
+2016,General Fund,Finance - Employee Benefits,1,Personal Services,191,Pension,498430800
+2016,General Fund,Finance - Employee Benefits,1,Personal Services,192,FICA Taxes,50822751
+2016,General Fund,Finance - Employee Benefits,1,Personal Services,193,Medical Health & Welfare Credit,411484132
+2016,General Fund,Finance - Employee Benefits,1,Personal Services,194,Group Life Insurance,8100386
+2016,General Fund,Finance - Employee Benefits,1,Personal Services,195,Group Legal Insurance,4849842
+2016,General Fund,Finance - Employee Benefits,1,Personal Services,196,Unemployment Comp Insurance,4580260
+2016,General Fund,Finance - Employee Benefits,1,Personal Services,197,Auto Mechanic Tool Insurance,146267
+2016,General Fund,Finance,2,Purchase of Services,210,Postage,3073
+2016,General Fund,Finance,2,Purchase of Services,211,Transportation,3000
+2016,General Fund,Finance,2,Purchase of Services,230,Meals-non-travel & Officl Entertain,66102
+2016,General Fund,Finance,2,Purchase of Services,240,Advertising/promotional Activities,46
+2016,General Fund,Finance,2,Purchase of Services,250,Professional Consult/spec Services,1721975
+2016,General Fund,Finance,2,Purchase of Services,251,Information Technology-prof Service,1412500
+2016,General Fund,Finance,2,Purchase of Services,252,Accounting and Auditing Services,45000
+2016,General Fund,Finance,2,Purchase of Services,255,Dues,91946
+2016,General Fund,Finance,2,Purchase of Services,256,Seminar and Training Sessions,2759
+2016,General Fund,Finance,2,Purchase of Services,258,Court Reporters,15849
+2016,General Fund,Finance,2,Purchase of Services,260,Repair and Maintenance Charges,13645
+2016,General Fund,Finance,2,Purchase of Services,266,Maint/support-computr Hardware/soft,29901
+2016,General Fund,Finance,2,Purchase of Services,277,Witness Fees,171518
+2016,General Fund,Finance,2,Purchase of Services,280,Insurance and Official Bonds,796900
+2016,General Fund,Finance,2,Purchase of Services,285,Rents,3940
+2016,General Fund,Finance,2,Purchase of Services,286,Rental of Parking Spaces,1000
+2016,General Fund,Finance,2,Purchase of Services,298,Payments for Burials and Graves,161345
+2016,General Fund,Finance,2,Purchase of Services,299,Other Expenses (not Othrwse Clssfd),1980
+2016,General Fund,Finance,3,Materials and Supplies,304,Books and Other Publications,14731
+2016,General Fund,Finance,3,Materials and Supplies,320,Office Materials and Supplies,47078
+2016,General Fund,Finance,3,Materials and Supplies,324,"Precision, Photographic and Artists",5734
+2016,General Fund,Finance,3,Materials and Supplies,325,Printing,27615
+2016,General Fund,Finance,4,Equipment,420,Office Equipment,15616
+2016,General Fund,Finance,5,"Contributions, Indemnities, Refunds, Taxes",504,Meritorious Awards,25000
+2016,General Fund,Finance,5,"Contributions, Indemnities, Refunds, Taxes",505,Contributions-ed & Non-prof Rec Org,109493880
+2016,General Fund,Finance,5,"Contributions, Indemnities, Refunds, Taxes",512,Refunds,250000
+2016,General Fund,Finance,5,"Contributions, Indemnities, Refunds, Taxes",513,Indemnities-interdepartmental Trans,38000000
+2016,General Fund,Finance,5,"Contributions, Indemnities, Refunds, Taxes",517,Contributions-gov & Non-prof Not Ed,4375000
+2016,General Fund,Revenue,1,Personal Services,100,Salary Control,204500
+2016,General Fund,Revenue,1,Personal Services,101,Perm Full Time-civilian,17953438
+2016,General Fund,Revenue,1,Personal Services,121,Temporary Seasonal,833000
+2016,General Fund,Revenue,1,Personal Services,161,Overtime Civilian,612825
+2016,General Fund,Revenue,1,Personal Services,171,"Holiday ""g""(2/3 Shifts)",9000
+2016,General Fund,Revenue,1,Personal Services,181,Shift,4801
+2016,General Fund,Revenue,2,Purchase of Services,209,Telephone,675
+2016,General Fund,Revenue,2,Purchase of Services,210,Postage,2319769
+2016,General Fund,Revenue,2,Purchase of Services,211,Transportation,12680
+2016,General Fund,Revenue,2,Purchase of Services,216,Commercial Off-shelf Comp Software,835
+2016,General Fund,Revenue,2,Purchase of Services,230,Meals-non-travel & Officl Entertain,650
+2016,General Fund,Revenue,2,Purchase of Services,240,Advertising/promotional Activities,300
+2016,General Fund,Revenue,2,Purchase of Services,250,Professional Consult/spec Services,2774560
+2016,General Fund,Revenue,2,Purchase of Services,251,Information Technology-prof Service,43000
+2016,General Fund,Revenue,2,Purchase of Services,253,Legal Services,5700
+2016,General Fund,Revenue,2,Purchase of Services,255,Dues,19775
+2016,General Fund,Revenue,2,Purchase of Services,256,Seminar and Training Sessions,6510
+2016,General Fund,Revenue,2,Purchase of Services,258,Court Reporters,2000
+2016,General Fund,Revenue,2,Purchase of Services,260,Repair and Maintenance Charges,141545
+2016,General Fund,Revenue,2,Purchase of Services,266,Maint/support-computr Hardware/soft,1600
+2016,General Fund,Revenue,2,Purchase of Services,277,Witness Fees,100
+2016,General Fund,Revenue,2,Purchase of Services,285,Rents,23250
+2016,General Fund,Revenue,3,Materials and Supplies,304,Books and Other Publications,23900
+2016,General Fund,Revenue,3,Materials and Supplies,305,Building and Construction,1000
+2016,General Fund,Revenue,3,Materials and Supplies,308,Dry Goods/notions/wearing Apparel,1430
+2016,General Fund,Revenue,3,Materials and Supplies,310,Electrical and Communication,200
+2016,General Fund,Revenue,3,Materials and Supplies,316,General Hardware and Minor Tools,500
+2016,General Fund,Revenue,3,Materials and Supplies,317,Hospital and Laboratory,60
+2016,General Fund,Revenue,3,Materials and Supplies,318,"Janitorial, Laundry and Household",1576
+2016,General Fund,Revenue,3,Materials and Supplies,320,Office Materials and Supplies,173100
+2016,General Fund,Revenue,3,Materials and Supplies,324,"Precision, Photographic and Artists",22000
+2016,General Fund,Revenue,3,Materials and Supplies,325,Printing,498500
+2016,General Fund,Revenue,3,Materials and Supplies,326,Recreational and Educational,600
+2016,General Fund,Revenue,3,Materials and Supplies,335,Lubricants,500
+2016,General Fund,Revenue,3,Materials and Supplies,345,Gasoline,25
+2016,General Fund,Revenue,4,Equipment,410,Electrical Lighting Communication,15000
+2016,General Fund,Revenue,4,Equipment,418,Janitorial and Laundry,220
+2016,General Fund,Revenue,4,Equipment,420,Office Equipment,50000
+2016,General Fund,Revenue,4,Equipment,423,Plumbing/air Conditioning/space Htg,200
+2016,General Fund,Revenue,4,Equipment,424,"Precision, Photographic and Artist",1250
+2016,General Fund,Revenue,4,Equipment,427,Computer Equipment & Peripherals,400
+2016,General Fund,Revenue,4,Equipment,430,Furniture and Furnishings,10515
+2016,General Fund,Sinking Fund Commission (Debt Service),2,Purchase of Services,281,Lease Payments-phila Municipal Auth,26184743
+2016,General Fund,Sinking Fund Commission (Debt Service),2,Purchase of Services,285,Rents,78362170
+2016,General Fund,Sinking Fund Commission (Debt Service),7,Debt Service,701,Interest on City Debt -- Long-term,74283838
+2016,General Fund,Sinking Fund Commission (Debt Service),7,Debt Service,702,Principal Payments on City Debt-l/t,59175000
+2016,General Fund,Sinking Fund Commission (Debt Service),7,Debt Service,703,Interest on City Debt - Short-term,4500000
+2016,General Fund,Sinking Fund Commission (Debt Service),7,Debt Service,704,Sinking Fund Reserve Payment,1339375
+2016,General Fund,Sinking Fund Commission (Debt Service),7,Debt Service,705,Commitment Fee Expense,2000000
+2016,General Fund,Sinking Fund Commission (Debt Service),7,Debt Service,706,Arbitrage Payments,100000
+2016,General Fund,Procurement,1,Personal Services,100,Salary Control,7758
+2016,General Fund,Procurement,1,Personal Services,101,Perm Full Time-civilian,2459593
+2016,General Fund,Procurement,1,Personal Services,161,Overtime Civilian,5000
+2016,General Fund,Procurement,2,Purchase of Services,210,Postage,4500
+2016,General Fund,Procurement,2,Purchase of Services,211,Transportation,5000
+2016,General Fund,Procurement,2,Purchase of Services,230,Meals-non-travel & Officl Entertain,500
+2016,General Fund,Procurement,2,Purchase of Services,240,Advertising/promotional Activities,2194662
+2016,General Fund,Procurement,2,Purchase of Services,250,Professional Consult/spec Services,23500
+2016,General Fund,Procurement,2,Purchase of Services,251,Information Technology-prof Service,47000
+2016,General Fund,Procurement,2,Purchase of Services,255,Dues,2025
+2016,General Fund,Procurement,2,Purchase of Services,256,Seminar and Training Sessions,16580
+2016,General Fund,Procurement,2,Purchase of Services,258,Court Reporters,300
+2016,General Fund,Procurement,2,Purchase of Services,260,Repair and Maintenance Charges,19200
+2016,General Fund,Procurement,2,Purchase of Services,285,Rents,3000
+2016,General Fund,Procurement,3,Materials and Supplies,304,Books and Other Publications,9000
+2016,General Fund,Procurement,3,Materials and Supplies,308,Dry Goods/notions/wearing Apparel,100
+2016,General Fund,Procurement,3,Materials and Supplies,320,Office Materials and Supplies,20000
+2016,General Fund,Procurement,3,Materials and Supplies,324,"Precision, Photographic and Artists",5605
+2016,General Fund,Procurement,3,Materials and Supplies,325,Printing,4849
+2016,General Fund,Procurement,4,Equipment,420,Office Equipment,7500
+2016,General Fund,Procurement,4,Equipment,430,Furniture and Furnishings,2000
+2016,General Fund,City Treasurer,1,Personal Services,100,Salary Control,10236
+2016,General Fund,City Treasurer,1,Personal Services,101,Perm Full Time-civilian,975453
+2016,General Fund,City Treasurer,2,Purchase of Services,209,Telephone,600
+2016,General Fund,City Treasurer,2,Purchase of Services,210,Postage,1781
+2016,General Fund,City Treasurer,2,Purchase of Services,211,Transportation,434
+2016,General Fund,City Treasurer,2,Purchase of Services,250,Professional Consult/spec Services,102279
+2016,General Fund,City Treasurer,2,Purchase of Services,255,Dues,1500
+2016,General Fund,City Treasurer,2,Purchase of Services,256,Seminar and Training Sessions,3500
+2016,General Fund,City Treasurer,2,Purchase of Services,260,Repair and Maintenance Charges,4200
+2016,General Fund,City Treasurer,2,Purchase of Services,285,Rents,4150
+2016,General Fund,City Treasurer,3,Materials and Supplies,304,Books and Other Publications,1022
+2016,General Fund,City Treasurer,3,Materials and Supplies,322,Small Power Tools and Hand Tools,6200
+2016,General Fund,City Treasurer,3,Materials and Supplies,324,"Precision, Photographic and Artists",1000
+2016,General Fund,City Treasurer,3,Materials and Supplies,325,Printing,13002
+2016,General Fund,City Treasurer,4,Equipment,420,Office Equipment,1000
+2016,General Fund,City Representative,1,Personal Services,101,Perm Full Time-civilian,418201
+2016,General Fund,City Representative,2,Purchase of Services,211,Transportation,8000
+2016,General Fund,City Representative,2,Purchase of Services,230,Meals-non-travel & Officl Entertain,2100
+2016,General Fund,City Representative,2,Purchase of Services,250,Professional Consult/spec Services,528130
+2016,General Fund,City Representative,2,Purchase of Services,255,Dues,1000
+2016,General Fund,City Representative,2,Purchase of Services,256,Seminar and Training Sessions,10000
+2016,General Fund,City Representative,2,Purchase of Services,260,Repair and Maintenance Charges,5000
+2016,General Fund,City Representative,2,Purchase of Services,285,Rents,7500
+2016,General Fund,City Representative,3,Materials and Supplies,304,Books and Other Publications,31000
+2016,General Fund,City Representative,3,Materials and Supplies,320,Office Materials and Supplies,6000
+2016,General Fund,City Representative,3,Materials and Supplies,324,"Precision, Photographic and Artists",8000
+2016,General Fund,City Representative,3,Materials and Supplies,325,Printing,3000
+2016,General Fund,City Representative,4,Equipment,424,"Precision, Photographic and Artist",6000
+2016,General Fund,Commerce,1,Personal Services,101,Perm Full Time-civilian,2356211
+2016,General Fund,Commerce,2,Purchase of Services,211,Transportation,1185
+2016,General Fund,Commerce,2,Purchase of Services,230,Meals-non-travel & Officl Entertain,30
+2016,General Fund,Commerce,2,Purchase of Services,250,Professional Consult/spec Services,5148448
+2016,General Fund,Commerce,2,Purchase of Services,256,Seminar and Training Sessions,325
+2016,General Fund,Commerce,2,Purchase of Services,260,Repair and Maintenance Charges,1875
+2016,General Fund,Commerce,2,Purchase of Services,285,Rents,15012816
+2016,General Fund,Commerce,2,Purchase of Services,295,Purchase Services-imprest Advances,250
+2016,General Fund,Commerce,3,Materials and Supplies,304,Books and Other Publications,1702
+2016,General Fund,Commerce,3,Materials and Supplies,310,Electrical and Communication,66
+2016,General Fund,Commerce,3,Materials and Supplies,318,"Janitorial, Laundry and Household",395
+2016,General Fund,Commerce,3,Materials and Supplies,320,Office Materials and Supplies,16500
+2016,General Fund,Commerce,3,Materials and Supplies,324,"Precision, Photographic and Artists",16038
+2016,General Fund,Commerce,3,Materials and Supplies,325,Printing,1953
+2016,General Fund,Commerce,5,"Contributions, Indemnities, Refunds, Taxes",517,Contributions-gov & Non-prof Not Ed,500000
+2016,General Fund,Law,1,Personal Services,100,Salary Control,20000
+2016,General Fund,Law,1,Personal Services,101,Perm Full Time-civilian,7353566
+2016,General Fund,Law,1,Personal Services,121,Temporary Seasonal,5000
+2016,General Fund,Law,1,Personal Services,161,Overtime Civilian,5000
+2016,General Fund,Law,2,Purchase of Services,209,Telephone,200
+2016,General Fund,Law,2,Purchase of Services,210,Postage,2000
+2016,General Fund,Law,2,Purchase of Services,211,Transportation,17300
+2016,General Fund,Law,2,Purchase of Services,216,Commercial Off-shelf Comp Software,3000
+2016,General Fund,Law,2,Purchase of Services,250,Professional Consult/spec Services,1554695
+2016,General Fund,Law,2,Purchase of Services,251,Information Technology-prof Service,160000
+2016,General Fund,Law,2,Purchase of Services,253,Legal Services,4199488
+2016,General Fund,Law,2,Purchase of Services,255,Dues,40000
+2016,General Fund,Law,2,Purchase of Services,256,Seminar and Training Sessions,20000
+2016,General Fund,Law,2,Purchase of Services,257,Architectural & Engineering Srvcs,400000
+2016,General Fund,Law,2,Purchase of Services,258,Court Reporters,300000
+2016,General Fund,Law,2,Purchase of Services,259,Arbitration Fees,200000
+2016,General Fund,Law,2,Purchase of Services,260,Repair and Maintenance Charges,14748
+2016,General Fund,Law,2,Purchase of Services,266,Maint/support-computr Hardware/soft,1478
+2016,General Fund,Law,2,Purchase of Services,277,Witness Fees,8125
+2016,General Fund,Law,2,Purchase of Services,285,Rents,89000
+2016,General Fund,Law,3,Materials and Supplies,304,Books and Other Publications,130000
+2016,General Fund,Law,3,Materials and Supplies,310,Electrical and Communication,70
+2016,General Fund,Law,3,Materials and Supplies,318,"Janitorial, Laundry and Household",185
+2016,General Fund,Law,3,Materials and Supplies,320,Office Materials and Supplies,45000
+2016,General Fund,Law,3,Materials and Supplies,324,"Precision, Photographic and Artists",21930
+2016,General Fund,Law,3,Materials and Supplies,325,Printing,14000
+2016,General Fund,Law,4,Equipment,420,Office Equipment,32491
+2016,General Fund,Law,4,Equipment,430,Furniture and Furnishings,5000
+2016,General Fund,Board of Ethics,1,Personal Services,101,Perm Full Time-civilian,956989
+2016,General Fund,Board of Ethics,2,Purchase of Services,209,Telephone,3000
+2016,General Fund,Board of Ethics,2,Purchase of Services,210,Postage,1500
+2016,General Fund,Board of Ethics,2,Purchase of Services,211,Transportation,6500
+2016,General Fund,Board of Ethics,2,Purchase of Services,240,Advertising/promotional Activities,500
+2016,General Fund,Board of Ethics,2,Purchase of Services,250,Professional Consult/spec Services,13200
+2016,General Fund,Board of Ethics,2,Purchase of Services,251,Information Technology-prof Service,15000
+2016,General Fund,Board of Ethics,2,Purchase of Services,252,Accounting and Auditing Services,12000
+2016,General Fund,Board of Ethics,2,Purchase of Services,253,Legal Services,14500
+2016,General Fund,Board of Ethics,2,Purchase of Services,255,Dues,650
+2016,General Fund,Board of Ethics,2,Purchase of Services,256,Seminar and Training Sessions,6000
+2016,General Fund,Board of Ethics,2,Purchase of Services,258,Court Reporters,10000
+2016,General Fund,Board of Ethics,2,Purchase of Services,260,Repair and Maintenance Charges,6000
+2016,General Fund,Board of Ethics,2,Purchase of Services,266,Maint/support-computr Hardware/soft,2000
+2016,General Fund,Board of Ethics,2,Purchase of Services,285,Rents,3150
+2016,General Fund,Board of Ethics,2,Purchase of Services,299,Other Expenses (not Othrwse Clssfd),2000
+2016,General Fund,Board of Ethics,3,Materials and Supplies,304,Books and Other Publications,2000
+2016,General Fund,Board of Ethics,3,Materials and Supplies,320,Office Materials and Supplies,3000
+2016,General Fund,Board of Ethics,3,Materials and Supplies,325,Printing,500
+2016,General Fund,Board of Ethics,3,Materials and Supplies,399,Other Materials and Supplies (noc),1500
+2016,General Fund,Board of Ethics,4,Equipment,420,Office Equipment,500
+2016,General Fund,Board of Ethics,4,Equipment,427,Computer Equipment & Peripherals,6000
+2016,General Fund,Board of Ethics,4,Equipment,430,Furniture and Furnishings,500
+2016,General Fund,Mayor's Office of Transportation & Utilities,1,Personal Services,100,Salary Control,25000
+2016,General Fund,Mayor's Office of Transportation & Utilities,1,Personal Services,101,Perm Full Time-civilian,449340
+2016,General Fund,Mayor's Office of Transportation & Utilities,2,Purchase of Services,211,Transportation,5000
+2016,General Fund,Mayor's Office of Transportation & Utilities,2,Purchase of Services,250,Professional Consult/spec Services,244930
+2016,General Fund,Mayor's Office of Transportation & Utilities,2,Purchase of Services,256,Seminar and Training Sessions,10000
+2016,General Fund,Youth Commission,1,Personal Services,101,Perm Full Time-civilian,78660
+2016,General Fund,Youth Commission,1,Personal Services,111,Perm Part Time,10000
+2016,General Fund,Youth Commission,1,Personal Services,121,Temporary Seasonal,4000
+2016,General Fund,Youth Commission,2,Purchase of Services,210,Postage,25
+2016,General Fund,Youth Commission,2,Purchase of Services,211,Transportation,500
+2016,General Fund,Youth Commission,2,Purchase of Services,230,Meals-non-travel & Officl Entertain,1500
+2016,General Fund,Youth Commission,2,Purchase of Services,240,Advertising/promotional Activities,23675
+2016,General Fund,Youth Commission,2,Purchase of Services,250,Professional Consult/spec Services,11000
+2016,General Fund,Youth Commission,2,Purchase of Services,251,Information Technology-prof Service,1000
+2016,General Fund,Youth Commission,2,Purchase of Services,256,Seminar and Training Sessions,4000
+2016,General Fund,Youth Commission,2,Purchase of Services,285,Rents,4300
+2016,General Fund,Youth Commission,3,Materials and Supplies,308,Dry Goods/notions/wearing Apparel,3800
+2016,General Fund,Youth Commission,3,Materials and Supplies,320,Office Materials and Supplies,280
+2016,General Fund,Office of the Inspector General,1,Personal Services,100,Salary Control,15111
+2016,General Fund,Office of the Inspector General,1,Personal Services,101,Perm Full Time-civilian,1375500
+2016,General Fund,Office of the Inspector General,2,Purchase of Services,210,Postage,10
+2016,General Fund,Office of the Inspector General,2,Purchase of Services,211,Transportation,5000
+2016,General Fund,Office of the Inspector General,2,Purchase of Services,230,Meals-non-travel & Officl Entertain,500
+2016,General Fund,Office of the Inspector General,2,Purchase of Services,250,Professional Consult/spec Services,250004
+2016,General Fund,Office of the Inspector General,2,Purchase of Services,251,Information Technology-prof Service,832
+2016,General Fund,Office of the Inspector General,2,Purchase of Services,253,Legal Services,400
+2016,General Fund,Office of the Inspector General,2,Purchase of Services,255,Dues,1000
+2016,General Fund,Office of the Inspector General,2,Purchase of Services,256,Seminar and Training Sessions,10000
+2016,General Fund,Office of the Inspector General,2,Purchase of Services,260,Repair and Maintenance Charges,500
+2016,General Fund,Office of the Inspector General,2,Purchase of Services,282,Rent/lease-purchase Computer Equip,4729
+2016,General Fund,Office of the Inspector General,3,Materials and Supplies,320,Office Materials and Supplies,2925
+2016,General Fund,Office of the Inspector General,3,Materials and Supplies,325,Printing,200
+2016,General Fund,Office of the Inspector General,4,Equipment,420,Office Equipment,600
+2016,General Fund,Office of the Inspector General,4,Equipment,427,Computer Equipment & Peripherals,1500
+2016,General Fund,Office of Sustainability,1,Personal Services,101,Perm Full Time-civilian,514768
+2016,General Fund,Office of Sustainability,1,Personal Services,121,Temporary Seasonal,23211
+2016,General Fund,Office of Sustainability,2,Purchase of Services,211,Transportation,6000
+2016,General Fund,Office of Sustainability,2,Purchase of Services,216,Commercial Off-shelf Comp Software,30000
+2016,General Fund,Office of Sustainability,2,Purchase of Services,240,Advertising/promotional Activities,2500
+2016,General Fund,Office of Sustainability,2,Purchase of Services,250,Professional Consult/spec Services,210708
+2016,General Fund,Office of Sustainability,2,Purchase of Services,255,Dues,10000
+2016,General Fund,Office of Sustainability,2,Purchase of Services,256,Seminar and Training Sessions,8999
+2016,General Fund,Office of Sustainability,2,Purchase of Services,266,Maint/support-computr Hardware/soft,5121
+2016,General Fund,Office of Sustainability,2,Purchase of Services,282,Rent/lease-purchase Computer Equip,2926
+2016,General Fund,Office of Sustainability,2,Purchase of Services,284,Ground and Building Rental,903
+2016,General Fund,Office of Sustainability,2,Purchase of Services,299,Other Expenses (not Othrwse Clssfd),2351
+2016,General Fund,Office of Sustainability,3,Materials and Supplies,320,Office Materials and Supplies,329
+2016,General Fund,Office of Sustainability,3,Materials and Supplies,325,Printing,12964
+2016,General Fund,Office of Sustainability,3,Materials and Supplies,399,Other Materials and Supplies (noc),627
+2016,General Fund,Office of Sustainability,4,Equipment,427,Computer Equipment & Peripherals,1362
+2016,General Fund,Office of Sustainability,4,Equipment,430,Furniture and Furnishings,514
+2016,General Fund,Office of Sustainability,4,Equipment,499,Other Equipment (noc),2044
+2016,General Fund,Mural Arts Program,1,Personal Services,101,Perm Full Time-civilian,485020
+2016,General Fund,Mural Arts Program,1,Personal Services,161,Overtime Civilian,5381
+2016,General Fund,Mural Arts Program,2,Purchase of Services,250,Professional Consult/spec Services,1155615
+2016,General Fund,City Planning Commission,1,Personal Services,100,Salary Control,66539
+2016,General Fund,City Planning Commission,1,Personal Services,101,Perm Full Time-civilian,2239995
+2016,General Fund,City Planning Commission,1,Personal Services,131,Board,3000
+2016,General Fund,City Planning Commission,2,Purchase of Services,205,Refuse/garbage/silt/sludge Removal,200
+2016,General Fund,City Planning Commission,2,Purchase of Services,210,Postage,500
+2016,General Fund,City Planning Commission,2,Purchase of Services,211,Transportation,15000
+2016,General Fund,City Planning Commission,2,Purchase of Services,230,Meals-non-travel & Officl Entertain,4000
+2016,General Fund,City Planning Commission,2,Purchase of Services,250,Professional Consult/spec Services,85000
+2016,General Fund,City Planning Commission,2,Purchase of Services,255,Dues,2500
+2016,General Fund,City Planning Commission,2,Purchase of Services,256,Seminar and Training Sessions,16392
+2016,General Fund,City Planning Commission,2,Purchase of Services,258,Court Reporters,1000
+2016,General Fund,City Planning Commission,2,Purchase of Services,285,Rents,30000
+2016,General Fund,City Planning Commission,3,Materials and Supplies,304,Books and Other Publications,1000
+2016,General Fund,City Planning Commission,3,Materials and Supplies,320,Office Materials and Supplies,7500
+2016,General Fund,City Planning Commission,3,Materials and Supplies,324,"Precision, Photographic and Artists",8824
+2016,General Fund,City Planning Commission,3,Materials and Supplies,325,Printing,8328
+2016,General Fund,City Planning Commission,4,Equipment,427,Computer Equipment & Peripherals,15000
+2016,General Fund,Free Library,1,Personal Services,100,Salary Control,356573
+2016,General Fund,Free Library,1,Personal Services,101,Perm Full Time-civilian,30996704
+2016,General Fund,Free Library,1,Personal Services,111,Perm Part Time,1284511
+2016,General Fund,Free Library,1,Personal Services,121,Temporary Seasonal,1555315
+2016,General Fund,Free Library,1,Personal Services,161,Overtime Civilian,1219125
+2016,General Fund,Free Library,1,Personal Services,171,"Holiday ""g""(2/3 Shifts)",9078
+2016,General Fund,Free Library,1,Personal Services,181,Shift,52946
+2016,General Fund,Free Library,2,Purchase of Services,201,Cleaning and Laundering,17911
+2016,General Fund,Free Library,2,Purchase of Services,202,Janitorial Services,2155
+2016,General Fund,Free Library,2,Purchase of Services,209,Telephone,1067570
+2016,General Fund,Free Library,2,Purchase of Services,211,Transportation,4943
+2016,General Fund,Free Library,2,Purchase of Services,216,Commercial Off-shelf Comp Software,46317
+2016,General Fund,Free Library,2,Purchase of Services,230,Meals-non-travel & Officl Entertain,19177
+2016,General Fund,Free Library,2,Purchase of Services,250,Professional Consult/spec Services,219805
+2016,General Fund,Free Library,2,Purchase of Services,255,Dues,1250
+2016,General Fund,Free Library,2,Purchase of Services,256,Seminar and Training Sessions,885
+2016,General Fund,Free Library,2,Purchase of Services,260,Repair and Maintenance Charges,642372
+2016,General Fund,Free Library,2,Purchase of Services,266,Maint/support-computr Hardware/soft,284862
+2016,General Fund,Free Library,2,Purchase of Services,285,Rents,16830
+2016,General Fund,Free Library,3,Materials and Supplies,305,Building and Construction,30008
+2016,General Fund,Free Library,3,Materials and Supplies,306,Library Materials,2001589
+2016,General Fund,Free Library,3,Materials and Supplies,308,Dry Goods/notions/wearing Apparel,7093
+2016,General Fund,Free Library,3,Materials and Supplies,310,Electrical and Communication,12400
+2016,General Fund,Free Library,3,Materials and Supplies,316,General Hardware and Minor Tools,14418
+2016,General Fund,Free Library,3,Materials and Supplies,317,Hospital and Laboratory,4340
+2016,General Fund,Free Library,3,Materials and Supplies,318,"Janitorial, Laundry and Household",61294
+2016,General Fund,Free Library,3,Materials and Supplies,320,Office Materials and Supplies,81278
+2016,Water Fund,Water,1,Personal Services,161,Overtime Civilian,13171100
+2016,General Fund,Free Library,3,Materials and Supplies,324,"Precision, Photographic and Artists",10855
+2016,General Fund,Free Library,3,Materials and Supplies,325,Printing,16340
+2016,General Fund,Free Library,4,Equipment,411,General Equipment and Machinery,12860
+2016,General Fund,Free Library,4,Equipment,418,Janitorial and Laundry,1712
+2016,General Fund,Free Library,4,Equipment,420,Office Equipment,7231
+2016,General Fund,Free Library,4,Equipment,423,Plumbing/air Conditioning/space Htg,1415
+2016,General Fund,Free Library,4,Equipment,427,Computer Equipment & Peripherals,20892
+2016,General Fund,Free Library,4,Equipment,430,Furniture and Furnishings,18934
+2016,General Fund,Human Relations Commission,1,Personal Services,100,Salary Control,70000
+2016,General Fund,Human Relations Commission,1,Personal Services,101,Perm Full Time-civilian,1979408
+2016,General Fund,Human Relations Commission,1,Personal Services,131,Board,50000
+2016,General Fund,Human Relations Commission,2,Purchase of Services,209,Telephone,1500
+2016,General Fund,Human Relations Commission,2,Purchase of Services,210,Postage,50
+2016,General Fund,Human Relations Commission,2,Purchase of Services,211,Transportation,3250
+2016,General Fund,Human Relations Commission,2,Purchase of Services,230,Meals-non-travel & Officl Entertain,500
+2016,General Fund,Human Relations Commission,2,Purchase of Services,250,Professional Consult/spec Services,3500
+2016,General Fund,Human Relations Commission,2,Purchase of Services,255,Dues,1000
+2016,General Fund,Human Relations Commission,2,Purchase of Services,256,Seminar and Training Sessions,4357
+2016,General Fund,Human Relations Commission,2,Purchase of Services,258,Court Reporters,15500
+2016,General Fund,Human Relations Commission,2,Purchase of Services,260,Repair and Maintenance Charges,5000
+2016,General Fund,Human Relations Commission,3,Materials and Supplies,304,Books and Other Publications,1000
+2016,General Fund,Human Relations Commission,3,Materials and Supplies,320,Office Materials and Supplies,10731
+2016,General Fund,Human Relations Commission,3,Materials and Supplies,325,Printing,1000
+2016,General Fund,Human Relations Commission,4,Equipment,420,Office Equipment,300
+2016,General Fund,Civil Service Commission,1,Personal Services,101,Perm Full Time-civilian,98918
+2016,General Fund,Civil Service Commission,1,Personal Services,131,Board,48425
+2016,General Fund,Civil Service Commission,2,Purchase of Services,250,Professional Consult/spec Services,29500
+2016,General Fund,Civil Service Commission,3,Materials and Supplies,320,Office Materials and Supplies,375
+2016,General Fund,Civil Service Commission,3,Materials and Supplies,325,Printing,125
+2016,General Fund,Civil Service Commission,4,Equipment,427,Computer Equipment & Peripherals,594
+2016,General Fund,Office of Human Resources,1,Personal Services,100,Salary Control,79576
+2016,General Fund,Office of Human Resources,1,Personal Services,101,Perm Full Time-civilian,5164745
+2016,General Fund,Office of Human Resources,1,Personal Services,121,Temporary Seasonal,110000
+2016,General Fund,Office of Human Resources,1,Personal Services,161,Overtime Civilian,45300
+2016,General Fund,Office of Human Resources,2,Purchase of Services,210,Postage,25000
+2016,General Fund,Office of Human Resources,2,Purchase of Services,211,Transportation,237800
+2016,General Fund,Office of Human Resources,2,Purchase of Services,230,Meals-non-travel & Officl Entertain,5000
+2016,General Fund,Office of Human Resources,2,Purchase of Services,240,Advertising/promotional Activities,13000
+2016,General Fund,Office of Human Resources,2,Purchase of Services,250,Professional Consult/spec Services,570275
+2016,General Fund,Office of Human Resources,2,Purchase of Services,255,Dues,22860
+2016,General Fund,Office of Human Resources,2,Purchase of Services,256,Seminar and Training Sessions,30500
+2016,General Fund,Office of Human Resources,2,Purchase of Services,260,Repair and Maintenance Charges,15700
+2016,General Fund,Office of Human Resources,2,Purchase of Services,285,Rents,43330
+2016,General Fund,Office of Human Resources,2,Purchase of Services,299,Other Expenses (not Othrwse Clssfd),605
+2016,General Fund,Office of Human Resources,3,Materials and Supplies,304,Books and Other Publications,14352
+2016,General Fund,Office of Human Resources,3,Materials and Supplies,307,Chemicals and Gases,500
+2016,General Fund,Office of Human Resources,3,Materials and Supplies,317,Hospital and Laboratory,18500
+2016,General Fund,Office of Human Resources,3,Materials and Supplies,320,Office Materials and Supplies,19600
+2016,General Fund,Office of Human Resources,3,Materials and Supplies,324,"Precision, Photographic and Artists",5330
+2016,General Fund,Office of Human Resources,3,Materials and Supplies,325,Printing,7300
+2016,General Fund,Office of Human Resources,4,Equipment,420,Office Equipment,4350
+2016,General Fund,Office of Arts and Culture,1,Personal Services,101,Perm Full Time-civilian,312767
+2016,General Fund,Office of Arts and Culture,2,Purchase of Services,210,Postage,334
+2016,General Fund,Office of Arts and Culture,2,Purchase of Services,230,Meals-non-travel & Officl Entertain,1504
+2016,General Fund,Office of Arts and Culture,2,Purchase of Services,250,Professional Consult/spec Services,479400
+2016,General Fund,Office of Arts and Culture,2,Purchase of Services,255,Dues,400
+2016,General Fund,Office of Arts and Culture,2,Purchase of Services,260,Repair and Maintenance Charges,762
+2016,General Fund,Office of Arts and Culture,3,Materials and Supplies,320,Office Materials and Supplies,7000
+2016,General Fund,Office of Arts and Culture,5,"Contributions, Indemnities, Refunds, Taxes",505,Contributions-ed & Non-prof Rec Org,230688
+2016,General Fund,Office of Arts and Culture,5,"Contributions, Indemnities, Refunds, Taxes",517,Contributions-gov & Non-prof Not Ed,3140000
+2016,General Fund,Office of Property Assessment,1,Personal Services,100,Salary Control,50000
+2016,General Fund,Office of Property Assessment,1,Personal Services,101,Perm Full Time-civilian,10274420
+2016,General Fund,Office of Property Assessment,1,Personal Services,121,Temporary Seasonal,50000
+2016,General Fund,Office of Property Assessment,1,Personal Services,161,Overtime Civilian,50000
+2016,General Fund,Office of Property Assessment,2,Purchase of Services,205,Refuse/garbage/silt/sludge Removal,5000
+2016,General Fund,Office of Property Assessment,2,Purchase of Services,210,Postage,174248
+2016,General Fund,Office of Property Assessment,2,Purchase of Services,211,Transportation,20000
+2016,General Fund,Office of Property Assessment,2,Purchase of Services,240,Advertising/promotional Activities,500
+2016,General Fund,Office of Property Assessment,2,Purchase of Services,250,Professional Consult/spec Services,1723378
+2016,General Fund,Office of Property Assessment,2,Purchase of Services,251,Information Technology-prof Service,15000
+2016,General Fund,Office of Property Assessment,2,Purchase of Services,255,Dues,45000
+2016,General Fund,Office of Property Assessment,2,Purchase of Services,256,Seminar and Training Sessions,50000
+2016,General Fund,Office of Property Assessment,2,Purchase of Services,258,Court Reporters,10000
+2016,General Fund,Office of Property Assessment,2,Purchase of Services,260,Repair and Maintenance Charges,25000
+2016,General Fund,Office of Property Assessment,2,Purchase of Services,284,Ground and Building Rental,10000
+2016,General Fund,Office of Property Assessment,3,Materials and Supplies,304,Books and Other Publications,16000
+2016,General Fund,Office of Property Assessment,3,Materials and Supplies,313,Food,100
+2016,General Fund,Office of Property Assessment,3,Materials and Supplies,316,General Hardware and Minor Tools,100
+2016,General Fund,Office of Property Assessment,3,Materials and Supplies,320,Office Materials and Supplies,53000
+2016,General Fund,Office of Property Assessment,3,Materials and Supplies,324,"Precision, Photographic and Artists",66068
+2016,General Fund,Office of Property Assessment,3,Materials and Supplies,325,Printing,581332
+2016,General Fund,Office of Property Assessment,4,Equipment,420,Office Equipment,16000
+2016,General Fund,Office of Property Assessment,4,Equipment,430,Furniture and Furnishings,50000
+2016,General Fund,City Controller,1,Personal Services,100,Salary Control,15000
+2016,General Fund,City Controller,1,Personal Services,101,Perm Full Time-civilian,7624840
+2016,General Fund,City Controller,1,Personal Services,111,Perm Part Time,24960
+2016,General Fund,City Controller,1,Personal Services,121,Temporary Seasonal,25000
+2016,General Fund,City Controller,1,Personal Services,161,Overtime Civilian,50000
+2016,General Fund,City Controller,1,Personal Services,181,Shift,33085
+2016,General Fund,City Controller,2,Purchase of Services,210,Postage,500
+2016,General Fund,City Controller,2,Purchase of Services,211,Transportation,1600
+2016,General Fund,City Controller,2,Purchase of Services,215,Licenses Permits Inspection Charges,206
+2016,General Fund,City Controller,2,Purchase of Services,230,Meals-non-travel & Officl Entertain,1050
+2016,General Fund,City Controller,2,Purchase of Services,250,Professional Consult/spec Services,136000
+2016,General Fund,City Controller,2,Purchase of Services,251,Information Technology-prof Service,76000
+2016,General Fund,City Controller,2,Purchase of Services,252,Accounting and Auditing Services,229094
+2016,General Fund,City Controller,2,Purchase of Services,255,Dues,7000
+2016,General Fund,City Controller,2,Purchase of Services,256,Seminar and Training Sessions,33000
+2016,General Fund,City Controller,2,Purchase of Services,266,Maint/support-computr Hardware/soft,13000
+2016,General Fund,City Controller,3,Materials and Supplies,320,Office Materials and Supplies,15000
+2016,General Fund,City Controller,4,Equipment,420,Office Equipment,10000
+2016,General Fund,Board of Revision of Taxes,1,Personal Services,101,Perm Full Time-civilian,792747
+2016,General Fund,Board of Revision of Taxes,1,Personal Services,121,Temporary Seasonal,26880
+2016,General Fund,Board of Revision of Taxes,2,Purchase of Services,240,Advertising/promotional Activities,100
+2016,General Fund,Board of Revision of Taxes,2,Purchase of Services,258,Court Reporters,11860
+2016,General Fund,Board of Revision of Taxes,2,Purchase of Services,260,Repair and Maintenance Charges,3200
+2016,General Fund,Board of Revision of Taxes,2,Purchase of Services,286,Rental of Parking Spaces,5040
+2016,General Fund,Board of Revision of Taxes,3,Materials and Supplies,304,Books and Other Publications,1000
+2016,General Fund,Board of Revision of Taxes,3,Materials and Supplies,320,Office Materials and Supplies,5727
+2016,General Fund,Board of Revision of Taxes,3,Materials and Supplies,324,"Precision, Photographic and Artists",1000
+2016,General Fund,Board of Revision of Taxes,3,Materials and Supplies,325,Printing,1000
+2016,General Fund,Board of Revision of Taxes,4,Equipment,420,Office Equipment,5000
+2016,General Fund,Board of Revision of Taxes,4,Equipment,427,Computer Equipment & Peripherals,1000
+2016,General Fund,Board of Revision of Taxes,4,Equipment,430,Furniture and Furnishings,1000
+2016,General Fund,Register of Wills,1,Personal Services,100,Salary Control,20000
+2016,General Fund,Register of Wills,1,Personal Services,101,Perm Full Time-civilian,3238934
+2016,General Fund,Register of Wills,1,Personal Services,111,Perm Part Time,109065
+2016,General Fund,Register of Wills,1,Personal Services,121,Temporary Seasonal,45500
+2016,General Fund,Register of Wills,2,Purchase of Services,209,Telephone,450
+2016,General Fund,Register of Wills,2,Purchase of Services,210,Postage,15300
+2016,General Fund,Register of Wills,2,Purchase of Services,211,Transportation,1800
+2016,General Fund,Register of Wills,2,Purchase of Services,251,Information Technology-prof Service,2558
+2016,General Fund,Register of Wills,2,Purchase of Services,260,Repair and Maintenance Charges,50369
+2016,General Fund,Register of Wills,2,Purchase of Services,285,Rents,5009
+2016,General Fund,Register of Wills,3,Materials and Supplies,320,Office Materials and Supplies,18000
+2016,General Fund,Register of Wills,3,Materials and Supplies,325,Printing,5850
+2016,General Fund,Register of Wills,4,Equipment,420,Office Equipment,900
+2016,General Fund,Register of Wills,4,Equipment,427,Computer Equipment & Peripherals,8460
+2016,General Fund,District Attorney,1,Personal Services,100,Salary Control,319000
+2016,General Fund,District Attorney,1,Personal Services,101,Perm Full Time-civilian,29331607
+2016,General Fund,District Attorney,1,Personal Services,105,Perm Full Time-uniform,2215631
+2016,General Fund,District Attorney,1,Personal Services,109,Plus/minus Gross Adj,75000
+2016,General Fund,District Attorney,1,Personal Services,110,Uniform Stress Pay,158000
+2016,General Fund,District Attorney,1,Personal Services,111,Perm Part Time,81283
+2016,General Fund,District Attorney,1,Personal Services,121,Temporary Seasonal,30000
+2016,General Fund,District Attorney,1,Personal Services,161,Overtime Civilian,3000
+2016,General Fund,District Attorney,1,Personal Services,165,Overtime Shift Uniform,155000
+2016,General Fund,District Attorney,1,Personal Services,175,Holiday Pay-annual,121500
+2016,General Fund,District Attorney,2,Purchase of Services,201,Cleaning and Laundering,23000
+2016,General Fund,District Attorney,2,Purchase of Services,209,Telephone,20000
+2016,General Fund,District Attorney,2,Purchase of Services,210,Postage,110000
+2016,General Fund,District Attorney,2,Purchase of Services,211,Transportation,128250
+2016,General Fund,District Attorney,2,Purchase of Services,216,Commercial Off-shelf Comp Software,130000
+2016,General Fund,District Attorney,2,Purchase of Services,231,Overtime Meals,2500
+2016,General Fund,District Attorney,2,Purchase of Services,240,Advertising/promotional Activities,1000
+2016,General Fund,District Attorney,2,Purchase of Services,250,Professional Consult/spec Services,1734466
+2016,General Fund,District Attorney,2,Purchase of Services,255,Dues,5000
+2016,General Fund,District Attorney,2,Purchase of Services,256,Seminar and Training Sessions,6032
+2016,General Fund,District Attorney,2,Purchase of Services,260,Repair and Maintenance Charges,75000
+2016,General Fund,District Attorney,2,Purchase of Services,266,Maint/support-computr Hardware/soft,117000
+2016,General Fund,District Attorney,2,Purchase of Services,285,Rents,27500
+2016,General Fund,District Attorney,2,Purchase of Services,299,Other Expenses (not Othrwse Clssfd),87424
+2016,General Fund,District Attorney,3,Materials and Supplies,304,Books and Other Publications,5000
+2016,General Fund,District Attorney,3,Materials and Supplies,308,Dry Goods/notions/wearing Apparel,27600
+2016,General Fund,District Attorney,3,Materials and Supplies,320,Office Materials and Supplies,333005
+2016,General Fund,District Attorney,3,Materials and Supplies,323,Plumbing/air Conditioning/space Htg,20000
+2016,General Fund,District Attorney,3,Materials and Supplies,325,Printing,23000
+2016,General Fund,District Attorney,3,Materials and Supplies,399,Other Materials and Supplies (noc),5000
+2016,General Fund,District Attorney,4,Equipment,420,Office Equipment,40000
+2016,General Fund,District Attorney,4,Equipment,427,Computer Equipment & Peripherals,45000
+2016,General Fund,District Attorney,4,Equipment,430,Furniture and Furnishings,21416
+2016,General Fund,District Attorney,4,Equipment,499,Other Equipment (noc),5000
+2016,General Fund,Sheriff,1,Personal Services,100,Salary Control,45000
+2016,General Fund,Sheriff,1,Personal Services,101,Perm Full Time-civilian,15618888
+2016,General Fund,Sheriff,1,Personal Services,121,Temporary Seasonal,50000
+2016,General Fund,Sheriff,1,Personal Services,161,Overtime Civilian,2276185
+2016,General Fund,Sheriff,1,Personal Services,171,"Holiday ""g""(2/3 Shifts)",50000
+2016,General Fund,Sheriff,1,Personal Services,181,Shift,29000
+2016,General Fund,Sheriff,2,Purchase of Services,201,Cleaning and Laundering,145000
+2016,General Fund,Sheriff,2,Purchase of Services,209,Telephone,50000
+2016,General Fund,Sheriff,2,Purchase of Services,211,Transportation,200000
+2016,General Fund,Sheriff,2,Purchase of Services,252,Accounting and Auditing Services,38800
+2016,General Fund,Sheriff,2,Purchase of Services,256,Seminar and Training Sessions,45000
+2016,General Fund,Sheriff,2,Purchase of Services,258,Court Reporters,5666
+2016,General Fund,Sheriff,2,Purchase of Services,260,Repair and Maintenance Charges,20000
+2016,General Fund,Sheriff,2,Purchase of Services,266,Maint/support-computr Hardware/soft,50000
+2016,General Fund,Sheriff,2,Purchase of Services,285,Rents,18834
+2016,General Fund,Sheriff,2,Purchase of Services,299,Other Expenses (not Othrwse Clssfd),141967
+2016,General Fund,Sheriff,3,Materials and Supplies,304,Books and Other Publications,2000
+2016,General Fund,Sheriff,3,Materials and Supplies,305,Building and Construction,2000
+2016,General Fund,Sheriff,3,Materials and Supplies,308,Dry Goods/notions/wearing Apparel,164105
+2016,General Fund,Sheriff,3,Materials and Supplies,310,Electrical and Communication,4000
+2016,General Fund,Sheriff,3,Materials and Supplies,312,Fire Fighting and Safety,38270
+2016,General Fund,Sheriff,3,Materials and Supplies,313,Food,96970
+2016,General Fund,Sheriff,3,Materials and Supplies,320,Office Materials and Supplies,22000
+2016,General Fund,Sheriff,3,Materials and Supplies,324,"Precision, Photographic and Artists",10000
+2016,General Fund,Sheriff,3,Materials and Supplies,325,Printing,1500
+2016,General Fund,Sheriff,3,Materials and Supplies,345,Gasoline,55000
+2016,General Fund,Sheriff,3,Materials and Supplies,399,Other Materials and Supplies (noc),10062
+2016,General Fund,Sheriff,4,Equipment,430,Furniture and Furnishings,13000
+2016,General Fund,City Commissioners,1,Personal Services,100,Salary Control,11486
+2016,General Fund,City Commissioners,1,Personal Services,101,Perm Full Time-civilian,4171336
+2016,General Fund,City Commissioners,1,Personal Services,121,Temporary Seasonal,500000
+2016,General Fund,City Commissioners,1,Personal Services,161,Overtime Civilian,905223
+2016,General Fund,City Commissioners,1,Personal Services,171,"Holiday ""g""(2/3 Shifts)",33256
+2016,General Fund,City Commissioners,1,Personal Services,181,Shift,2975
+2016,General Fund,City Commissioners,2,Purchase of Services,202,Janitorial Services,10874
+2016,General Fund,City Commissioners,2,Purchase of Services,209,Telephone,50481
+2016,General Fund,City Commissioners,2,Purchase of Services,210,Postage,150000
+2016,General Fund,City Commissioners,2,Purchase of Services,211,Transportation,13838
+2016,General Fund,City Commissioners,2,Purchase of Services,250,Professional Consult/spec Services,2316065
+2016,General Fund,City Commissioners,2,Purchase of Services,251,Information Technology-prof Service,244144
+2016,General Fund,City Commissioners,2,Purchase of Services,256,Seminar and Training Sessions,7000
+2016,General Fund,City Commissioners,2,Purchase of Services,258,Court Reporters,6000
+2016,General Fund,City Commissioners,2,Purchase of Services,260,Repair and Maintenance Charges,487819
+2016,General Fund,City Commissioners,2,Purchase of Services,266,Maint/support-computr Hardware/soft,30000
+2016,General Fund,City Commissioners,2,Purchase of Services,285,Rents,181129
+2016,General Fund,City Commissioners,3,Materials and Supplies,304,Books and Other Publications,763
+2016,General Fund,City Commissioners,3,Materials and Supplies,310,Electrical and Communication,5331
+2016,General Fund,City Commissioners,3,Materials and Supplies,316,General Hardware and Minor Tools,4700
+2016,General Fund,City Commissioners,3,Materials and Supplies,318,"Janitorial, Laundry and Household",2560
+2016,General Fund,City Commissioners,3,Materials and Supplies,320,Office Materials and Supplies,80730
+2016,General Fund,City Commissioners,3,Materials and Supplies,324,"Precision, Photographic and Artists",20209
+2016,General Fund,City Commissioners,3,Materials and Supplies,325,Printing,364055
+2016,General Fund,City Commissioners,4,Equipment,420,Office Equipment,45269
+2016,General Fund,City Commissioners,4,Equipment,427,Computer Equipment & Peripherals,14500
+2016,General Fund,City Commissioners,4,Equipment,430,Furniture and Furnishings,3500
+2016,General Fund,First Judicial District,1,Personal Services,100,Salary Control,1412000
+2016,General Fund,First Judicial District,1,Personal Services,101,Perm Full Time-civilian,93342858
+2016,General Fund,First Judicial District,1,Personal Services,121,Temporary Seasonal,2420000
+2016,General Fund,First Judicial District,1,Personal Services,161,Overtime Civilian,92000
+2016,General Fund,First Judicial District,2,Purchase of Services,259,Arbitration Fees,755140
+2016,General Fund,First Judicial District,2,Purchase of Services,275,Juror Fees,1542471
+2016,General Fund,First Judicial District,2,Purchase of Services,299,Other Expenses (not Othrwse Clssfd),8358963
+2016,General Fund,First Judicial District,3,Materials and Supplies,399,Other Materials and Supplies (noc),1870944
+2016,General Fund,First Judicial District,4,Equipment,499,Other Equipment (noc),520924
+2016,Water Fund,Office of Innovation and Technology,1,Personal Services,100,Salary Control,58000
+2016,Water Fund,Office of Innovation and Technology,1,Personal Services,101,Perm Full Time-civilian,6146689
+2016,Water Fund,Office of Innovation and Technology,1,Personal Services,161,Overtime Civilian,60600
+2016,Water Fund,Office of Innovation and Technology,2,Purchase of Services,209,Telephone,1348670
+2016,Water Fund,Office of Innovation and Technology,2,Purchase of Services,216,Commercial Off-shelf Comp Software,2940278
+2016,Water Fund,Office of Innovation and Technology,2,Purchase of Services,251,Information Technology-prof Service,9359295
+2016,Water Fund,Office of Innovation and Technology,2,Purchase of Services,255,Dues,4078
+2016,Water Fund,Office of Innovation and Technology,2,Purchase of Services,260,Repair and Maintenance Charges,64565
+2016,Water Fund,Office of Innovation and Technology,2,Purchase of Services,266,Maint/support-computr Hardware/soft,661773
+2016,Water Fund,Office of Innovation and Technology,2,Purchase of Services,282,Rent/lease-purchase Computer Equip,191700
+2016,Water Fund,Office of Innovation and Technology,2,Purchase of Services,285,Rents,136138
+2016,Water Fund,Water,1,Personal Services,162,Overtime Shift Dual Relief,26000
+2016,Water Fund,Office of Innovation and Technology,3,Materials and Supplies,320,Office Materials and Supplies,47000
+2016,Water Fund,Office of Innovation and Technology,3,Materials and Supplies,325,Printing,169200
+2016,Water Fund,Office of Innovation and Technology,4,Equipment,427,Computer Equipment & Peripherals,1808950
+2016,Water Fund,Public Property,2,Purchase of Services,284,Ground and Building Rental,4042633
+2016,Water Fund,Fleet Management,1,Personal Services,101,Perm Full Time-civilian,2439875
+2016,Water Fund,Fleet Management,1,Personal Services,121,Temporary Seasonal,40624
+2016,Water Fund,Fleet Management,1,Personal Services,161,Overtime Civilian,466524
+2016,Water Fund,Fleet Management,1,Personal Services,171,"Holiday ""g""(2/3 Shifts)",11014
+2016,Water Fund,Fleet Management,1,Personal Services,181,Shift,11280
+2016,Water Fund,Fleet Management,2,Purchase of Services,201,Cleaning and Laundering,6000
+2016,Water Fund,Fleet Management,2,Purchase of Services,202,Janitorial Services,56000
+2016,Water Fund,Fleet Management,2,Purchase of Services,210,Postage,1000
+2016,Water Fund,Fleet Management,2,Purchase of Services,211,Transportation,1000
+2016,Water Fund,Fleet Management,2,Purchase of Services,215,Licenses Permits Inspection Charges,10000
+2016,Water Fund,Fleet Management,2,Purchase of Services,250,Professional Consult/spec Services,30000
+2016,Water Fund,Fleet Management,2,Purchase of Services,255,Dues,500
+2016,Water Fund,Fleet Management,2,Purchase of Services,256,Seminar and Training Sessions,3000
+2016,Water Fund,Fleet Management,2,Purchase of Services,260,Repair and Maintenance Charges,1239500
+2016,Water Fund,Fleet Management,2,Purchase of Services,280,Insurance and Official Bonds,8000
+2016,Water Fund,Fleet Management,2,Purchase of Services,285,Rents,10000
+2016,Water Fund,Fleet Management,2,Purchase of Services,286,Rental of Parking Spaces,124000
+2016,Water Fund,Fleet Management,3,Materials and Supplies,304,Books and Other Publications,3000
+2016,Water Fund,Fleet Management,3,Materials and Supplies,305,Building and Construction,40000
+2016,Water Fund,Fleet Management,3,Materials and Supplies,307,Chemicals and Gases,24000
+2016,Water Fund,Fleet Management,3,Materials and Supplies,308,Dry Goods/notions/wearing Apparel,7500
+2016,Water Fund,Fleet Management,3,Materials and Supplies,310,Electrical and Communication,4000
+2016,Water Fund,Fleet Management,3,Materials and Supplies,311,General Equipment and Machinery,5000
+2016,Water Fund,Fleet Management,3,Materials and Supplies,312,Fire Fighting and Safety,10000
+2016,Water Fund,Fleet Management,3,Materials and Supplies,313,Food,500
+2016,Water Fund,Fleet Management,3,Materials and Supplies,316,General Hardware and Minor Tools,8000
+2016,Water Fund,Fleet Management,3,Materials and Supplies,317,Hospital and Laboratory,2000
+2016,Water Fund,Fleet Management,3,Materials and Supplies,318,"Janitorial, Laundry and Household",3000
+2016,Water Fund,Fleet Management,3,Materials and Supplies,320,Office Materials and Supplies,2000
+2016,Water Fund,Fleet Management,3,Materials and Supplies,322,Small Power Tools and Hand Tools,32000
+2016,Water Fund,Fleet Management,3,Materials and Supplies,324,"Precision, Photographic and Artists",500
+2016,Water Fund,Fleet Management,3,Materials and Supplies,325,Printing,2000
+2016,Water Fund,Fleet Management,3,Materials and Supplies,328,Motor Vehicle Parts and Accessories,2042050
+2016,Water Fund,Fleet Management,3,Materials and Supplies,335,Lubricants,109090
+2016,Water Fund,Fleet Management,3,Materials and Supplies,340,#2 Diesel Fuel,1050000
+2016,Water Fund,Fleet Management,3,Materials and Supplies,345,Gasoline,870000
+2016,Water Fund,Fleet Management,4,Equipment,411,General Equipment and Machinery,30000
+2016,Water Fund,Fleet Management,4,Equipment,420,Office Equipment,8000
+2016,Water Fund,Fleet Management,4,Equipment,423,Plumbing/air Conditioning/space Htg,3000
+2016,Water Fund,Fleet Management,4,Equipment,427,Computer Equipment & Peripherals,12500
+2016,Water Fund,Fleet Management,4,Equipment,430,Furniture and Furnishings,6500
+2016,Water Fund,Water,1,Personal Services,100,Salary Control,1367000
+2016,Water Fund,Water,1,Personal Services,101,Perm Full Time-civilian,85745570
+2016,Water Fund,Water,1,Personal Services,111,Perm Part Time,30030
+2016,Water Fund,Water,1,Personal Services,121,Temporary Seasonal,1830500
+2016,Water Fund,Water,1,Personal Services,171,"Holiday ""g""(2/3 Shifts)",531000
+2016,Water Fund,Water,1,Personal Services,181,Shift,260400
+2016,Water Fund,Water,2,Purchase of Services,201,Cleaning and Laundering,61000
+2016,Water Fund,Water,2,Purchase of Services,202,Janitorial Services,108000
+2016,Water Fund,Water,2,Purchase of Services,205,Refuse/garbage/silt/sludge Removal,3260900
+2016,Water Fund,Water,2,Purchase of Services,210,Postage,222000
+2016,Water Fund,Water,2,Purchase of Services,211,Transportation,133200
+2016,Water Fund,Water,2,Purchase of Services,215,Licenses Permits Inspection Charges,203600
+2016,Water Fund,Water,2,Purchase of Services,216,Commercial Off-shelf Comp Software,313000
+2016,Water Fund,Water,2,Purchase of Services,220,Electric Current-structures/streets,27845000
+2016,Water Fund,Water,2,Purchase of Services,221,Gas Services,5692000
+2016,Water Fund,Water,2,Purchase of Services,230,Meals-non-travel & Officl Entertain,8000
+2016,Water Fund,Water,2,Purchase of Services,240,Advertising/promotional Activities,308500
+2016,Water Fund,Water,2,Purchase of Services,250,Professional Consult/spec Services,55327700
+2016,Water Fund,Water,2,Purchase of Services,251,Information Technology-prof Service,200000
+2016,Water Fund,Water,2,Purchase of Services,253,Legal Services,475000
+2016,Water Fund,Water,2,Purchase of Services,255,Dues,727300
+2016,Water Fund,Water,2,Purchase of Services,256,Seminar and Training Sessions,768700
+2016,Water Fund,Water,2,Purchase of Services,257,Architectural & Engineering Srvcs,2265000
+2016,Water Fund,Water,2,Purchase of Services,258,Court Reporters,60000
+2016,Water Fund,Water,2,Purchase of Services,259,Arbitration Fees,500000
+2016,Water Fund,Water,2,Purchase of Services,260,Repair and Maintenance Charges,10249000
+2016,Water Fund,Water,2,Purchase of Services,261,Repaving Repairing & Resurf Streets,2413000
+2016,Water Fund,Water,2,Purchase of Services,264,Abatement of Other Nuisances,8755000
+2016,Water Fund,Water,2,Purchase of Services,266,Maint/support-computr Hardware/soft,372000
+2016,Water Fund,Water,2,Purchase of Services,280,Insurance and Official Bonds,160000
+2016,Water Fund,Water,2,Purchase of Services,281,Lease Payments-phila Municipal Auth,30076000
+2016,Water Fund,Water,2,Purchase of Services,285,Rents,1141300
+2016,Water Fund,Water,3,Materials and Supplies,301,Agricultural and Botanical,124200
+2016,Water Fund,Water,3,Materials and Supplies,304,Books and Other Publications,84300
+2016,Water Fund,Water,3,Materials and Supplies,305,Building and Construction,2522518
+2016,Water Fund,Water,3,Materials and Supplies,307,Chemicals and Gases,22640807
+2016,Water Fund,Water,3,Materials and Supplies,308,Dry Goods/notions/wearing Apparel,368700
+2016,Water Fund,Water,3,Materials and Supplies,309,Cordage and Fibers,6000
+2016,Water Fund,Water,3,Materials and Supplies,310,Electrical and Communication,1888600
+2016,Water Fund,Water,3,Materials and Supplies,311,General Equipment and Machinery,4387900
+2016,Water Fund,Water,3,Materials and Supplies,312,Fire Fighting and Safety,1711200
+2016,Water Fund,Water,3,Materials and Supplies,314,Fuel -- Heating and Lighting,261900
+2016,Water Fund,Water,3,Materials and Supplies,316,General Hardware and Minor Tools,581500
+2016,Water Fund,Water,3,Materials and Supplies,317,Hospital and Laboratory,681500
+2016,Water Fund,Water,3,Materials and Supplies,318,"Janitorial, Laundry and Household",281514
+2016,Water Fund,Water,3,Materials and Supplies,319,Nautical and Aeronautical,46000
+2016,Water Fund,Water,3,Materials and Supplies,320,Office Materials and Supplies,382700
+2016,Water Fund,Water,3,Materials and Supplies,321,Parking Meter and Water Meter,402000
+2016,Water Fund,Water,3,Materials and Supplies,322,Small Power Tools and Hand Tools,476220
+2016,Water Fund,Water,3,Materials and Supplies,323,Plumbing/air Conditioning/space Htg,3672750
+2016,Water Fund,Water,3,Materials and Supplies,324,"Precision, Photographic and Artists",2039641
+2016,Water Fund,Water,3,Materials and Supplies,325,Printing,556100
+2016,Water Fund,Water,3,Materials and Supplies,326,Recreational and Educational,5000
+2016,Water Fund,Water,3,Materials and Supplies,328,Motor Vehicle Parts and Accessories,82900
+2016,Water Fund,Water,3,Materials and Supplies,335,Lubricants,92000
+2016,Water Fund,Water,3,Materials and Supplies,340,#2 Diesel Fuel,369000
+2016,Water Fund,Water,3,Materials and Supplies,342,Liquid Propane Gas (lpg),46900
+2016,Water Fund,Water,3,Materials and Supplies,345,Gasoline,350000
+2016,Water Fund,Water,4,Equipment,401,Agricultural and Botanical,8000
+2016,Water Fund,Water,4,Equipment,403,"Bakeshop, Dining Room and Kitchen",9000
+2016,Water Fund,Water,4,Equipment,405,"Construction, Dredging, Conveying",5000
+2016,Water Fund,Water,4,Equipment,410,Electrical Lighting Communication,247400
+2016,Water Fund,Water,4,Equipment,411,General Equipment and Machinery,565150
+2016,Water Fund,Water,4,Equipment,412,Fire Fighting and Emergency,90100
+2016,Water Fund,Water,4,Equipment,417,Hospital and Laboratory,744800
+2016,Water Fund,Water,4,Equipment,418,Janitorial and Laundry,38000
+2016,Water Fund,Water,4,Equipment,420,Office Equipment,27500
+2016,Water Fund,Water,4,Equipment,423,Plumbing/air Conditioning/space Htg,95100
+2016,Water Fund,Water,4,Equipment,424,"Precision, Photographic and Artist",220400
+2016,Water Fund,Water,4,Equipment,427,Computer Equipment & Peripherals,482000
+2016,Water Fund,Water,4,Equipment,430,Furniture and Furnishings,833900
+2016,Water Fund,Water,4,Equipment,499,Other Equipment (noc),32000
+2016,Water Fund,Water,5,"Contributions, Indemnities, Refunds, Taxes",504,Meritorious Awards,100000
+2016,Water Fund,Water,8,Payments to Other Funds,801,Payments to General Fund,10537000
+2016,Water Fund,Water,8,Payments to Other Funds,804,Payments to Capital Projects Fund,21215000
+2016,Water Fund,Water,8,Payments to Other Funds,811,Payments to Water Residual Fund,33248000
+2016,Water Fund,Finance - Employee Benefits,1,Personal Services,186,Flex Cash,30000
+2016,Water Fund,Finance - Employee Benefits,1,Personal Services,187,Worker's Comp-disability Comp,2400000
+2016,Water Fund,Finance - Employee Benefits,1,Personal Services,188,Worker's Comp-medical,2000000
+2016,Water Fund,Finance - Employee Benefits,1,Personal Services,189,Medicare Tax,1800000
+2016,Water Fund,Finance - Employee Benefits,1,Personal Services,190,Pension-obligation Bond Payments,12100000
+2016,Water Fund,Finance - Employee Benefits,1,Personal Services,191,Pension,45700000
+2016,Water Fund,Finance - Employee Benefits,1,Personal Services,192,FICA Taxes,7250053
+2016,Water Fund,Finance - Employee Benefits,1,Personal Services,193,Medical Health & Welfare Credit,38717895
+2016,Water Fund,Finance - Employee Benefits,1,Personal Services,194,Group Life Insurance,153768
+2016,Water Fund,Finance - Employee Benefits,1,Personal Services,195,Group Legal Insurance,328546
+2016,Water Fund,Finance - Employee Benefits,1,Personal Services,196,Unemployment Comp Insurance,375000
+2016,Water Fund,Finance - Employee Benefits,1,Personal Services,197,Auto Mechanic Tool Insurance,60000
+2016,Water Fund,Finance,5,"Contributions, Indemnities, Refunds, Taxes",513,Indemnities-interdepartmental Trans,6500000
+2016,Water Fund,Revenue,1,Personal Services,100,Salary Control,46056
+2016,Water Fund,Revenue,1,Personal Services,101,Perm Full Time-civilian,10312851
+2016,Water Fund,Revenue,1,Personal Services,121,Temporary Seasonal,100945
+2016,Water Fund,Revenue,1,Personal Services,161,Overtime Civilian,669982
+2016,Water Fund,Revenue,1,Personal Services,171,"Holiday ""g""(2/3 Shifts)",3500
+2016,Water Fund,Revenue,1,Personal Services,181,Shift,5505
+2016,Water Fund,Revenue,2,Purchase of Services,205,Refuse/garbage/silt/sludge Removal,2000
+2016,Water Fund,Revenue,2,Purchase of Services,210,Postage,3822637
+2016,Water Fund,Revenue,2,Purchase of Services,211,Transportation,2250
+2016,Water Fund,Revenue,2,Purchase of Services,230,Meals-non-travel & Officl Entertain,300
+2016,Water Fund,Revenue,2,Purchase of Services,240,Advertising/promotional Activities,9435
+2016,Water Fund,Revenue,2,Purchase of Services,250,Professional Consult/spec Services,249500
+2016,Water Fund,Revenue,2,Purchase of Services,251,Information Technology-prof Service,17000
+2016,Water Fund,Revenue,2,Purchase of Services,255,Dues,200
+2016,Water Fund,Revenue,2,Purchase of Services,256,Seminar and Training Sessions,88240
+2016,Water Fund,Revenue,2,Purchase of Services,260,Repair and Maintenance Charges,267410
+2016,Water Fund,Revenue,3,Materials and Supplies,304,Books and Other Publications,3265
+2016,Water Fund,Revenue,3,Materials and Supplies,308,Dry Goods/notions/wearing Apparel,8400
+2016,Water Fund,Revenue,3,Materials and Supplies,310,Electrical and Communication,900
+2016,Water Fund,Revenue,3,Materials and Supplies,311,General Equipment and Machinery,350
+2016,Water Fund,Revenue,3,Materials and Supplies,316,General Hardware and Minor Tools,700
+2016,Water Fund,Revenue,3,Materials and Supplies,318,"Janitorial, Laundry and Household",815
+2016,Water Fund,Revenue,3,Materials and Supplies,320,Office Materials and Supplies,411930
+2016,Water Fund,Revenue,3,Materials and Supplies,324,"Precision, Photographic and Artists",26550
+2016,Water Fund,Revenue,3,Materials and Supplies,325,Printing,60575
+2016,Water Fund,Revenue,3,Materials and Supplies,326,Recreational and Educational,1000
+2016,Water Fund,Revenue,4,Equipment,418,Janitorial and Laundry,500
+2016,Water Fund,Revenue,4,Equipment,420,Office Equipment,116380
+2016,Water Fund,Revenue,4,Equipment,427,Computer Equipment & Peripherals,555
+2016,Water Fund,Revenue,4,Equipment,430,Furniture and Furnishings,9000
+2016,Water Fund,Revenue,5,"Contributions, Indemnities, Refunds, Taxes",504,Meritorious Awards,5000
+2016,Water Fund,Sinking Fund Commission (Debt Service),7,Debt Service,701,Interest on City Debt -- Long-term,89595877
+2016,Water Fund,Sinking Fund Commission (Debt Service),7,Debt Service,702,Principal Payments on City Debt-l/t,136714459
+2016,Water Fund,Sinking Fund Commission (Debt Service),7,Debt Service,705,Commitment Fee Expense,729000
+2016,Water Fund,Sinking Fund Commission (Debt Service),7,Debt Service,706,Arbitrage Payments,100000
+2016,Water Fund,Procurement,1,Personal Services,101,Perm Full Time-civilian,77383
+2016,Water Fund,Law,1,Personal Services,101,Perm Full Time-civilian,2505706
+2016,Water Fund,Law,1,Personal Services,161,Overtime Civilian,500
+2016,Water Fund,Law,2,Purchase of Services,211,Transportation,1000
+2016,Water Fund,Law,2,Purchase of Services,250,Professional Consult/spec Services,450000
+2016,Water Fund,Law,2,Purchase of Services,251,Information Technology-prof Service,3226
+2016,Water Fund,Law,2,Purchase of Services,257,Architectural & Engineering Srvcs,21070
+2016,Water Fund,Law,2,Purchase of Services,258,Court Reporters,190000
+2016,Water Fund,Law,2,Purchase of Services,259,Arbitration Fees,2775
+2016,Water Fund,Law,2,Purchase of Services,260,Repair and Maintenance Charges,7000
+2016,Water Fund,Law,2,Purchase of Services,277,Witness Fees,1000
+2016,Water Fund,Law,2,Purchase of Services,285,Rents,15543
+2016,Water Fund,Law,3,Materials and Supplies,304,Books and Other Publications,10000
+2016,Water Fund,Law,3,Materials and Supplies,320,Office Materials and Supplies,5650
+2016,Water Fund,Law,3,Materials and Supplies,325,Printing,14350
+2016,Water Fund,Law,4,Equipment,423,Plumbing/air Conditioning/space Htg,10096
+2016,Water Fund,Law,4,Equipment,424,"Precision, Photographic and Artist",2914
+2016,Water Fund,Mayor's Office of Transportation & Utilities,1,Personal Services,101,Perm Full Time-civilian,138550
+2016,Water Fund,Office of Sustainability,1,Personal Services,101,Perm Full Time-civilian,63874
+2016,Water Fund,Office of Sustainability,2,Purchase of Services,216,Commercial Off-shelf Comp Software,30000
+2016,County Liquid Fuels Tax Fund,Streets,1,Personal Services,101,Perm Full Time-civilian,3734000
+2016,County Liquid Fuels Tax Fund,Streets,2,Purchase of Services,220,Electric Current-structures/streets,651000
+2016,County Liquid Fuels Tax Fund,Streets,2,Purchase of Services,260,Repair and Maintenance Charges,210000
+2016,County Liquid Fuels Tax Fund,Streets,3,Materials and Supplies,305,Building and Construction,234600
+2016,County Liquid Fuels Tax Fund,Streets,3,Materials and Supplies,311,General Equipment and Machinery,21730
+2016,County Liquid Fuels Tax Fund,Streets,4,Equipment,428,Vehicles -- Motor and Motorless,80000
+2016,County Liquid Fuels Tax Fund,Streets,8,Payments to Other Funds,801,Payments to General Fund,18670
+2016,Special Gasoline Tax Fund,Streets,1,Personal Services,101,Perm Full Time-civilian,3000000
+2016,Special Gasoline Tax Fund,Streets,2,Purchase of Services,205,Refuse/garbage/silt/sludge Removal,197706
+2016,Special Gasoline Tax Fund,Streets,2,Purchase of Services,220,Electric Current-structures/streets,13843309
+2016,Special Gasoline Tax Fund,Streets,2,Purchase of Services,260,Repair and Maintenance Charges,1094349
+2016,Special Gasoline Tax Fund,Streets,2,Purchase of Services,285,Rents,423186
+2016,Special Gasoline Tax Fund,Streets,3,Materials and Supplies,305,Building and Construction,1545548
+2016,Special Gasoline Tax Fund,Streets,3,Materials and Supplies,307,Chemicals and Gases,2385825
+2016,Special Gasoline Tax Fund,Streets,3,Materials and Supplies,310,Electrical and Communication,797363
+2016,Special Gasoline Tax Fund,Streets,3,Materials and Supplies,312,Fire Fighting and Safety,52704
+2016,Special Gasoline Tax Fund,Streets,3,Materials and Supplies,316,General Hardware and Minor Tools,66060
+2016,Special Gasoline Tax Fund,Streets,3,Materials and Supplies,335,Lubricants,21730
+2016,Special Gasoline Tax Fund,Streets,3,Materials and Supplies,399,Other Materials and Supplies (noc),2212
+2016,Special Gasoline Tax Fund,Streets,4,Equipment,424,"Precision, Photographic and Artist",63508
+2016,Special Gasoline Tax Fund,Streets,4,Equipment,428,Vehicles -- Motor and Motorless,4991500
+2016,Special Gasoline Tax Fund,Streets,8,Payments to Other Funds,801,Payments to General Fund,15000
+2016,Special Gasoline Tax Fund,Finance - Employee Benefits,1,Personal Services,191,Pension,500000
+2016,Special Gasoline Tax Fund,Finance - Employee Benefits,1,Personal Services,193,Medical Health & Welfare Credit,500000
+2016,Healthy Choices Behavioral Health Fund,Office of Behavioral Health and Intellectual disAbilities,2,Purchase of Services,209,Telephone,36000
+2016,Healthy Choices Behavioral Health Fund,Office of Behavioral Health and Intellectual disAbilities,2,Purchase of Services,250,Professional Consult/spec Services,10000000
+2016,Healthy Choices Behavioral Health Fund,Office of Behavioral Health and Intellectual disAbilities,2,Purchase of Services,251,Information Technology-prof Service,125200
+2016,Healthy Choices Behavioral Health Fund,Office of Behavioral Health and Intellectual disAbilities,2,Purchase of Services,252,Accounting and Auditing Services,125000
+2016,Healthy Choices Behavioral Health Fund,Office of Behavioral Health and Intellectual disAbilities,2,Purchase of Services,253,Legal Services,15000
+2016,Healthy Choices Behavioral Health Fund,Office of Behavioral Health and Intellectual disAbilities,2,Purchase of Services,254,Mental Health & Retardation Service,949700800
+2016,Healthy Choices Behavioral Health Fund,Office of Behavioral Health and Intellectual disAbilities,4,Equipment,417,Hospital and Laboratory,50000
+2016,Healthy Choices Behavioral Health Fund,Office of Behavioral Health and Intellectual disAbilities,8,Payments to Other Funds,807,Payments to Other Funds,1500000
+2016,Hotel Tax Fund,Commerce,5,"Contributions, Indemnities, Refunds, Taxes",517,Contributions-gov & Non-prof Not Ed,62700000
+2016,Grants Revenue Fund,Office of Innovation and Technology,2,Purchase of Services,251,Information Technology-prof Service,515000
+2016,Grants Revenue Fund,Office of Innovation and Technology,2,Purchase of Services,299,Other Expenses (not Othrwse Clssfd),452655
+2016,Grants Revenue Fund,Office of Innovation and Technology,8,Payments to Other Funds,801,Payments to General Fund,44702879
+2016,Grants Revenue Fund,Mayor's Office,1,Personal Services,101,Perm Full Time-civilian,204468
+2016,Grants Revenue Fund,Mayor's Office,1,Personal Services,111,Perm Part Time,87210
+2016,Grants Revenue Fund,Mayor's Office,1,Personal Services,121,Temporary Seasonal,752010
+2016,Grants Revenue Fund,Mayor's Office,1,Personal Services,187,Worker's Comp-disability Comp,13710
+2016,Grants Revenue Fund,Mayor's Office,1,Personal Services,189,Medicare Tax,46
+2016,Grants Revenue Fund,Mayor's Office,1,Personal Services,192,FICA Taxes,58820
+2016,Grants Revenue Fund,Mayor's Office,2,Purchase of Services,299,Other Expenses (not Othrwse Clssfd),658412
+2016,Grants Revenue Fund,Mayor's Office,3,Materials and Supplies,399,Other Materials and Supplies (noc),7190
+2016,Grants Revenue Fund,Mayor's Office,4,Equipment,499,Other Equipment (noc),2146
+2016,Grants Revenue Fund,Office of Housing and Community Development,2,Purchase of Services,250,Professional Consult/spec Services,128117000
+2016,Grants Revenue Fund,Mayor's Office of Community Empowerment and Opportunity,1,Personal Services,101,Perm Full Time-civilian,2349085
+2016,Grants Revenue Fund,Mayor's Office of Community Empowerment and Opportunity,1,Personal Services,187,Worker's Comp-disability Comp,36376
+2016,Grants Revenue Fund,Mayor's Office of Community Empowerment and Opportunity,1,Personal Services,189,Medicare Tax,12305
+2016,Grants Revenue Fund,Mayor's Office of Community Empowerment and Opportunity,1,Personal Services,191,Pension,41192
+2016,Grants Revenue Fund,Mayor's Office of Community Empowerment and Opportunity,1,Personal Services,192,FICA Taxes,83791
+2016,Grants Revenue Fund,Mayor's Office of Community Empowerment and Opportunity,1,Personal Services,193,Medical Health & Welfare Credit,275548
+2016,Grants Revenue Fund,Mayor's Office of Community Empowerment and Opportunity,1,Personal Services,194,Group Life Insurance,2347
+2016,Grants Revenue Fund,Mayor's Office of Community Empowerment and Opportunity,2,Purchase of Services,299,Other Expenses (not Othrwse Clssfd),13075621
+2016,Grants Revenue Fund,Mayor's Office of Community Empowerment and Opportunity,3,Materials and Supplies,399,Other Materials and Supplies (noc),13125
+2016,Grants Revenue Fund,Mayor's Office of Community Empowerment and Opportunity,4,Equipment,499,Other Equipment (noc),35000
+2016,Grants Revenue Fund,Managing Director's Office,1,Personal Services,101,Perm Full Time-civilian,1864474
+2016,Grants Revenue Fund,Managing Director's Office,2,Purchase of Services,250,Professional Consult/spec Services,631750
+2016,Grants Revenue Fund,Managing Director's Office,2,Purchase of Services,290,Payments for Care of Individuals,500000
+2016,Grants Revenue Fund,Managing Director's Office,2,Purchase of Services,299,Other Expenses (not Othrwse Clssfd),2889353
+2016,Grants Revenue Fund,Managing Director's Office,3,Materials and Supplies,399,Other Materials and Supplies (noc),183113
+2016,Grants Revenue Fund,Managing Director's Office,4,Equipment,499,Other Equipment (noc),199895
+2016,Grants Revenue Fund,Police,1,Personal Services,100,Salary Control,5900458
+2016,Grants Revenue Fund,Police,1,Personal Services,187,Worker's Comp-disability Comp,48945
+2016,Grants Revenue Fund,Police,1,Personal Services,189,Medicare Tax,9795
+2016,Grants Revenue Fund,Police,1,Personal Services,191,Pension,91420
+2016,Grants Revenue Fund,Police,1,Personal Services,192,FICA Taxes,1503
+2016,Grants Revenue Fund,Police,1,Personal Services,193,Medical Health & Welfare Credit,192660
+2016,Grants Revenue Fund,Police,1,Personal Services,194,Group Life Insurance,1317
+2016,Grants Revenue Fund,Police,1,Personal Services,195,Group Legal Insurance,3828
+2016,Grants Revenue Fund,Police,2,Purchase of Services,299,Other Expenses (not Othrwse Clssfd),6276769
+2016,Grants Revenue Fund,Police,3,Materials and Supplies,399,Other Materials and Supplies (noc),6040694
+2016,Grants Revenue Fund,Police,4,Equipment,499,Other Equipment (noc),8361852
+2016,Grants Revenue Fund,Streets,1,Personal Services,101,Perm Full Time-civilian,720000
+2016,Grants Revenue Fund,Streets,2,Purchase of Services,299,Other Expenses (not Othrwse Clssfd),31905144
+2016,Grants Revenue Fund,Streets,3,Materials and Supplies,399,Other Materials and Supplies (noc),1849856
+2016,Grants Revenue Fund,Streets,4,Equipment,499,Other Equipment (noc),1755000
+2016,Grants Revenue Fund,Fire,1,Personal Services,101,Perm Full Time-civilian,286323
+2016,Grants Revenue Fund,Fire,1,Personal Services,105,Perm Full Time-uniform,5148037
+2016,Grants Revenue Fund,Fire,1,Personal Services,187,Worker's Comp-disability Comp,495281
+2016,Grants Revenue Fund,Fire,1,Personal Services,189,Medicare Tax,103100
+2016,Grants Revenue Fund,Fire,1,Personal Services,190,Pension-obligation Bond Payments,31949
+2016,Grants Revenue Fund,Fire,1,Personal Services,191,Pension,867035
+2016,Grants Revenue Fund,Fire,1,Personal Services,192,FICA Taxes,13000
+2016,Grants Revenue Fund,Fire,1,Personal Services,193,Medical Health & Welfare Credit,2486865
+2016,Grants Revenue Fund,Fire,1,Personal Services,194,Group Life Insurance,22118
+2016,Grants Revenue Fund,Fire,1,Personal Services,195,Group Legal Insurance,38288
+2016,Grants Revenue Fund,Fire,2,Purchase of Services,299,Other Expenses (not Othrwse Clssfd),1388014
+2016,Grants Revenue Fund,Fire,3,Materials and Supplies,399,Other Materials and Supplies (noc),223348
+2016,Grants Revenue Fund,Fire,4,Equipment,499,Other Equipment (noc),145333
+2016,Grants Revenue Fund,Public Health,1,Personal Services,101,Perm Full Time-civilian,11141642
+2016,Grants Revenue Fund,Public Health,1,Personal Services,186,Flex Cash,5000
+2016,Grants Revenue Fund,Public Health,1,Personal Services,187,Worker's Comp-disability Comp,153362
+2016,Grants Revenue Fund,Public Health,1,Personal Services,189,Medicare Tax,130813
+2016,Grants Revenue Fund,Public Health,1,Personal Services,190,Pension-obligation Bond Payments,332105
+2016,Grants Revenue Fund,Public Health,1,Personal Services,191,Pension,1652683
+2016,Grants Revenue Fund,Public Health,1,Personal Services,192,FICA Taxes,516719
+2016,Grants Revenue Fund,Public Health,1,Personal Services,193,Medical Health & Welfare Credit,1386311
+2016,Grants Revenue Fund,Public Health,1,Personal Services,194,Group Life Insurance,18459
+2016,Grants Revenue Fund,Public Health,1,Personal Services,195,Group Legal Insurance,21638
+2016,Grants Revenue Fund,Public Health,2,Purchase of Services,299,Other Expenses (not Othrwse Clssfd),56755608
+2016,Grants Revenue Fund,Public Health,3,Materials and Supplies,399,Other Materials and Supplies (noc),1059693
+2016,Grants Revenue Fund,Public Health,4,Equipment,499,Other Equipment (noc),641586
+2016,Grants Revenue Fund,Public Health,8,Payments to Other Funds,801,Payments to General Fund,865555
+2016,Grants Revenue Fund,Office of Behavioral Health and Intellectual disAbilities,1,Personal Services,101,Perm Full Time-civilian,15278526
+2016,Grants Revenue Fund,Office of Behavioral Health and Intellectual disAbilities,1,Personal Services,186,Flex Cash,3036
+2016,Grants Revenue Fund,Office of Behavioral Health and Intellectual disAbilities,1,Personal Services,187,Worker's Comp-disability Comp,220701
+2016,Grants Revenue Fund,Office of Behavioral Health and Intellectual disAbilities,1,Personal Services,189,Medicare Tax,154427
+2016,Grants Revenue Fund,Office of Behavioral Health and Intellectual disAbilities,1,Personal Services,190,Pension-obligation Bond Payments,641455
+2016,Grants Revenue Fund,Office of Behavioral Health and Intellectual disAbilities,1,Personal Services,191,Pension,3939719
+2016,Grants Revenue Fund,Office of Behavioral Health and Intellectual disAbilities,1,Personal Services,192,FICA Taxes,517357
+2016,Grants Revenue Fund,Office of Behavioral Health and Intellectual disAbilities,1,Personal Services,193,Medical Health & Welfare Credit,2332547
+2016,Grants Revenue Fund,Office of Behavioral Health and Intellectual disAbilities,1,Personal Services,194,Group Life Insurance,31754
+2016,Grants Revenue Fund,Office of Behavioral Health and Intellectual disAbilities,1,Personal Services,195,Group Legal Insurance,23367
+2016,Grants Revenue Fund,Office of Behavioral Health and Intellectual disAbilities,2,Purchase of Services,284,Ground and Building Rental,1478000
+2016,Grants Revenue Fund,Office of Behavioral Health and Intellectual disAbilities,2,Purchase of Services,299,Other Expenses (not Othrwse Clssfd),229743587
+2016,Grants Revenue Fund,Office of Behavioral Health and Intellectual disAbilities,3,Materials and Supplies,399,Other Materials and Supplies (noc),221250
+2016,Grants Revenue Fund,Office of Behavioral Health and Intellectual disAbilities,4,Equipment,499,Other Equipment (noc),135940
+2016,Grants Revenue Fund,Office of Behavioral Health and Intellectual disAbilities,8,Payments to Other Funds,801,Payments to General Fund,76248
+2016,Grants Revenue Fund,Parks and Recreation,1,Personal Services,101,Perm Full Time-civilian,1521520
+2016,Grants Revenue Fund,Parks and Recreation,1,Personal Services,121,Temporary Seasonal,1830705
+2016,Grants Revenue Fund,Parks and Recreation,1,Personal Services,187,Worker's Comp-disability Comp,96892
+2016,Grants Revenue Fund,Parks and Recreation,1,Personal Services,188,Worker's Comp-medical,8465
+2016,Grants Revenue Fund,Parks and Recreation,1,Personal Services,189,Medicare Tax,48032
+2016,Grants Revenue Fund,Parks and Recreation,1,Personal Services,190,Pension-obligation Bond Payments,62626
+2016,Grants Revenue Fund,Parks and Recreation,1,Personal Services,191,Pension,72406
+2016,Grants Revenue Fund,Parks and Recreation,1,Personal Services,192,FICA Taxes,175386
+2016,Grants Revenue Fund,Parks and Recreation,1,Personal Services,193,Medical Health & Welfare Credit,19272
+2016,Grants Revenue Fund,Parks and Recreation,1,Personal Services,194,Group Life Insurance,904
+2016,Grants Revenue Fund,Parks and Recreation,1,Personal Services,195,Group Legal Insurance,144
+2016,Grants Revenue Fund,Parks and Recreation,2,Purchase of Services,250,Professional Consult/spec Services,184020
+2016,Grants Revenue Fund,Parks and Recreation,2,Purchase of Services,299,Other Expenses (not Othrwse Clssfd),738683
+2016,Grants Revenue Fund,Parks and Recreation,3,Materials and Supplies,399,Other Materials and Supplies (noc),6335874
+2016,Grants Revenue Fund,Parks and Recreation,4,Equipment,499,Other Equipment (noc),70000
+2016,Grants Revenue Fund,Parks and Recreation,5,"Contributions, Indemnities, Refunds, Taxes",505,Contributions-ed & Non-prof Rec Org,110000
+2016,Grants Revenue Fund,Human Services,1,Personal Services,100,Salary Control,3278245
+2016,Grants Revenue Fund,Human Services,1,Personal Services,101,Perm Full Time-civilian,67253785
+2016,Grants Revenue Fund,Human Services,1,Personal Services,111,Perm Part Time,6513
+2016,Grants Revenue Fund,Human Services,1,Personal Services,161,Overtime Civilian,8883538
+2016,Grants Revenue Fund,Human Services,1,Personal Services,171,"Holiday ""g""(2/3 Shifts)",241293
+2016,Grants Revenue Fund,Human Services,1,Personal Services,181,Shift,109746
+2016,Grants Revenue Fund,Human Services,1,Personal Services,187,Worker's Comp-disability Comp,1070313
+2016,Grants Revenue Fund,Human Services,1,Personal Services,189,Medicare Tax,692472
+2016,Grants Revenue Fund,Human Services,1,Personal Services,190,Pension-obligation Bond Payments,2316145
+2016,Grants Revenue Fund,Human Services,1,Personal Services,191,Pension,17385074
+2016,Grants Revenue Fund,Human Services,1,Personal Services,192,FICA Taxes,2955615
+2016,Grants Revenue Fund,Human Services,1,Personal Services,193,Medical Health & Welfare Credit,12502791
+2016,Grants Revenue Fund,Human Services,1,Personal Services,194,Group Life Insurance,116049
+2016,Grants Revenue Fund,Human Services,1,Personal Services,195,Group Legal Insurance,137467
+2016,Grants Revenue Fund,Human Services,2,Purchase of Services,205,Refuse/garbage/silt/sludge Removal,38331
+2016,Grants Revenue Fund,Human Services,2,Purchase of Services,216,Commercial Off-shelf Comp Software,254412
+2016,Grants Revenue Fund,Human Services,2,Purchase of Services,250,Professional Consult/spec Services,85668645
+2016,Grants Revenue Fund,Human Services,2,Purchase of Services,266,Maint/support-computr Hardware/soft,36999
+2016,Grants Revenue Fund,Human Services,2,Purchase of Services,284,Ground and Building Rental,847402
+2016,Grants Revenue Fund,Human Services,2,Purchase of Services,290,Payments for Care of Individuals,119030147
+2016,Grants Revenue Fund,Human Services,2,Purchase of Services,299,Other Expenses (not Othrwse Clssfd),245296528
+2016,Grants Revenue Fund,Human Services,3,Materials and Supplies,313,Food,224400
+2016,Grants Revenue Fund,Human Services,3,Materials and Supplies,399,Other Materials and Supplies (noc),1112797
+2016,Grants Revenue Fund,Human Services,4,Equipment,499,Other Equipment (noc),1370347
+2016,Grants Revenue Fund,Prisons,2,Purchase of Services,299,Other Expenses (not Othrwse Clssfd),30000
+2016,Grants Revenue Fund,Office of Supportive Housing,1,Personal Services,101,Perm Full Time-civilian,710423
+2016,Grants Revenue Fund,Office of Supportive Housing,2,Purchase of Services,250,Professional Consult/spec Services,30000000
+2016,Grants Revenue Fund,Office of Supportive Housing,2,Purchase of Services,299,Other Expenses (not Othrwse Clssfd),14956142
+2016,Grants Revenue Fund,Office of Supportive Housing,3,Materials and Supplies,399,Other Materials and Supplies (noc),887489
+2016,Grants Revenue Fund,Licenses and Inspections,2,Purchase of Services,262,Demolition of Buildings,4500000
+2016,Grants Revenue Fund,Finance,9,Advances & Other Misc Payments,999,Standby Authorizations,203800721
+2016,Grants Revenue Fund,Revenue,2,Purchase of Services,250,Professional Consult/spec Services,21150000
+2016,Grants Revenue Fund,Commerce,1,Personal Services,101,Perm Full Time-civilian,49814
+2016,Grants Revenue Fund,Commerce,2,Purchase of Services,299,Other Expenses (not Othrwse Clssfd),10811988
+2016,Grants Revenue Fund,Mayor's Office of Transportation & Utilities,1,Personal Services,101,Perm Full Time-civilian,127583
+2016,Grants Revenue Fund,Mayor's Office of Transportation & Utilities,2,Purchase of Services,299,Other Expenses (not Othrwse Clssfd),1698435
+2016,Grants Revenue Fund,Mayor's Office of Transportation & Utilities,3,Materials and Supplies,399,Other Materials and Supplies (noc),2500
+2016,Grants Revenue Fund,Office of Sustainability,1,Personal Services,101,Perm Full Time-civilian,40000
+2016,Grants Revenue Fund,City Planning Commission,1,Personal Services,100,Salary Control,78220
+2016,Grants Revenue Fund,City Planning Commission,1,Personal Services,101,Perm Full Time-civilian,255394
+2016,Grants Revenue Fund,City Planning Commission,1,Personal Services,187,Worker's Comp-disability Comp,8638
+2016,Grants Revenue Fund,City Planning Commission,1,Personal Services,189,Medicare Tax,8150
+2016,Grants Revenue Fund,City Planning Commission,1,Personal Services,191,Pension,30175
+2016,Grants Revenue Fund,City Planning Commission,1,Personal Services,192,FICA Taxes,20925
+2016,Grants Revenue Fund,City Planning Commission,1,Personal Services,193,Medical Health & Welfare Credit,72575
+2016,Grants Revenue Fund,City Planning Commission,1,Personal Services,194,Group Life Insurance,368
+2016,Grants Revenue Fund,City Planning Commission,1,Personal Services,195,Group Legal Insurance,816
+2016,Grants Revenue Fund,City Planning Commission,2,Purchase of Services,200,Purchase of Services Control,436000
+2016,Grants Revenue Fund,City Planning Commission,2,Purchase of Services,299,Other Expenses (not Othrwse Clssfd),519206
+2016,Grants Revenue Fund,City Planning Commission,8,Payments to Other Funds,800,Pmt to Other Funds Control,1200
+2016,Grants Revenue Fund,City Planning Commission,8,Payments to Other Funds,801,Payments to General Fund,400
+2016,Grants Revenue Fund,Free Library,1,Personal Services,100,Salary Control,1093985
+2016,Grants Revenue Fund,Free Library,1,Personal Services,187,Worker's Comp-disability Comp,4333
+2016,Grants Revenue Fund,Free Library,1,Personal Services,189,Medicare Tax,1594
+2016,Grants Revenue Fund,Free Library,1,Personal Services,190,Pension-obligation Bond Payments,17095
+2016,Grants Revenue Fund,Free Library,1,Personal Services,191,Pension,45430
+2016,Grants Revenue Fund,Free Library,1,Personal Services,192,FICA Taxes,10682
+2016,Grants Revenue Fund,Free Library,1,Personal Services,193,Medical Health & Welfare Credit,51808
+2016,Grants Revenue Fund,Free Library,1,Personal Services,194,Group Life Insurance,629
+2016,Grants Revenue Fund,Free Library,1,Personal Services,195,Group Legal Insurance,528
+2016,Grants Revenue Fund,Free Library,2,Purchase of Services,299,Other Expenses (not Othrwse Clssfd),3921223
+2016,Grants Revenue Fund,Free Library,3,Materials and Supplies,399,Other Materials and Supplies (noc),3221883
+2016,Grants Revenue Fund,Free Library,4,Equipment,499,Other Equipment (noc),144854
+2016,Grants Revenue Fund,City Controller,3,Materials and Supplies,399,Other Materials and Supplies (noc),74999
+2016,Grants Revenue Fund,City Controller,4,Equipment,499,Other Equipment (noc),175000
+2016,Grants Revenue Fund,District Attorney,1,Personal Services,101,Perm Full Time-civilian,14930000
+2016,Grants Revenue Fund,District Attorney,1,Personal Services,193,Medical Health & Welfare Credit,545000
+2016,Grants Revenue Fund,District Attorney,2,Purchase of Services,299,Other Expenses (not Othrwse Clssfd),1124880
+2016,Grants Revenue Fund,District Attorney,3,Materials and Supplies,399,Other Materials and Supplies (noc),26000
+2016,Grants Revenue Fund,District Attorney,4,Equipment,499,Other Equipment (noc),84462
+2016,Grants Revenue Fund,City Commissioners,1,Personal Services,101,Perm Full Time-civilian,100000
+2016,Grants Revenue Fund,City Commissioners,2,Purchase of Services,299,Other Expenses (not Othrwse Clssfd),600000
+2016,Grants Revenue Fund,City Commissioners,3,Materials and Supplies,399,Other Materials and Supplies (noc),100000
+2016,Grants Revenue Fund,City Commissioners,4,Equipment,499,Other Equipment (noc),100000
+2016,Grants Revenue Fund,First Judicial District,1,Personal Services,101,Perm Full Time-civilian,34698587
+2016,Grants Revenue Fund,First Judicial District,1,Personal Services,187,Worker's Comp-disability Comp,595009
+2016,Grants Revenue Fund,First Judicial District,1,Personal Services,189,Medicare Tax,383704
+2016,Grants Revenue Fund,First Judicial District,1,Personal Services,190,Pension-obligation Bond Payments,1029837
+2016,Grants Revenue Fund,First Judicial District,1,Personal Services,191,Pension,6448665
+2016,Grants Revenue Fund,First Judicial District,1,Personal Services,192,FICA Taxes,1483006
+2016,Grants Revenue Fund,First Judicial District,1,Personal Services,193,Medical Health & Welfare Credit,5832704
+2016,Grants Revenue Fund,First Judicial District,1,Personal Services,194,Group Life Insurance,174103
+2016,Grants Revenue Fund,First Judicial District,1,Personal Services,195,Group Legal Insurance,70296
+2016,Grants Revenue Fund,First Judicial District,2,Purchase of Services,299,Other Expenses (not Othrwse Clssfd),6775539
+2016,Grants Revenue Fund,First Judicial District,3,Materials and Supplies,399,Other Materials and Supplies (noc),491967
+2016,Grants Revenue Fund,First Judicial District,4,Equipment,499,Other Equipment (noc),323512
+2016,Aviation Fund,Office of Innovation and Technology,1,Personal Services,100,Salary Control,6500
+2016,Aviation Fund,Office of Innovation and Technology,1,Personal Services,101,Perm Full Time-civilian,291190
+2016,Aviation Fund,Office of Innovation and Technology,2,Purchase of Services,209,Telephone,883000
+2016,Aviation Fund,Office of Innovation and Technology,2,Purchase of Services,216,Commercial Off-shelf Comp Software,310681
+2016,Aviation Fund,Office of Innovation and Technology,2,Purchase of Services,250,Professional Consult/spec Services,3000
+2016,Aviation Fund,Office of Innovation and Technology,2,Purchase of Services,251,Information Technology-prof Service,6011933
+2016,Aviation Fund,Office of Innovation and Technology,2,Purchase of Services,266,Maint/support-computr Hardware/soft,1398744
+2016,Aviation Fund,Office of Innovation and Technology,4,Equipment,427,Computer Equipment & Peripherals,715000
+2016,Aviation Fund,Police,1,Personal Services,100,Salary Control,104000
+2016,Aviation Fund,Police,1,Personal Services,101,Perm Full Time-civilian,442970
+2016,Aviation Fund,Police,1,Personal Services,105,Perm Full Time-uniform,11427763
+2016,Aviation Fund,Police,1,Personal Services,110,Uniform Stress Pay,848491
+2016,Aviation Fund,Police,1,Personal Services,152,Uniform Iod Pay (heart & Lung),68618
+2016,Aviation Fund,Police,1,Personal Services,161,Overtime Civilian,18340
+2016,Aviation Fund,Police,1,Personal Services,165,Overtime Shift Uniform,2244652
+2016,Aviation Fund,Police,1,Personal Services,171,"Holiday ""g""(2/3 Shifts)",15400
+2016,Aviation Fund,Police,1,Personal Services,175,Holiday Pay-annual,436902
+2016,Aviation Fund,Police,1,Personal Services,181,Shift,4751
+2016,Aviation Fund,Police,2,Purchase of Services,201,Cleaning and Laundering,77500
+2016,Aviation Fund,Police,3,Materials and Supplies,308,Dry Goods/notions/wearing Apparel,93000
+2016,Aviation Fund,Fire,1,Personal Services,100,Salary Control,100000
+2016,Aviation Fund,Fire,1,Personal Services,105,Perm Full Time-uniform,5137895
+2016,Aviation Fund,Fire,1,Personal Services,107,Fire out of Class Prem(2hr Dif),327000
+2016,Aviation Fund,Fire,1,Personal Services,165,Overtime Shift Uniform,648471
+2016,Aviation Fund,Fire,1,Personal Services,175,Holiday Pay-annual,350000
+2016,Aviation Fund,Fire,2,Purchase of Services,250,Professional Consult/spec Services,15000
+2016,Aviation Fund,Fire,3,Materials and Supplies,308,Dry Goods/notions/wearing Apparel,71000
+2016,Aviation Fund,Fire,3,Materials and Supplies,317,Hospital and Laboratory,14000
+2016,Aviation Fund,Fire,4,Equipment,412,Fire Fighting and Emergency,40000
+2016,Aviation Fund,Fire,8,Payments to Other Funds,803,Payments to Water Fund,23000
+2016,Aviation Fund,Public Property,2,Purchase of Services,220,Electric Current-structures/streets,20000000
+2016,Aviation Fund,Public Property,2,Purchase of Services,221,Gas Services,6900000
+2016,Aviation Fund,Fleet Management,1,Personal Services,101,Perm Full Time-civilian,1038897
+2016,Aviation Fund,Fleet Management,1,Personal Services,161,Overtime Civilian,307838
+2016,Aviation Fund,Fleet Management,1,Personal Services,171,"Holiday ""g""(2/3 Shifts)",10958
+2016,Aviation Fund,Fleet Management,1,Personal Services,181,Shift,6495
+2016,Aviation Fund,Fleet Management,2,Purchase of Services,201,Cleaning and Laundering,8000
+2016,Aviation Fund,Fleet Management,2,Purchase of Services,202,Janitorial Services,10000
+2016,Aviation Fund,Fleet Management,2,Purchase of Services,210,Postage,100
+2016,Aviation Fund,Fleet Management,2,Purchase of Services,211,Transportation,500
+2016,Aviation Fund,Fleet Management,2,Purchase of Services,215,Licenses Permits Inspection Charges,5000
+2016,Aviation Fund,Fleet Management,2,Purchase of Services,250,Professional Consult/spec Services,5000
+2016,Aviation Fund,Fleet Management,2,Purchase of Services,255,Dues,500
+2016,Aviation Fund,Fleet Management,2,Purchase of Services,256,Seminar and Training Sessions,1000
+2016,Aviation Fund,Fleet Management,2,Purchase of Services,260,Repair and Maintenance Charges,547300
+2016,Aviation Fund,Fleet Management,2,Purchase of Services,280,Insurance and Official Bonds,2000
+2016,Aviation Fund,Fleet Management,2,Purchase of Services,285,Rents,5600
+2016,Aviation Fund,Fleet Management,2,Purchase of Services,286,Rental of Parking Spaces,3000
+2016,Aviation Fund,Fleet Management,3,Materials and Supplies,304,Books and Other Publications,2000
+2016,Aviation Fund,Fleet Management,3,Materials and Supplies,305,Building and Construction,3000
+2016,Aviation Fund,Fleet Management,3,Materials and Supplies,307,Chemicals and Gases,5000
+2016,Aviation Fund,Fleet Management,3,Materials and Supplies,308,Dry Goods/notions/wearing Apparel,3500
+2016,Aviation Fund,Fleet Management,3,Materials and Supplies,310,Electrical and Communication,4000
+2016,Aviation Fund,Fleet Management,3,Materials and Supplies,311,General Equipment and Machinery,5000
+2016,Aviation Fund,Fleet Management,3,Materials and Supplies,312,Fire Fighting and Safety,2000
+2016,Aviation Fund,Fleet Management,3,Materials and Supplies,313,Food,500
+2016,Aviation Fund,Fleet Management,3,Materials and Supplies,316,General Hardware and Minor Tools,10000
+2016,Aviation Fund,Fleet Management,3,Materials and Supplies,317,Hospital and Laboratory,1000
+2016,Aviation Fund,Fleet Management,3,Materials and Supplies,318,"Janitorial, Laundry and Household",1000
+2016,Aviation Fund,Fleet Management,3,Materials and Supplies,322,Small Power Tools and Hand Tools,20000
+2016,Aviation Fund,Fleet Management,3,Materials and Supplies,328,Motor Vehicle Parts and Accessories,791000
+2016,Aviation Fund,Fleet Management,3,Materials and Supplies,335,Lubricants,22000
+2016,Aviation Fund,Fleet Management,3,Materials and Supplies,340,#2 Diesel Fuel,318000
+2016,Aviation Fund,Fleet Management,3,Materials and Supplies,345,Gasoline,265000
+2016,Aviation Fund,Fleet Management,4,Equipment,411,General Equipment and Machinery,20000
+2016,Aviation Fund,Fleet Management,4,Equipment,420,Office Equipment,3000
+2016,Aviation Fund,Fleet Management,4,Equipment,423,Plumbing/air Conditioning/space Htg,2000
+2016,Aviation Fund,Fleet Management,4,Equipment,427,Computer Equipment & Peripherals,7000
+2016,Aviation Fund,Fleet Management,4,Equipment,428,Vehicles -- Motor and Motorless,4800000
+2016,Aviation Fund,Fleet Management,4,Equipment,430,Furniture and Furnishings,8000
+2016,Aviation Fund,Finance - Employee Benefits,1,Personal Services,186,Flex Cash,24650
+2016,Aviation Fund,Finance - Employee Benefits,1,Personal Services,187,Worker's Comp-disability Comp,650000
+2016,Aviation Fund,Finance - Employee Benefits,1,Personal Services,188,Worker's Comp-medical,750000
+2016,Aviation Fund,Finance - Employee Benefits,1,Personal Services,189,Medicare Tax,975000
+2016,Aviation Fund,Finance - Employee Benefits,1,Personal Services,190,Pension-obligation Bond Payments,6100000
+2016,Aviation Fund,Finance - Employee Benefits,1,Personal Services,191,Pension,25200000
+2016,Aviation Fund,Finance - Employee Benefits,1,Personal Services,192,FICA Taxes,2900880
+2016,Aviation Fund,Finance - Employee Benefits,1,Personal Services,193,Medical Health & Welfare Credit,20033809
+2016,Aviation Fund,Finance - Employee Benefits,1,Personal Services,194,Group Life Insurance,131515
+2016,Aviation Fund,Finance - Employee Benefits,1,Personal Services,195,Group Legal Insurance,201480
+2016,Aviation Fund,Finance - Employee Benefits,1,Personal Services,196,Unemployment Comp Insurance,200000
+2016,Aviation Fund,Finance - Employee Benefits,1,Personal Services,197,Auto Mechanic Tool Insurance,26937
+2016,Aviation Fund,Finance,2,Purchase of Services,280,Insurance and Official Bonds,4146000
+2016,Aviation Fund,Finance,5,"Contributions, Indemnities, Refunds, Taxes",513,Indemnities-interdepartmental Trans,2512000
+2016,Aviation Fund,Sinking Fund Commission (Debt Service),7,Debt Service,701,Interest on City Debt -- Long-term,58767128
+2016,Aviation Fund,Sinking Fund Commission (Debt Service),7,Debt Service,702,Principal Payments on City Debt-l/t,60215000
+2016,Aviation Fund,Sinking Fund Commission (Debt Service),7,Debt Service,705,Commitment Fee Expense,4423000
+2016,Aviation Fund,Sinking Fund Commission (Debt Service),7,Debt Service,706,Arbitrage Payments,100000
+2016,Aviation Fund,Commerce,1,Personal Services,100,Salary Control,250000
+2016,Aviation Fund,Commerce,1,Personal Services,101,Perm Full Time-civilian,36247207
+2016,Aviation Fund,Commerce,1,Personal Services,109,Plus/minus Gross Adj,250000
+2016,Aviation Fund,Commerce,1,Personal Services,111,Perm Part Time,40000
+2016,Aviation Fund,Commerce,1,Personal Services,121,Temporary Seasonal,950000
+2016,Aviation Fund,Commerce,1,Personal Services,161,Overtime Civilian,7250000
+2016,Aviation Fund,Commerce,1,Personal Services,171,"Holiday ""g""(2/3 Shifts)",880793
+2016,Aviation Fund,Commerce,1,Personal Services,181,Shift,350000
+2016,Aviation Fund,Commerce,2,Purchase of Services,202,Janitorial Services,135000
+2016,Aviation Fund,Commerce,2,Purchase of Services,205,Refuse/garbage/silt/sludge Removal,540000
+2016,Aviation Fund,Commerce,2,Purchase of Services,209,Telephone,90000
+2016,Aviation Fund,Commerce,2,Purchase of Services,211,Transportation,160000
+2016,Aviation Fund,Commerce,2,Purchase of Services,215,Licenses Permits Inspection Charges,90000
+2016,Aviation Fund,Commerce,2,Purchase of Services,216,Commercial Off-shelf Comp Software,190000
+2016,Aviation Fund,Commerce,2,Purchase of Services,230,Meals-non-travel & Officl Entertain,85000
+2016,Aviation Fund,Commerce,2,Purchase of Services,240,Advertising/promotional Activities,1180000
+2016,Aviation Fund,Commerce,2,Purchase of Services,250,Professional Consult/spec Services,29983000
+2016,Aviation Fund,Commerce,2,Purchase of Services,251,Information Technology-prof Service,2063000
+2016,Aviation Fund,Commerce,2,Purchase of Services,252,Accounting and Auditing Services,2257887
+2016,Aviation Fund,Commerce,2,Purchase of Services,253,Legal Services,950000
+2016,Aviation Fund,Commerce,2,Purchase of Services,254,Mental Health & Retardation Service,203000
+2016,Aviation Fund,Commerce,2,Purchase of Services,255,Dues,270000
+2016,Aviation Fund,Commerce,2,Purchase of Services,256,Seminar and Training Sessions,200000
+2016,Aviation Fund,Commerce,2,Purchase of Services,257,Architectural & Engineering Srvcs,9003954
+2016,Aviation Fund,Commerce,2,Purchase of Services,258,Court Reporters,2000
+2016,Aviation Fund,Commerce,2,Purchase of Services,260,Repair and Maintenance Charges,23420000
+2016,Aviation Fund,Commerce,2,Purchase of Services,261,Repaving Repairing & Resurf Streets,1200000
+2016,Aviation Fund,Commerce,2,Purchase of Services,266,Maint/support-computr Hardware/soft,535000
+2016,Aviation Fund,Commerce,2,Purchase of Services,284,Ground and Building Rental,815000
+2016,Aviation Fund,Commerce,2,Purchase of Services,285,Rents,23000000
+2016,Aviation Fund,Commerce,3,Materials and Supplies,304,Books and Other Publications,60000
+2016,Aviation Fund,Commerce,3,Materials and Supplies,305,Building and Construction,729000
+2016,Aviation Fund,Commerce,3,Materials and Supplies,307,Chemicals and Gases,1245000
+2016,Aviation Fund,Commerce,3,Materials and Supplies,308,Dry Goods/notions/wearing Apparel,475000
+2016,Aviation Fund,Commerce,3,Materials and Supplies,310,Electrical and Communication,2000000
+2016,Aviation Fund,Commerce,3,Materials and Supplies,311,General Equipment and Machinery,100000
+2016,Aviation Fund,Commerce,3,Materials and Supplies,312,Fire Fighting and Safety,170000
+2016,Aviation Fund,Commerce,3,Materials and Supplies,314,Fuel -- Heating and Lighting,400000
+2016,Aviation Fund,Commerce,3,Materials and Supplies,316,General Hardware and Minor Tools,705000
+2016,Aviation Fund,Commerce,3,Materials and Supplies,318,"Janitorial, Laundry and Household",1650000
+2016,Aviation Fund,Commerce,3,Materials and Supplies,319,Nautical and Aeronautical,20000
+2016,Aviation Fund,Commerce,3,Materials and Supplies,320,Office Materials and Supplies,142000
+2016,Aviation Fund,Commerce,3,Materials and Supplies,322,Small Power Tools and Hand Tools,100000
+2016,Aviation Fund,Commerce,3,Materials and Supplies,323,Plumbing/air Conditioning/space Htg,805000
+2016,Aviation Fund,Commerce,3,Materials and Supplies,324,"Precision, Photographic and Artists",59000
+2016,Aviation Fund,Commerce,3,Materials and Supplies,325,Printing,60000
+2016,Aviation Fund,Commerce,4,Equipment,405,"Construction, Dredging, Conveying",525000
+2016,Aviation Fund,Commerce,4,Equipment,410,Electrical Lighting Communication,85000
+2016,Aviation Fund,Commerce,4,Equipment,411,General Equipment and Machinery,30000
+2016,Aviation Fund,Commerce,4,Equipment,418,Janitorial and Laundry,85000
+2016,Aviation Fund,Commerce,4,Equipment,419,Nautical and Aeronautical,25000
+2016,Aviation Fund,Commerce,4,Equipment,420,Office Equipment,330000
+2016,Aviation Fund,Commerce,4,Equipment,427,Computer Equipment & Peripherals,2000000
+2016,Aviation Fund,Commerce,4,Equipment,430,Furniture and Furnishings,250000
+2016,Aviation Fund,Commerce,5,"Contributions, Indemnities, Refunds, Taxes",504,Meritorious Awards,1000
+2016,Aviation Fund,Commerce,5,"Contributions, Indemnities, Refunds, Taxes",515,Taxes,2704000
+2016,Aviation Fund,Commerce,5,"Contributions, Indemnities, Refunds, Taxes",589,Other Miscellaneous Claims,1500000
+2016,Aviation Fund,Commerce,8,Payments to Other Funds,801,Payments to General Fund,4100000
+2016,Aviation Fund,Commerce,8,Payments to Other Funds,803,Payments to Water Fund,5000000
+2016,Aviation Fund,Commerce,8,Payments to Other Funds,804,Payments to Capital Projects Fund,15000000
+2016,Aviation Fund,Commerce,8,Payments to Other Funds,807,Payments to Other Funds,500000
+2016,Aviation Fund,Law,1,Personal Services,100,Salary Control,30000
+2016,Aviation Fund,Law,1,Personal Services,101,Perm Full Time-civilian,1462900
+2016,Aviation Fund,Law,1,Personal Services,111,Perm Part Time,70403
+2016,Aviation Fund,Law,1,Personal Services,161,Overtime Civilian,500
+2016,Aviation Fund,Law,2,Purchase of Services,211,Transportation,1500
+2016,Aviation Fund,Law,2,Purchase of Services,250,Professional Consult/spec Services,20500
+2016,Aviation Fund,Law,2,Purchase of Services,253,Legal Services,399189
+2016,Aviation Fund,Law,2,Purchase of Services,256,Seminar and Training Sessions,10089
+2016,Aviation Fund,Law,2,Purchase of Services,258,Court Reporters,1161
+2016,Aviation Fund,Law,3,Materials and Supplies,322,Small Power Tools and Hand Tools,9557
+2016,Aviation Fund,Law,4,Equipment,423,Plumbing/air Conditioning/space Htg,9800
+2016,Aviation Fund,Law,4,Equipment,430,Furniture and Furnishings,5000
+2016,Aviation Fund,Mayor's Office of Transportation & Utilities,1,Personal Services,101,Perm Full Time-civilian,191299
+2016,Aviation Fund,Office of Sustainability,1,Personal Services,101,Perm Full Time-civilian,63873
+2016,Aviation Fund,Office of Sustainability,2,Purchase of Services,216,Commercial Off-shelf Comp Software,30000
+2016,Community Development Fund,Office of Housing and Community Development,1,Personal Services,100,Salary Control,1000000
+2016,Community Development Fund,Office of Housing and Community Development,1,Personal Services,101,Perm Full Time-civilian,3572873
+2016,Community Development Fund,Office of Housing and Community Development,1,Personal Services,121,Temporary Seasonal,36000
+2016,Community Development Fund,Office of Housing and Community Development,1,Personal Services,161,Overtime Civilian,22800
+2016,Community Development Fund,Office of Housing and Community Development,1,Personal Services,171,"Holiday ""g""(2/3 Shifts)",1200
+2016,Community Development Fund,Office of Housing and Community Development,2,Purchase of Services,209,Telephone,13500
+2016,Community Development Fund,Office of Housing and Community Development,2,Purchase of Services,210,Postage,40000
+2016,Community Development Fund,Office of Housing and Community Development,2,Purchase of Services,211,Transportation,1000
+2016,Community Development Fund,Office of Housing and Community Development,2,Purchase of Services,216,Commercial Off-shelf Comp Software,20000
+2016,Community Development Fund,Office of Housing and Community Development,2,Purchase of Services,230,Meals-non-travel & Officl Entertain,1000
+2016,Community Development Fund,Office of Housing and Community Development,2,Purchase of Services,240,Advertising/promotional Activities,50000
+2016,Community Development Fund,Office of Housing and Community Development,2,Purchase of Services,250,Professional Consult/spec Services,53879911
+2016,Community Development Fund,Office of Housing and Community Development,2,Purchase of Services,251,Information Technology-prof Service,10000
+2016,Community Development Fund,Office of Housing and Community Development,2,Purchase of Services,253,Legal Services,10000
+2016,Community Development Fund,Office of Housing and Community Development,2,Purchase of Services,255,Dues,5000
+2016,Community Development Fund,Office of Housing and Community Development,2,Purchase of Services,256,Seminar and Training Sessions,11000
+2016,Community Development Fund,Office of Housing and Community Development,2,Purchase of Services,260,Repair and Maintenance Charges,25000
+2016,Community Development Fund,Office of Housing and Community Development,2,Purchase of Services,266,Maint/support-computr Hardware/soft,40000
+2016,Community Development Fund,Office of Housing and Community Development,2,Purchase of Services,284,Ground and Building Rental,400000
+2016,Community Development Fund,Office of Housing and Community Development,2,Purchase of Services,285,Rents,20000
+2016,Community Development Fund,Office of Housing and Community Development,2,Purchase of Services,299,Other Expenses (not Othrwse Clssfd),100000
+2016,Community Development Fund,Office of Housing and Community Development,3,Materials and Supplies,304,Books and Other Publications,2500
+2016,Community Development Fund,Office of Housing and Community Development,3,Materials and Supplies,320,Office Materials and Supplies,65000
+2016,Community Development Fund,Office of Housing and Community Development,3,Materials and Supplies,325,Printing,60000
+2016,Community Development Fund,Office of Housing and Community Development,3,Materials and Supplies,345,Gasoline,3500
+2016,Community Development Fund,Office of Housing and Community Development,3,Materials and Supplies,399,Other Materials and Supplies (noc),100000
+2016,Community Development Fund,Office of Housing and Community Development,4,Equipment,420,Office Equipment,5000
+2016,Community Development Fund,Office of Housing and Community Development,4,Equipment,427,Computer Equipment & Peripherals,20000
+2016,Community Development Fund,Office of Housing and Community Development,4,Equipment,499,Other Equipment (noc),25000
+2016,Community Development Fund,Office of Housing and Community Development,8,Payments to Other Funds,801,Payments to General Fund,30000
+2016,Community Development Fund,Licenses and Inspections,1,Personal Services,101,Perm Full Time-civilian,514818
+2016,Community Development Fund,Finance - Employee Benefits,1,Personal Services,186,Flex Cash,4406
+2016,Community Development Fund,Finance - Employee Benefits,1,Personal Services,187,Worker's Comp-disability Comp,108947
+2016,Community Development Fund,Finance - Employee Benefits,1,Personal Services,189,Medicare Tax,86905
+2016,Community Development Fund,Finance - Employee Benefits,1,Personal Services,190,Pension-obligation Bond Payments,375000
+2016,Community Development Fund,Finance - Employee Benefits,1,Personal Services,191,Pension,2234017
+2016,Community Development Fund,Finance - Employee Benefits,1,Personal Services,192,FICA Taxes,371665
+2016,Community Development Fund,Finance - Employee Benefits,1,Personal Services,193,Medical Health & Welfare Credit,983216
+2016,Community Development Fund,Finance - Employee Benefits,1,Personal Services,194,Group Life Insurance,43887
+2016,Community Development Fund,Finance - Employee Benefits,1,Personal Services,195,Group Legal Insurance,8028
+2016,Community Development Fund,Finance - Employee Benefits,1,Personal Services,196,Unemployment Comp Insurance,20488
+2016,Community Development Fund,Finance,9,Advances & Other Misc Payments,999,Standby Authorizations,20000000
+2016,Community Development Fund,Commerce,1,Personal Services,100,Salary Control,44545
+2016,Community Development Fund,Commerce,1,Personal Services,101,Perm Full Time-civilian,890909
+2016,Community Development Fund,Commerce,2,Purchase of Services,250,Professional Consult/spec Services,8461248
+2016,Community Development Fund,Commerce,3,Materials and Supplies,320,Office Materials and Supplies,3000
+2016,Community Development Fund,Commerce,4,Equipment,427,Computer Equipment & Peripherals,5000
+2016,Community Development Fund,Law,1,Personal Services,101,Perm Full Time-civilian,154637
+2016,Community Development Fund,City Planning Commission,1,Personal Services,101,Perm Full Time-civilian,280000
+2016,Car Rental Tax Fund,Sinking Fund Commission (Debt Service),2,Purchase of Services,285,Rents,6000000
+2016,Housing Trust Fund,Office of Housing and Community Development,1,Personal Services,101,Perm Full Time-civilian,1250000
+2016,Housing Trust Fund,Office of Housing and Community Development,2,Purchase of Services,250,Professional Consult/spec Services,23250000
+2016,Acute Care Hospital Assessment Fund,Public Health,1,Personal Services,101,Perm Full Time-civilian,972467
+2016,Acute Care Hospital Assessment Fund,Public Health,1,Personal Services,111,Perm Part Time,4085541
+2016,Acute Care Hospital Assessment Fund,Public Health,2,Purchase of Services,209,Telephone,160000
+2016,Acute Care Hospital Assessment Fund,Public Health,2,Purchase of Services,216,Commercial Off-shelf Comp Software,100000
+2016,Acute Care Hospital Assessment Fund,Public Health,2,Purchase of Services,230,Meals-non-travel & Officl Entertain,4832
+2016,Acute Care Hospital Assessment Fund,Public Health,2,Purchase of Services,250,Professional Consult/spec Services,155174083
+2016,Acute Care Hospital Assessment Fund,Public Health,2,Purchase of Services,266,Maint/support-computr Hardware/soft,200000
+2016,Acute Care Hospital Assessment Fund,Public Health,3,Materials and Supplies,310,Electrical and Communication,3000
+2016,Acute Care Hospital Assessment Fund,Public Health,3,Materials and Supplies,320,Office Materials and Supplies,10000
+2016,Acute Care Hospital Assessment Fund,Public Health,3,Materials and Supplies,399,Other Materials and Supplies (noc),8000
+2016,Acute Care Hospital Assessment Fund,Public Health,4,Equipment,427,Computer Equipment & Peripherals,60000
+2016,Acute Care Hospital Assessment Fund,Public Health,8,Payments to Other Funds,804,Payments to Capital Projects Fund,2000000
+2016,Acute Care Hospital Assessment Fund,Finance,1,Personal Services,101,Perm Full Time-civilian,75000
+2016,Acute Care Hospital Assessment Fund,Finance - Employee Benefits,1,Personal Services,187,Worker's Comp-disability Comp,16923
+2016,Acute Care Hospital Assessment Fund,Finance - Employee Benefits,1,Personal Services,189,Medicare Tax,8900
+2016,Acute Care Hospital Assessment Fund,Finance - Employee Benefits,1,Personal Services,190,Pension-obligation Bond Payments,12472
+2016,Acute Care Hospital Assessment Fund,Finance - Employee Benefits,1,Personal Services,191,Pension,29625
+2016,Acute Care Hospital Assessment Fund,Finance - Employee Benefits,1,Personal Services,192,FICA Taxes,37785
+2016,Acute Care Hospital Assessment Fund,Finance - Employee Benefits,1,Personal Services,193,Medical Health & Welfare Credit,160274
+2016,Acute Care Hospital Assessment Fund,Finance - Employee Benefits,1,Personal Services,194,Group Life Insurance,500
+2016,Acute Care Hospital Assessment Fund,Finance - Employee Benefits,1,Personal Services,195,Group Legal Insurance,1598
+2016,Acute Care Hospital Assessment Fund,Revenue,1,Personal Services,101,Perm Full Time-civilian,30000
+2016,Acute Care Hospital Assessment Fund,Revenue,3,Materials and Supplies,320,Office Materials and Supplies,5000
+2016,Acute Care Hospital Assessment Fund,Revenue,4,Equipment,420,Office Equipment,10000
+2016,Undistributed Pension Funds,Board of Pensions and Retirement,1,Personal Services,100,Salary Control,20000
+2016,Undistributed Pension Funds,Board of Pensions and Retirement,1,Personal Services,101,Perm Full Time-civilian,3726903
+2016,Undistributed Pension Funds,Board of Pensions and Retirement,1,Personal Services,121,Temporary Seasonal,2000
+2016,Undistributed Pension Funds,Board of Pensions and Retirement,1,Personal Services,161,Overtime Civilian,1000
+2016,Undistributed Pension Funds,Board of Pensions and Retirement,1,Personal Services,181,Shift,97
+2016,Undistributed Pension Funds,Finance - Employee Benefits,1,Personal Services,187,Worker's Comp-disability Comp,75000
+2016,Undistributed Pension Funds,Finance - Employee Benefits,1,Personal Services,189,Medicare Tax,50000
+2016,Undistributed Pension Funds,Finance - Employee Benefits,1,Personal Services,190,Pension-obligation Bond Payments,350000
+2016,Undistributed Pension Funds,Finance - Employee Benefits,1,Personal Services,191,Pension,1600000
+2016,Undistributed Pension Funds,Finance - Employee Benefits,1,Personal Services,192,FICA Taxes,220000
+2016,Undistributed Pension Funds,Finance - Employee Benefits,1,Personal Services,193,Medical Health & Welfare Credit,1100000
+2016,Undistributed Pension Funds,Finance - Employee Benefits,1,Personal Services,194,Group Life Insurance,15000
+2016,Undistributed Pension Funds,Finance - Employee Benefits,1,Personal Services,195,Group Legal Insurance,10000
+2016,Undistributed Pension Funds,Board of Pensions and Retirement,2,Purchase of Services,209,Telephone,3000
+2016,Undistributed Pension Funds,Board of Pensions and Retirement,2,Purchase of Services,210,Postage,80000
+2016,Undistributed Pension Funds,Board of Pensions and Retirement,2,Purchase of Services,211,Transportation,10000
+2016,Undistributed Pension Funds,Board of Pensions and Retirement,2,Purchase of Services,216,Commercial Off-shelf Comp Software,10000
+2016,Undistributed Pension Funds,Board of Pensions and Retirement,2,Purchase of Services,250,Professional Consult/spec Services,1211000
+2016,Undistributed Pension Funds,Board of Pensions and Retirement,2,Purchase of Services,251,Information Technology-prof Service,235000
+2016,Undistributed Pension Funds,Board of Pensions and Retirement,2,Purchase of Services,252,Accounting and Auditing Services,73000
+2016,Undistributed Pension Funds,Board of Pensions and Retirement,2,Purchase of Services,253,Legal Services,100000
+2016,Undistributed Pension Funds,Board of Pensions and Retirement,2,Purchase of Services,255,Dues,1000
+2016,Undistributed Pension Funds,Board of Pensions and Retirement,2,Purchase of Services,256,Seminar and Training Sessions,1000
+2016,Undistributed Pension Funds,Board of Pensions and Retirement,2,Purchase of Services,258,Court Reporters,10000
+2016,Undistributed Pension Funds,Board of Pensions and Retirement,2,Purchase of Services,260,Repair and Maintenance Charges,10000
+2016,Undistributed Pension Funds,Board of Pensions and Retirement,2,Purchase of Services,266,Maint/support-computr Hardware/soft,2000
+2016,Undistributed Pension Funds,Board of Pensions and Retirement,2,Purchase of Services,281,Lease Payments-phila Municipal Auth,791000
+2016,Undistributed Pension Funds,Board of Pensions and Retirement,2,Purchase of Services,285,Rents,1000
+2016,Undistributed Pension Funds,Board of Pensions and Retirement,3,Materials and Supplies,304,Books and Other Publications,3000
+2016,Undistributed Pension Funds,Board of Pensions and Retirement,3,Materials and Supplies,313,Food,6000
+2016,Undistributed Pension Funds,Board of Pensions and Retirement,3,Materials and Supplies,316,General Hardware and Minor Tools,1000
+2016,Undistributed Pension Funds,Board of Pensions and Retirement,3,Materials and Supplies,320,Office Materials and Supplies,30000
+2016,Undistributed Pension Funds,Board of Pensions and Retirement,3,Materials and Supplies,324,"Precision, Photographic and Artists",10000
+2016,Undistributed Pension Funds,Board of Pensions and Retirement,3,Materials and Supplies,325,Printing,75000
+2016,Undistributed Pension Funds,Board of Pensions and Retirement,4,Equipment,420,Office Equipment,6000
+2016,Undistributed Pension Funds,Board of Pensions and Retirement,4,Equipment,427,Computer Equipment & Peripherals,5000
+2016,Undistributed Pension Funds,Board of Pensions and Retirement,4,Equipment,430,Furniture and Furnishings,2000
+2016,Undistributed Pension Funds,Board of Pensions and Retirement,8,Payments to Other Funds,801,Payments to General Fund,125000
+2016,Water Residual Fund,Water,8,Payments to Other Funds,801,Payments to General Fund,1224000
+2016,Water Residual Fund,Water,8,Payments to Other Funds,804,Payments to Capital Projects Fund,33500000
