@@ -10,11 +10,11 @@ NEST_KEYS = ['fund', 'department', 'class']
 INPUT_FILES = [
   {
     'fiscal_year': '2016',
-    'path': './output/FY2016-adopted.csv',
+    'path': './input/FY16-adopted.csv',
   },
   {
     'fiscal_year': '2017',
-    'path': './output/FY2017-adopted.csv',
+    'path': './input/FY17-adopted.csv',
   },
 ]
 
