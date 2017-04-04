@@ -1,0 +1,4 @@
+docx2txt
+pyyaml
+titlecase
+
