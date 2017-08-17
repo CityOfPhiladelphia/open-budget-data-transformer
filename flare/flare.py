@@ -3,18 +3,18 @@ import csv
 from collections import defaultdict
 import random
 
-SORT_BY = '2017'
+SORT_BY = '2018'
 
-NEST_KEYS = ['fund', 'department', 'class']
+NEST_KEYS = ['fund', 'department', 'class', 'subclass']
 
 INPUT_FILES = [
   {
-    'fiscal_year': '2016',
-    'path': './output/FY2016-adopted.csv',
+    'fiscal_year': '2017',
+    'path': './input/FY17-adopted.csv',
   },
   {
-    'fiscal_year': '2017',
-    'path': './output/FY2017-adopted.csv',
+    'fiscal_year': '2018',
+    'path': './input/FY18-adopted.csv',
   },
 ]
 
@@ -44,11 +44,11 @@ def nest(rows, keys, current_index=0, sort_by=None):
     group_dict['children'].append(row)
 
   # For each grouping, recurse on its children until at last key
-  for key, val in grouped_rows.iteritems():
+  for key, val in grouped_rows.items():
     if len(keys) > current_index + 1:
       val['children'] = nest(val['children'], keys, current_index=current_index + 1, sort_by=sort_by).values()
       if sort_by:
-        val['children'].sort(key=lambda row: -row['gross_cost']['accounts'][sort_by])
+        val['children'] = sorted(val['children'], key=lambda row: -row['gross_cost']['accounts'][sort_by])
     else:
       del(val['children'])
   
@@ -57,11 +57,11 @@ def nest(rows, keys, current_index=0, sort_by=None):
 # Read files into one list of dicts
 rows = []
 for file in INPUT_FILES:
-  with open(file['path'], 'rb') as file:
+  with open(file['path'], 'rt') as file:
     rows = rows + list(csv.DictReader(file))
 
 # Nest the list by list of keys recursively
 nested_rows = nest(rows, NEST_KEYS, sort_by=SORT_BY).values()
-nested_rows.sort(key=lambda row: -row['gross_cost']['accounts'][SORT_BY])
+nested_rows = sorted(nested_rows, key=lambda row: -row['gross_cost']['accounts'][SORT_BY])
 
 print(json.dumps(nested_rows, indent=2, sort_keys=True))
