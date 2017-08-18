@@ -4,7 +4,7 @@ to the processed data.
 
 ## usage
 ```bash
-python validator.py FY18-adopted.csv FY18-adopted-tests.yml
+python validate.py FY18-adopted.csv FY18-adopted-tests.yml
 ```
 
 ## test format
