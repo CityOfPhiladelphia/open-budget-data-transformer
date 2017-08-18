@@ -9,11 +9,11 @@
   total: 2800481
  
 - fund: Grants Revenue Fund
-  department: Managing Director's Office
+  department: Managing Director
   class: Purchase of Services
   total: 42977662
  
-- fund: Aviation Fund
+- fund: Airport Operating Fund
   department: Police
   class: Personal Services
   total: 15721670
@@ -28,13 +28,13 @@
   class: Payments to Other Funds
   total: 37000000
  
-- fund: Hotel Room Rental Tax Fund
+- fund: Hotel Tax Fund
   department: Commerce
-  class: Contributions, Indemnities and Taxes
+  class: Contributions, Indemnities, Refunds, Taxes
   total: 70350000
  
 - fund: Grants Revenue Fund
-  department: Department of Planning and Development
+  department: Planning & Development
   class: Purchase of Services
   total: 88486222
  
@@ -60,12 +60,12 @@
   total: 19043874
  
 - fund: General Operating Fund
-  department: Licenses and Inspections
+  department: Licenses & Inspections
   class: Personal Services
   total: 23019730
  
 - fund: General Operating Fund
-  department: Public Health
+  department: Health
   class: Purchase of Services
   total: 73897713
  
@@ -111,8 +111,8 @@
   total: 13270952
  
 - fund: General Operating Fund
-  department: Parks and Recreation
-  class: Contributions. Indemnities and Taxes
+  department: Recreation
+  class: Contributions, Indemnities, Refunds, Taxes
   total: 2647500
  
 - fund: General Operating Fund
@@ -126,18 +126,18 @@
   total: 63874
  
 - fund: Grants Revenue Fund
-  department: Department of Planning and Development
+  department: Planning & Development
   class: Purchase of Services
   total: 88486222
  
 - fund: Community Development Fund
-  department: Department of Planning and Development
+  department: Planning & Development
   class: Purchase of Services
   total: 53092975
 
  
 - fund: Car Rental Tax Fund
-  department: Sinking Fund
+  department: Sinking Fund Commission
   class: Purchase of Services
   total: 7000000
  
@@ -162,6 +162,6 @@
   total: 5872200
  
 - fund: General Operating Fund
-  department: Human Resources
+  department: Personnel
   class: Personal Services
   total: 4983106
