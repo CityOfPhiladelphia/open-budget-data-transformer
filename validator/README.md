@@ -1,10 +1,16 @@
 # Validator
-Automates spotchecking by comparing a YAML file of expected lines
-to the processed data.
+Automates spotchecking by comparing a YAML file of expected values
+to the processed CSV files and `data.json` file.
 
 ## usage
+To validate the `data.json` file:
 ```bash
-python validate.py FY18-adopted.csv FY18-adopted-tests.yml
+validate.py json data.json tests/FY18-adopted-tests.yml 2018
+```
+
+To validate the processed `.csv` files:
+```bash
+validate.py csv FY18-adopted.csv tests/FY18-adopted-tests.yml
 ```
 
 ## test format
@@ -12,20 +18,15 @@ python validate.py FY18-adopted.csv FY18-adopted-tests.yml
 - fund: General Operating Fund
   department: City Council
   class: Personal Services
-  subclass: Salary Control
   total: 100000
 
 - fund: General Operating Fund
   department: Mayor's Office-Labor Relations
   class: Purchase of Services
-  subclass: Transportation
   total: 1500
 ```
 
 ## note
-- Proposed budgets do not have subclasses, so the tests should
-exclude the `subclass` line, and reflect the total for the overall
-`class`.
 - Proposed budgets combine the `Materials and Supplies` and `Equipment`
 classes into one `Materials, Supplies and Equipment` class. Adopted
 budgets have them separate.
