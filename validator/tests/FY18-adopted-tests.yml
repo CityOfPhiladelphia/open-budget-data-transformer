@@ -18,7 +18,7 @@
   class: Personal Services
   total: 15721670
  
-- fund: Water Fund
+- fund: Water Operating Fund
   department: Public Property
   class: Purchase of Services
   total: 4256817
@@ -54,8 +54,8 @@
   class: Purchase of Services
   total: 18110424
  
-- fund: Water Fund
-  department: Office of Innovation and Technology
+- fund: Water Operating Fund
+  department: Office of Innovation & Technology
   class: Purchase of Services
   total: 19043874
  
@@ -72,20 +72,20 @@
 - fund: General Operating Fund
   department: Public Property
   class: Personal Services
-  total: 9401490
+  total: 8547886
  
 - fund: General Operating Fund
   department: Human Services
   class: Purchase of Services
   total: 77424027
  
-- fund: Water Fund
+- fund: Water Operating Fund
   department: Fleet Management
   class: Personal Services
   total: 3062196
  
-- fund: Water Fund
-  department: Sinking Fund
+- fund: Water Operating Fund
+  department: Sinking Fund Commission
   class: Debt Service
   total: 240267536
 
@@ -120,8 +120,8 @@
   class: Purchase of Services
   total: 105455001
  
-- fund: Water Fund
-  department: Office of Sustainability
+- fund: Water Operating Fund
+  department: Mayor-Office of Sustainability
   class: Personal Services
   total: 63874
  
