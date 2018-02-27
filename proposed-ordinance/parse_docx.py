@@ -19,7 +19,7 @@ if __name__ == "__main__":
     except:
         print("Please pass the path to the budget docx file.", file=sys.stderr)
 
-    with open(fname) as f:
+    with open(fname, "rb") as f:
         budget_doc = docx2txt.process(f)
 
     normalizer = DepartmentNormalizer("./departments.yml")
@@ -75,12 +75,12 @@ if __name__ == "__main__":
                 class_id = class_match["id"]
                 subtotal += amount
                 fund_subtotal += amount
-                row = {"Fiscal Year": 2018,
+                row = {"Fiscal Year": 2019,
                        "Fund": fund_name,
                        "Department": department_name,
                        "Class ID": class_id,
                        "Class": class_name,
-                       "Total": "${}".format(amount)}
+                       "Total": amount}
                 rows.append(row)
 
     field_names = ["Fiscal Year", "Fund", "Department", "Class ID", "Class", "Total"]

@@ -16,7 +16,7 @@ class DepartmentNormalizer(object):
 
         for row in rows:
             if isinstance(row, dict):
-                for name, variations in row.iteritems():
+                for name, variations in row.items():
                     self.department_aliases[name.lower()] = name
                     for variation in variations:
                         self.department_aliases[variation.lower()] = name
