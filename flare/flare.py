@@ -3,18 +3,18 @@ import csv
 from collections import defaultdict
 import random
 
-SORT_BY = '2018'
+SORT_BY = '2019'
 
-NEST_KEYS = ['fund', 'department', 'class', 'subclass']
+NEST_KEYS = ['fund', 'department', 'class']#, 'subclass']
 
 INPUT_FILES = [
   {
-    'fiscal_year': '2017',
-    'path': './input/FY17-adopted.csv',
+    'fiscal_year': '2018',
+    'path': '../proposed-ordinance/output/FY18-proposed.csv',
   },
   {
-    'fiscal_year': '2018',
-    'path': './input/FY18-adopted.csv',
+    'fiscal_year': '2019',
+    'path': '../proposed-ordinance/output/FY19-proposed.csv',
   },
 ]
 
